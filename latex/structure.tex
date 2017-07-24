@@ -1,0 +1,32 @@
+%!TEX program = pdflatex
+
+\documentclass{scrreprt}
+
+\usepackage[autostyle]{csquotes}
+
+\usepackage[
+    backend=biber,
+    style=authoryear-icomp,
+    natbib=true,
+    url=false, 
+    doi=true,
+    eprint=false
+]{biblatex}
+\addbibresource{bibtex.bib}
+
+\usepackage[]{hyperref}
+\hypersetup{
+    colorlinks=true,
+}
+
+\usepackage[utf8]{inputenc}
+
+%===================================================================================
+
+\begin{document}
+
+\include{introducao}
+
+\printbibliography 
+
+\end{document}
