@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber structure"] 1500921720 "structure.bcf" "structure.bbl" "structure" 1500921724
+["biber structure"] 1500921720 "structure.bcf" "structure.bbl" "structure" 1501273672
   "bibtex.bib" 1500921720 379 8ef1def61731146bbd2d555dc8931f82 ""
-  "structure.bcf" 1500921724 95858 efe8d21e5678f8c531cd2315486200de ""
+  "structure.bcf" 1501163315 95858 efe8d21e5678f8c531cd2315486200de ""
   (generated)
-  "structure.blg"
   "structure.bbl"
-["pdflatex"] 1500921722 "/home/jgcarvalho/Documents/PhD-thesis/latex/structure.tex" "structure.pdf" "structure" 1500921724
-  "/etc/texmf/web2c/texmf.cnf" 1499260101 1101 af7716885e081ab43982cab7b4672c1a ""
+  "structure.blg"
+["pdflatex"] 1501163314 "/home/jgcarvalho/Documents/PhD-thesis/latex/structure.tex" "structure.pdf" "structure" 1501273672
+  "/etc/texmf/web2c/texmf.cnf" 1500990569 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/jgcarvalho/Documents/PhD-thesis/latex/structure.tex" 1500921720 502 081adeccf6126ae59380500e736d6dc6 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1480098701 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -87,20 +87,20 @@
   "/usr/share/texlive/texmf-dist/tex/latex/url/url.sty" 1480098842 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1498740937 32056 f2fa53deeb4ff8fe080a0f8fca2dba71 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1498740937 32056 f2fa53deeb4ff8fe080a0f8fca2dba71 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1499268995 2371522 4ba42f01e2747ae4284380ebbf7d7170 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1499269015 4128487 1db32428ae5988c5464a766a1d695856 ""
-  "introducao.aux" 1500921724 3994 a25fc31bf9c8691d497dc80fc90e7db0 ""
-  "introducao.tex" 1500920968 115 406887aaada0782e018f3b77700f9aee ""
-  "structure.aux" 1500921724 1349 b50154c573a4a4b54e32c43abbc31e33 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1500990708 2371522 4ba42f01e2747ae4284380ebbf7d7170 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1500990658 4131854 ec3efc4ed02312817970e2fab20b6e39 ""
+  "introducao.aux" 1501163315 3994 64462e393f1ad8d35f8ff7787774e8b7 ""
+  "introducao.tex" 1501163312 189 5e017736be8fa80c733d737b2be3f20b ""
+  "structure.aux" 1501163315 1349 b50154c573a4a4b54e32c43abbc31e33 ""
   "structure.bbl" 1500921722 2770 d96030c2e4d4a43ef351a9577dddab09 "biber structure"
-  "structure.out" 1500921724 51 4d965a2d504ad7b9c802ca0c7990fe0a ""
-  "structure.run.xml" 1500921724 2422 8a86cf43504d69cdb5ff44688b7420d2 ""
+  "structure.out" 1501163315 51 4d965a2d504ad7b9c802ca0c7990fe0a ""
+  "structure.run.xml" 1501163315 2422 8a86cf43504d69cdb5ff44688b7420d2 ""
   "structure.tex" 1500921720 502 081adeccf6126ae59380500e736d6dc6 ""
   (generated)
   "structure.log"
-  "structure.aux"
-  "structure.out"
   "structure.bcf"
-  "introducao.aux"
+  "structure.out"
   "structure.run.xml"
+  "introducao.aux"
+  "structure.aux"
   "structure.pdf"
