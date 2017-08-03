@@ -1,0 +1,42 @@
+\subsection{DSSP}
+
+
+
+As ligações de hidrogênio são definidas utilizando um modelo eletrostático. Por esse modelo, uma ligação de hidrogênio HB ocorrerá se, e somente se, a energia E for menor que -0.5 kcal/mol. Para o cálculo são utilizadas as cargas parcias $+q_1, -q_1$ nos átomos C e O, e $-q_2, +q_2$ nos átomos N e H, onde $q_1=0.42e$ e $q_2=0.20e$.
+
+\begin{gather}
+E < -0.5 kcal/mol \implies \text{HB} = \text{Verdade}
+\intertext{onde} 
+E = q_1q_2(1/r(ON)+1/r(CH)-1/r(OH)-1/r(CN))*f \label{eq:dssp_energy}
+\end{gather}
+
+Na equação \eqref{eq:dssp_energy}, $r(AB)$ é a distância interatômica entre A e B em ângstroms e o fator dimensional $f=332$. 
+
+Os autores afirmam que, por este modelo, uma boa ligação de hidrogênio teria aproximadamente -3 kcal/mol. Assim, a escolha de um limiar em -0.5 kcal/mol torna o modelo mais tolerante à erros nas coordenadas atômicas e à ligações de hidrogênios bifurcadas \citep{kabsch1983}.
+
+% # Abstract
+
+% Atribuição de estruturas secundárias através do reconhecimento de padrões de ligações de hidrogênio e características (features) geométricas extraídas de coordenadas de X-ray.
+
+% Estruturas secundárias cooperativas são reconhecidas por repetições  de padrões de ligações de hidrogênio. Repetições de "turns" formam hélices, repetições de bridges formam "ladders", e "ladders" conectadas formam fitas.
+
+% # Main Ideas
+
+% Algoritmo baseado principalmente em padrões de ligações de hidrogênio. Requer o ajuste de um menor número de parâmetros em relação aos angulos phi e psi, ou as posições dos CA.
+
+% Padrões:
+
+% n-turns - (onde n pode ser 3,4 ou 5) apresentam uma ligação de hidrogênio entre o CO do resíduo i e o NH do resíduo i+n.
+
+% bridges - ligações de hidrôgenio entre resíduos distantes na sequência.
+
+% Esses dois padrões representam todos os possíveis padrões de ligações de hidrogênio entre átomos do backbone.
+
+% Repetições de 4-turns definem uma alpha-hélice. Repetições de bridges definem uma estrutura beta. As outras ocorrências dos padrões básicos podem representar hélices-310, helices-pi, single turns e single beta-bridges.
+
+% # Definições
+
+
+
+
+

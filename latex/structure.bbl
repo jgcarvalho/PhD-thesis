@@ -19,6 +19,39 @@
 
 \refsection{0}
   \sortlist[entry]{nyt/global/}
+    \entry{kabsch1983}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=7f410e758870d5022f40f18e19d55197}{%
+           family={Kabsch},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{uniquename=0,hash=fe52d1a32f8a4d5b93db74a3f31bdb50}{%
+           family={Sander},
+           familyi={S\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{5ce8be718914c8a388f5d1b1455152fc}
+      \strng{fullhash}{5ce8be718914c8a388f5d1b1455152fc}
+      \strng{authornamehash}{5ce8be718914c8a388f5d1b1455152fc}
+      \strng{authorfullhash}{5ce8be718914c8a388f5d1b1455152fc}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biopolymers}
+      \field{number}{12}
+      \field{title}{Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features}
+      \field{volume}{22}
+      \field{year}{1983}
+      \field{pages}{2577\bibrangedash 2637}
+      \range{pages}{61}
+    \endentry
     \entry{kendrew1958three}{article}{}
       \name{author}{6}{}{%
         {{uniquename=0,hash=c916fa59ec19050132750647c497e9a8}{%
