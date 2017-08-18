@@ -213,6 +213,12 @@ INPUT resultados/atribuicao_ss.tex
 INPUT ../figures/comparacao_metodos_atribuicao.pdf
 INPUT ../figures/comparacao_metodos_atribuicao.pdf
 INPUT ../figures/comparacao_metodos_atribuicao.pdf
+INPUT ../figures/distribuicao_comprimento_helices.pdf
+INPUT ../figures/distribuicao_comprimento_helices.pdf
+INPUT ../figures/distribuicao_comprimento_helices.pdf
+INPUT ../figures/distribuicao_comprimento_fitas.pdf
+INPUT ../figures/distribuicao_comprimento_fitas.pdf
+INPUT ../figures/distribuicao_comprimento_fitas.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
