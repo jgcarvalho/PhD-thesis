@@ -177,9 +177,12 @@ OUTPUT rev_literatura/rev_literatura.aux
 INPUT rev_literatura/rev_literatura.tex
 INPUT rev_literatura/rev_literatura.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT rev_literatura/ss_atribuicao/intro.tex
+INPUT rev_literatura/ss_atribuicao/intro.tex
 INPUT rev_literatura/ss_atribuicao/dssp.tex
 INPUT rev_literatura/ss_atribuicao/dssp.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
@@ -219,7 +222,6 @@ INPUT ../figures/distribuicao_comprimento_helices.pdf
 INPUT ../figures/distribuicao_comprimento_fitas.pdf
 INPUT ../figures/distribuicao_comprimento_fitas.pdf
 INPUT ../figures/distribuicao_comprimento_fitas.pdf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT structure.aux
@@ -235,6 +237,7 @@ INPUT structure.run.xml
 OUTPUT structure.run.xml
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb

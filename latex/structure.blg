@@ -1,15 +1,17 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
-[0] Config.pm:357> INFO - Logfile is 'structure.blg'
-[43] biber:303> INFO - === Qui Ago  3, 2017, 15:57:40
+[1] Config.pm:357> INFO - Logfile is 'structure.blg'
+[44] biber:303> INFO - === Qua Ago 30, 2017, 16:13:45
 [66] Biber.pm:359> INFO - Reading 'structure.bcf'
-[169] Biber.pm:835> INFO - Found 2 citekeys in bib section 0
-[187] Biber.pm:3670> INFO - Processing section 0
-[202] Biber.pm:3840> INFO - Looking for bibtex format file 'bibtex.bib' for section 0
-[203] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[207] bibtex.pm:1292> INFO - Found BibTeX data source 'bibtex.bib'
+[162] Biber.pm:835> INFO - Found 2 citekeys in bib section 0
+[181] Biber.pm:3670> INFO - Processing section 0
+[197] Biber.pm:3840> INFO - Looking for bibtex format file 'bibtex.bib' for section 0
+[198] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[203] bibtex.pm:1292> INFO - Found BibTeX data source 'bibtex.bib'
+[212] Utils.pm:164> WARN - month field 'dec' in entry 'Kabsch1983' is not an integer - this will probably not sort properly.
 [235] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
 [235] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
 [235] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
 [235] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[239] bbl.pm:608> INFO - Writing 'structure.bbl' with encoding 'UTF-8'
-[240] bbl.pm:712> INFO - Output to structure.bbl
+[240] bbl.pm:608> INFO - Writing 'structure.bbl' with encoding 'UTF-8'
+[241] bbl.pm:712> INFO - Output to structure.bbl
+[241] Biber.pm:109> INFO - WARNINGS: 1

@@ -19,7 +19,7 @@
 
 \refsection{0}
   \sortlist[entry]{nyt/global/}
-    \entry{kabsch1983}{article}{}
+    \entry{Kabsch1983}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,hash=7f410e758870d5022f40f18e19d55197}{%
            family={Kabsch},
@@ -33,7 +33,7 @@
            giveni={C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Wiley Online Library}%
+        {Wiley-Blackwell}%
       }
       \strng{namehash}{5ce8be718914c8a388f5d1b1455152fc}
       \strng{fullhash}{5ce8be718914c8a388f5d1b1455152fc}
@@ -45,12 +45,19 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Biopolymers}
+      \field{month}{12}
       \field{number}{12}
-      \field{title}{Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features}
+      \field{title}{Dictionary of protein secondary structure: Pattern recognition of hydrogen-bonded and geometrical features}
       \field{volume}{22}
       \field{year}{1983}
       \field{pages}{2577\bibrangedash 2637}
       \range{pages}{61}
+      \verb{doi}
+      \verb 10.1002/bip.360221211
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1002/bip.360221211
+      \endverb
     \endentry
     \entry{kendrew1958three}{article}{}
       \name{author}{6}{}{%

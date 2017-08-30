@@ -1,18 +1,24 @@
 \subsection{DSSP}
 
+Em 1983, Kabsch e Sander publicaram o algoritmo de atribuição de estruturas secundárias de proteínas que viria a ser o mais utilizado até os dias atuais, o DSSP (\textit{Dictionary of Protein Secondary Structure}). 
 
+No trabalho, os autores afirmam que a atribuição de estruturas secundárias a partir das coordenadas atômicas de estruturas proteicas é um problema de reconhecimento de padrões. Nesse contexto, eles optaram por identificar esses padrões através de ligações de hidrogênio entre átomos da cadeia principal ao invés de ângulos $\Phi$ e $\Psi$ ou de posições relativas de $C_\alpha$. A justificativa utilizada foi que a presença ou ausência de ligações de hidrogênio poderiam ser avaliadas por um simples critério energético, enquanto que outras características precisariam do ajuste de um número maior de parâmetros. %sidenote Na época havia um pouco mais de 100 estruturas depositadas
 
-As ligações de hidrogênio são definidas utilizando um modelo eletrostático. Por esse modelo, uma ligação de hidrogênio HB ocorrerá se, e somente se, a energia E for menor que -0.5 kcal/mol. Para o cálculo são utilizadas as cargas parcias $+q_1, -q_1$ nos átomos C e O, e $-q_2, +q_2$ nos átomos N e H, onde $q_1=0.42e$ e $q_2=0.20e$.
+As ligações de hidrogênio foram definidas por eles utilizando um modelo eletrostático. Nesse modelo, uma ligação de hidrogênio $HB$ ocorrerá se, e somente se, a energia $E$ for menor que -0.5 kcal/mol. Para o cálculo são utilizadas as cargas parcias $+q_1, -q_1$ nos átomos $C$ e $O$, e $-q_2, +q_2$ nos átomos $N$ e $H$, onde $q_1=0.42e$ e $q_2=0.20e$.
 
 \begin{gather}
-E < -0.5 kcal/mol \implies \text{HB} = \text{Verdade}
+E < -0.5 kcal/mol \implies HB = \text{Verdade}
 \intertext{onde} 
 E = q_1q_2(1/r(ON)+1/r(CH)-1/r(OH)-1/r(CN))*f \label{eq:dssp_energy}
 \end{gather}
 
 Na equação \eqref{eq:dssp_energy}, $r(AB)$ é a distância interatômica entre A e B em ângstroms e o fator dimensional $f=332$. 
 
-Os autores afirmam que, por este modelo, uma boa ligação de hidrogênio teria aproximadamente -3 kcal/mol. Assim, a escolha de um limiar em -0.5 kcal/mol torna o modelo mais tolerante à erros nas coordenadas atômicas e à ligações de hidrogênios bifurcadas \citep{kabsch1983}.
+Os autores afirmam que, por este modelo, uma boa ligação de hidrogênio teria aproximadamente -3 kcal/mol. Assim, a escolha de um limiar em -0.5 kcal/mol torna o modelo mais tolerante à erros nas coordenadas atômicas e à ligações de hidrogênios bifurcadas \citep{Kabsch1983}.
+
+Uma vez definido o modelo para identificar ligações de hidrogênio, essas são testadas e anotadas na cadeia polipeptídica em duas classes elementares: (1) padrão \textit{n-Turn} e (2) padrão \textit{bridge}. 
+
+O padrão \textit{n-Turn}, onde $n \in \{3, 4, 5\}$, apresentam uma ligação de hidrogênio entre o $CO$ do resíduo $i$ e o $NH$ do resíduo $i+n$.
 
 % # Abstract
 
