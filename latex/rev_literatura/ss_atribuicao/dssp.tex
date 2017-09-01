@@ -16,31 +16,29 @@ Na equação \eqref{eq:dssp_energy}, $r(AB)$ é a distância interatômica entre
 
 Os autores afirmam que, por este modelo, uma boa ligação de hidrogênio teria aproximadamente -3 kcal/mol. Assim, a escolha de um limiar em -0.5 kcal/mol torna o modelo mais tolerante à erros nas coordenadas atômicas e à ligações de hidrogênios bifurcadas \citep{Kabsch1983}.
 
-Uma vez definido o modelo para identificar ligações de hidrogênio, essas são testadas e anotadas na cadeia polipeptídica em duas classes elementares: (1) padrão \textit{n-Turn} e (2) padrão \textit{bridge}. 
+Uma vez definido o modelo para identificar ligações de hidrogênio, essas são testadas e anotadas na cadeia polipeptídica em duas classes, ou padrões, elementares: (1) padrão \textit{n-Turn} e (2) padrão \textit{Bridge}. 
 
-O padrão \textit{n-Turn}, onde $n \in \{3, 4, 5\}$, apresentam uma ligação de hidrogênio entre o $CO$ do resíduo $i$ e o $NH$ do resíduo $i+n$.
+O padrão \textit{n-Turn}, onde $n \in \{3, 4, 5\}$, apresentam uma ligação de hidrogênio entre o $CO$ do resíduo $i$ e o $NH$ do resíduo $i+n$. 
 
-% # Abstract
+\begin{gather}
+\textit{n-Turn} \impliedby Hbond(i,i+n), n \in \{3,4,5\}
+\end{gather}
 
-% Atribuição de estruturas secundárias através do reconhecimento de padrões de ligações de hidrogênio e características (features) geométricas extraídas de coordenadas de X-ray.
+O padrão \textit{Bridge} pode ocorrer de duas formas, a paralela e a antiparalela.
 
-% Estruturas secundárias cooperativas são reconhecidas por repetições  de padrões de ligações de hidrogênio. Repetições de "turns" formam hélices, repetições de bridges formam "ladders", e "ladders" conectadas formam fitas.
+\begin{gather}
+\textit{Parallel Bridge} \impliedby [Hbond(i-1,j) \land Hbond(j,i+1)] \lor [Hbond(j-1,i) \land Hbond(i,j+1)] \\
+\textit{Antiparallel Bridge} \impliedby [Hbond(i,j) \land Hbond(j,i)] \lor [Hbond(i-1,j+1) \land Hbond(j-1,i+1)]
+\end{gather}
 
-% # Main Ideas
+Sendo que as sequências $i-1,i,i+1$ e $j-1,j,j+1$ não apresentam sobreposição (\textit{overlap}) de resíduos entre si.
 
-% Algoritmo baseado principalmente em padrões de ligações de hidrogênio. Requer o ajuste de um menor número de parâmetros em relação aos angulos phi e psi, ou as posições dos CA.
+As ocorrências dos padrões elementares \textit{n-Turn} e \textit{Bridge} ao longo da cadeia polipeptídica é utilizada para a atribuição dos elementos de estrutura secundária. Como exemplos, a repetição de padrões \textit{4-Turn} consecutivos indica a ocorrência de uma hélice $\alpha$, enquanto que resíduos consecutivos que apresentem padrões \textit{Bridge} formam uma fita de uma folha $\beta$.
 
-% Padrões:
+No trabalho, os autores mencionam que esse algoritmo proposto produz hélices mais curtas, com um resíduo a menos em cada extremidade, em relação a anotação seguindo as regras da IUPAC. Outra característica do algoritmo é que hélices que apresentem algumas ligações de hidrogênio ausentes, são mantidas como uma hélice única ao invés de multiplas hélices com \textit{kinks}. O mesmo ocorre com resíduos que formam \textit{bulges} em fitas, sendo os mesmo também anotados como parte da fita. 
 
-% n-turns - (onde n pode ser 3,4 ou 5) apresentam uma ligação de hidrogênio entre o CO do resíduo i e o NH do resíduo i+n.
 
-% bridges - ligações de hidrôgenio entre resíduos distantes na sequência.
 
-% Esses dois padrões representam todos os possíveis padrões de ligações de hidrogênio entre átomos do backbone.
-
-% Repetições de 4-turns definem uma alpha-hélice. Repetições de bridges definem uma estrutura beta. As outras ocorrências dos padrões básicos podem representar hélices-310, helices-pi, single turns e single beta-bridges.
-
-% # Definições
 
 
 

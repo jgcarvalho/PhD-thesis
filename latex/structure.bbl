@@ -115,6 +115,65 @@
       \verb 10.1038/181662a0
       \endverb
     \endentry
+    \entry{Martin2005}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=f058f7e7499f3ebd68527f246db56693}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Juliette},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=5a259ba861cb18edd0e2ee56a5698d14}{%
+           family={Letellier},
+           familyi={L\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=baa5bed595424f6a75832024072ef918}{%
+           family={Marin},
+           familyi={M\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=d2e65bd5af3385ee57b7f0aa1e184c71}{%
+           family={Taly},
+           familyi={T\bibinitperiod},
+           given={Jean-François},
+           giveni={J\bibinithyphendelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=65e83251c3224d5eba18d6f11d2df533}{%
+           family={Brevern},
+           familyi={B\bibinitperiod},
+           given={Alexandre\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{uniquename=0,hash=3e12fda62f1e5f0564b91018c1b70798}{%
+           family={Gibrat},
+           familyi={G\bibinitperiod},
+           given={Jean-François},
+           giveni={J\bibinithyphendelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{39866dc899eea6ce9c1f6df231fed855}
+      \strng{fullhash}{8403753660fb0db9e12016548dd0472a}
+      \strng{authornamehash}{39866dc899eea6ce9c1f6df231fed855}
+      \strng{authorfullhash}{8403753660fb0db9e12016548dd0472a}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{{BMC} Structural Biology}
+      \field{number}{1}
+      \field{volume}{5}
+      \field{year}{2005}
+      \field{pages}{17}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/1472-6807-5-17
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/1472-6807-5-17
+      \endverb
+    \endentry
   \endsortlist
 \endrefsection
 \endinput
