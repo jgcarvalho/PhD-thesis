@@ -1,3 +1,55 @@
 \subsection{KAKSI}
 
-kaksi \citep{Martin2005}
+KAKSI é um método de atribuição de estruturas secundárias proposto por Martin e colaboradores \citeyear{Martin2005}. Esse método foi desenvolvido utilizando padrões de distâncias entre $C_\alpha$ e de ângulos $\Phi$ e $\Psi$.
+
+Resumidamente, a heurística de atribuição de estrutura secundárias busca primeiramente por hélices, sendo que um resíduo é classificado como hélice se atender aos critérios de distâncias entre $C_\alpha$ \underline{ou} aos critérios de ângulos $\Phi$ e $\Psi$. Em seguida, é feito a classificação dos resíduos em fitas. Somente os resíduos não-hélice podem ser classificados em fitas, e para tal, eles precisam atender aos critérios de disntâncias entre $C_\alpha$ \underline{e} aos critérios de ângulos $\Phi$ e $\Psi$.
+
+\begin{enumerate}
+
+\item Critérios para classificação de hélices:
+
+\begin{description}
+
+\item [Distância entre $C_\alpha$] \hfill \\
+Todas as distâncias entre $C_\alpha$ em uma janela de seis resíduos [i,i+5] precisam estar dentro do intervalo $[M_\alpha - \varepsilon_H \times SD_\alpha, M_\alpha + \varepsilon_H \times SD_\alpha]$, onde $M_\alpha$ e $SD_\alpha$ são respectivamente a média e o desvio padrão observado em hélices $\alpha$.
+
+\item [Ângulos $\Phi$ e $\Psi$] \hfill \\
+Todos os pares de ângulos $\Phi$ e $\Psi$ em uma janela de quatro resíduos precisam satifazer as condições:  $\Phi < 0\degree$ e $-90\degree < \Psi < 60\degree$. Além disso, ao menos um par de ângulos precisa estar em uma região densamente povoada, com densidade $> \sigma_H$.
+
+\end{description}
+
+\item Critérios para classificação de folhas:
+
+\begin{description}
+
+\item [Distância entre $C_\alpha$] \hfill \\
+Todos as distâncias entre $C_\alpha$ em duas janelas de três resíduos precisam estar no invervalo $[M_\beta - \varepsilon_b \times SD_\beta, M_\beta + \varepsilon_b \times SD_\beta]$, onde $M_\beta$ e $SD_\beta$ são respectivamente a média e o desvio padrão observado em folhas $\beta$.
+
+\item [Ângulos $\Phi$ e $\Psi$] \hfill \\
+Cada par de ângulos $\Phi$ e $\Psi$ presente na zona povoada de resíduos em folhas $\beta$ incrementa um contador em 1. Quando um resíduo central da janela apresenta $-120\degree < \Psi < 50\degree$, o contador é reiniciado em zero. Esse critério é satifeito se o contator $>= \sigma_b$.
+
+\end{description}
+
+\end{enumerate}
+
+Além destes critérios, há critérios para detecção de \textit{kink} em hélices e um critério de correção de segmentos, que altera um resíduo para o estado de \textit{coil} quando ocorre continuidade de segmentos hélice-fita, ou fita-hélice, tornando as hélices 1 resíduo menor.
+
+Os vários parâmetros necessários ao método foram ajustados empiricamente utilizando um conjunto de 2880 domínios estruturais, com identidade sequencial inferior à 40\%, resolvidos por cristalogria e com resolução superior a 2.25\AA. 
+
+
+
+%  Distance criterion for β-sheets (C3). All the Cα distances in
+% two sliding windows of length w3 (here w3 = 3) must be in
+% the interval [Mβ - εb × SDβ; Mβ + εb × SDβ]. Mβ and SDβ represent the mean and standard deviation of Cα distance
+% distributions in β-sheets.
+
+%  Angle criterion for β-sheets (C4). For each (Φ/Ψ) angle
+% pair falling in the populated zone of the Ramachandran
+% map (density > 0), we increment a counter score(sheet) by
+% 1. If a (Φ/Ψ) angle pair of the central residue of a sliding
+% window verifies -120° < Ψ < 50°, then score(sheet) is reset
+% to zero. The final score(sheet) must be greater or equal to σ
+
+%  Contiguous segments correction, criterion (C5). If a helix
+% and a strand are adjacent, a coil is introduced in between,
+% shortening the helix by one residue.

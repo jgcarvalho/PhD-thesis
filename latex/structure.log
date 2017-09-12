@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.7.25)  31 AUG 2017 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.7.25)  12 SEP 2017 16:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -203,6 +203,9 @@ File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
@@ -558,7 +561,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip73
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 22.
+Package hyperref Info: Option `colorlinks' set `true' on input line 23.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
@@ -881,13 +884,13 @@ Now handling font encoding PD1 ...
    defining Unicode char U+2423 (decimal 9251)
 ))
 
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 28.
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 29.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
 
 Package csquotes Warning: No multilingual support.
-(csquotes)                Cannot enable multilingual quotes on input line 28.
+(csquotes)                Cannot enable multilingual quotes on input line 29.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -898,20 +901,20 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 (./rev_literatura/rev_literatura.aux) (./resultados/resultados.aux))
 \openout1 = `structure.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -943,6 +946,18 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+LaTeX Info: Redefining \celsius on input line 29.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 29.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 29.
+Package gensymb Info: Using \Omega for \ohm on input line 29.
+
+Package gensymb Warning: Not defining \micro.
+
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -950,10 +965,9 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'structure.bbl' found.
-
 (./structure.bbl)
-Package biblatex Info: Reference section=0 on input line 28.
-Package biblatex Info: Reference segment=0 on input line 28.
+Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference segment=0 on input line 29.
 \AtBeginShipoutBox=\box31
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
@@ -963,7 +977,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 28.
+Package hyperref Info: Link coloring ON on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -973,9 +987,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count309
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
 
 (./structure.out) (./structure.out)
 \@outlinefile=\write5
@@ -1013,35 +1027,35 @@ ao longo da cadeia polipept^^S^^Pdica
  []
 
 ) (./rev_literatura/ss_atribuicao/stride.tex)
-(./rev_literatura/ss_atribuicao/kaksi.tex)
+(./rev_literatura/ss_atribuicao/kaksi.tex [3])
 (./rev_literatura/ss_atribuicao/pross.tex)
 (./rev_literatura/ss_predicao/1_geracao.tex)
 (./rev_literatura/ss_predicao/2_geracao.tex)
 (./rev_literatura/ss_predicao/3_geracao.tex)
-(./rev_literatura/ss_predicao/4_geracao.tex [3])) [4]
+(./rev_literatura/ss_predicao/4_geracao.tex)) [4] [5]
 \openout2 = `resultados/resultados.aux'.
 
 
 (./resultados/resultados.tex
 chapter 3.
 (./resultados/atribuicao_ss.tex
-<../figures/comparacao_metodos_atribuicao.pdf, id=98, pagebox=cropbox, 578.16pt
- x 397.485pt>
+<../figures/comparacao_metodos_atribuicao.pdf, id=103, pagebox=cropbox, 578.16p
+t x 397.485pt>
 File: ../figures/comparacao_metodos_atribuicao.pdf Graphic file (type pdf)
 <use ../figures/comparacao_metodos_atribuicao.pdf>
 Package pdftex.def Info: ../figures/comparacao_metodos_atribuicao.pdf  used on 
 input line 19. on input line 19.
 Package pdftex.def Info: Requested size: 418.25555pt x 287.54756pt on input lin
 e 19.
-<../figures/distribuicao_comprimento_helices.pdf, id=99, pagebox=cropbox, 433.6
-2pt x 289.08pt>
+<../figures/distribuicao_comprimento_helices.pdf, id=104, pagebox=cropbox, 433.
+62pt x 289.08pt>
 File: ../figures/distribuicao_comprimento_helices.pdf Graphic file (type pdf)
 <use ../figures/distribuicao_comprimento_helices.pdf>
 Package pdftex.def Info: ../figures/distribuicao_comprimento_helices.pdf  used 
 on input line 26. on input line 26.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 26.
-<../figures/distribuicao_comprimento_fitas.pdf, id=100, pagebox=cropbox, 433.62
+<../figures/distribuicao_comprimento_fitas.pdf, id=105, pagebox=cropbox, 433.62
 pt x 289.08pt>
 File: ../figures/distribuicao_comprimento_fitas.pdf Graphic file (type pdf)
 <use ../figures/distribuicao_comprimento_fitas.pdf>
@@ -1049,23 +1063,23 @@ Package pdftex.def Info: ../figures/distribuicao_comprimento_fitas.pdf  used on
  input line 32. on input line 32.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 32.
-)) [5
+)) [6
 
 
 
-] [6 <../figures/comparacao_metodos_atribuicao.pdf>] [7 <../figures/distribuica
-o_comprimento_helices.pdf>] [8 <../figures/distribuicao_comprimento_fitas.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
- [9
+] [7 <../figures/comparacao_metodos_atribuicao.pdf>] [8 <../figures/distribuica
+o_comprimento_helices.pdf>] [9 <../figures/distribuicao_comprimento_fitas.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
+ [10
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
  (./structure.aux
 (./introducao/introducao.aux) (./rev_literatura/rev_literatura.aux)
 (./resultados/resultados.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
 Package rerunfilecheck Info: File `structure.out' has not changed.
 (rerunfilecheck)             Checksum: 33D7DD55583934345FC9EE3265989CFF;1042.
 Package logreq Info: Writing requests to 'structure.run.xml'.
@@ -1073,10 +1087,10 @@ Package logreq Info: Writing requests to 'structure.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15176 strings out of 492990
- 258946 string characters out of 6135005
- 817036 words of memory out of 5000000
- 18481 multiletter control sequences out of 15000+600000
+ 15229 strings out of 492990
+ 259662 string characters out of 6135005
+ 818239 words of memory out of 5000000
+ 18527 multiletter control sequences out of 15000+600000
  10050 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,10n,66p,8864b,1329s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1087,12 +1101,13 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmtt10.pfb>
-Output written on structure.pdf (9 pages, 177923 bytes).
+1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmtt10.pfb>
+Output written on structure.pdf (10 pages, 191478 bytes).
 PDF statistics:
- 298 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 310 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
  128 words of extra memory for PDF output out of 10000 (max. 10000000)
 
