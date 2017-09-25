@@ -1,3 +1,18 @@
 \subsection{Terceira geração} 
 
-terceira geração - aprendizado de máquina (NN) - PHDsec
+
+Qian e Sejnowski \citeyear{key} foram possivelmente os primeiros a publicarem um trabalho utilizando redes neurais artificiais para a predição da estrutura secundária de proteínas. Segundo os autores, a inspiração surgiu de um trabalho que utilizava redes neurais artificiais para  converter texto em fonemas (\textit{text-to-speech}), cujo primeiro autor era Sejnowski (ref NETtalk 1986).
+
+A melhor arquitetura testada por eles consistia de duas redes neurais em sequência. A primeira recebia como entrada 13 resíduos de uma sequência proteíca e como saída emitia 3 valores no intervalo entre 0 e 1 correspondentes aos elementos de estrutura secundária coil, hélice e fita. Cada resíduo era codificado em um vetor binário com 21 elementos representando os 20 aminoácidos e um elemento indicando a ausência de um aminoácido. A segunda rede neural tinha como entrada os valores de sáida da rede anterior para uma janela de 13 resíduos e emitia novamente 3 valores no intervalo entre 0 e 1 representando a pontuação para os 3 elementos de estrutura secundária. O elemento com o maior valor correspondia a estrutura secundária predita.
+
+Os autores exploraram também a utilização de uma camada oculta de neurônios, mas esta, apesar de diminuir o erro de classificação durante o treinamento, foi incapaz de reduzir o erro no conjunto de teste.
+
+Segundo os autores, a performance de 64,3\% (Q3) atingida pela rede neural artifical, apesar de superior aos métodos anteriores, foi decepcionante. Dentre as possíveis explicações, eles minimizaram o impacto de estarem utilizando apenas 106 estruturas (85 para treinamento) com o argumento de que um maior número de estruturas não irá melhorar a predição para proteínas não homólogas as do conjunto de treinamento. Assim, a explicação mais plausível segundo eles era que a influência de resíduos mais distantes na sequência, e que portanto não estão presentes na janela utilizada como entrada, precisaria ser considerada na predição. Caso isso fosse confirmado, eles acreditavam que seriam necessários novos métodos para considerar esses efeitos. Eles concluem dizendo que um banco de dados maior de proteínas homólogas poderia permitir uma rede neural artificial aprender a equivalência dos aminoácidos em diferentes contextos na proteína.
+
+Outro modelo de rede neural aplicado à predição de estruturas secundárias foi proposto por Holley e Karplus \citeyear{key}. Este modelo também utilizou uma janela, neste caso de 17 aminoácidos. Nesta rede, os autores utilizaram uma camada de neurônios oculta, sendo a camada com dois neurônios a que demonstrou maior acurácia no conjunto de teste. A acurácia do método foi de aproximadamente 63\%. Os autores testaram ainda uma codificação de aminoácidos com características como hidrofobicidade, carga e flexibilidade da cadeia principal, entretanto, a acurácia observada foi de 61\%, inferior a codificação binária.
+
+
+
+
+
+

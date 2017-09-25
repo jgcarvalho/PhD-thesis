@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.7.25)  12 SEP 2017 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.7.25)  20 SEP 2017 17:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -965,7 +965,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'structure.bbl' found.
-(./structure.bbl)
+(./structure.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                key
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 29.
 Package biblatex Info: Reference segment=0 on input line 29.
 \AtBeginShipoutBox=\box31
@@ -1031,15 +1039,14 @@ ao longo da cadeia polipept^^S^^Pdica
 (./rev_literatura/ss_atribuicao/pross.tex)
 (./rev_literatura/ss_predicao/1_geracao.tex)
 (./rev_literatura/ss_predicao/2_geracao.tex)
-(./rev_literatura/ss_predicao/3_geracao.tex)
-(./rev_literatura/ss_predicao/4_geracao.tex)) [4] [5]
+(./rev_literatura/ss_predicao/3_geracao.tex [4])
+(./rev_literatura/ss_predicao/4_geracao.tex)) [5]
 \openout2 = `resultados/resultados.aux'.
 
-
-(./resultados/resultados.tex
+ (./resultados/resultados.tex
 chapter 3.
 (./resultados/atribuicao_ss.tex
-<../figures/comparacao_metodos_atribuicao.pdf, id=103, pagebox=cropbox, 578.16p
+<../figures/comparacao_metodos_atribuicao.pdf, id=104, pagebox=cropbox, 578.16p
 t x 397.485pt>
 File: ../figures/comparacao_metodos_atribuicao.pdf Graphic file (type pdf)
 <use ../figures/comparacao_metodos_atribuicao.pdf>
@@ -1047,7 +1054,7 @@ Package pdftex.def Info: ../figures/comparacao_metodos_atribuicao.pdf  used on
 input line 19. on input line 19.
 Package pdftex.def Info: Requested size: 418.25555pt x 287.54756pt on input lin
 e 19.
-<../figures/distribuicao_comprimento_helices.pdf, id=104, pagebox=cropbox, 433.
+<../figures/distribuicao_comprimento_helices.pdf, id=105, pagebox=cropbox, 433.
 62pt x 289.08pt>
 File: ../figures/distribuicao_comprimento_helices.pdf Graphic file (type pdf)
 <use ../figures/distribuicao_comprimento_helices.pdf>
@@ -1055,7 +1062,7 @@ Package pdftex.def Info: ../figures/distribuicao_comprimento_helices.pdf  used
 on input line 26. on input line 26.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 26.
-<../figures/distribuicao_comprimento_fitas.pdf, id=105, pagebox=cropbox, 433.62
+<../figures/distribuicao_comprimento_fitas.pdf, id=106, pagebox=cropbox, 433.62
 pt x 289.08pt>
 File: ../figures/distribuicao_comprimento_fitas.pdf Graphic file (type pdf)
 <use ../figures/distribuicao_comprimento_fitas.pdf>
@@ -1087,27 +1094,28 @@ Package logreq Info: Writing requests to 'structure.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15229 strings out of 492990
- 259662 string characters out of 6135005
- 818239 words of memory out of 5000000
- 18527 multiletter control sequences out of 15000+600000
- 10050 words of font info for 36 fonts, out of 8000000 for 9000
+ 15232 strings out of 492990
+ 259696 string characters out of 6135005
+ 818251 words of memory out of 5000000
+ 18529 multiletter control sequences out of 15000+600000
+ 10358 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,10n,66p,8864b,1329s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmtt10.pfb>
-Output written on structure.pdf (10 pages, 191478 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmtt10.pfb>
+Output written on structure.pdf (10 pages, 202318 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
+ 314 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
  39 named destinations out of 1000 (max. 500000)
  128 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -2148,6 +2148,8 @@
     <bcf:citekey order="1">kendrew1958three</bcf:citekey>
     <bcf:citekey order="2">Kabsch1983</bcf:citekey>
     <bcf:citekey order="3">Martin2005</bcf:citekey>
+    <bcf:citekey order="4">key</bcf:citekey>
+    <bcf:citekey order="5">key</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global/" type="entry" sortscheme="nyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

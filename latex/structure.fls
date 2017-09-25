@@ -210,6 +210,7 @@ INPUT rev_literatura/ss_predicao/2_geracao.tex
 INPUT rev_literatura/ss_predicao/2_geracao.tex
 INPUT rev_literatura/ss_predicao/3_geracao.tex
 INPUT rev_literatura/ss_predicao/3_geracao.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT rev_literatura/ss_predicao/4_geracao.tex
 INPUT rev_literatura/ss_predicao/4_geracao.tex
 OUTPUT resultados/resultados.aux
@@ -239,6 +240,7 @@ INPUT ./structure.out
 INPUT ./structure.out
 INPUT structure.run.xml
 OUTPUT structure.run.xml
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
