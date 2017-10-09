@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2018/dev/Debian) (preloaded format=pdflatex 2017.7.25)  26 SEP 2017 19:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2018/dev/Debian) (preloaded format=pdflatex 2017.9.29)  2 OCT 2017 20:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,15 +6,15 @@ entering extended mode
 **/home/jgcarvalho/Documents/PhD-thesis/latex/structure.tex
 (/home/jgcarvalho/Documents/PhD-thesis/latex/structure.tex
 LaTeX2e <2017-04-15>
-Babel <3.11> and hyphenation patterns for 84 language(s) loaded.
+Babel <3.13> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrreprt.cls
-Document Class: scrreprt 2017/04/13 v3.23 KOMA-Script document class (report)
+Document Class: scrreprt 2017/09/07 v3.24 KOMA-Script document class (report)
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-dependent b
+Package: scrkbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-independent 
+Package: scrbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
@@ -22,37 +22,34 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2017/04/13 v3.23 KOMA-Script package (loading files)
-
-Package scrlfile, 2017/04/13 v3.23 KOMA-Script package (loading files)
-                  Copyright (C) Markus Kohm
-
-))) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2017/04/13 v3.23 KOMA-Script package (handling toc-files)
+Package: scrlfile 2017/09/07 v3.24 KOMA-Script package (loading files)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2017/09/07 v3.24 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 133.
+(tocbasic)             for `toc' on input line 135.
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 135.
+(tocbasic)             for `lof' on input line 137.
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 136.
-Package tocbasic Info: defining new hook before heading of `' on input line 161
-2.
+(tocbasic)             for `lot' on input line 138.
+Package tocbasic Info: defining new hook before heading of `' on input line 162
+7.
 Class scrreprt Info: File `scrsize11pt.clo' used instead of
-(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 227
-2.
+(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 229
+3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2017/04/13 v3.23 KOMA-Script font size class option (11pt
+File: scrsize11pt.clo 2017/09/07 v3.24 KOMA-Script font size class option (11pt
 )
 )
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2017/04/13 v3.23 KOMA-Script package (type area)
+Package: typearea 2017/09/07 v3.24 KOMA-Script package (type area)
 \ta@bcor=\skip42
 \ta@div=\count79
 \ta@hblk=\skip43
@@ -75,7 +72,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1647.
+(typearea)              on input line 1686.
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -91,13 +88,13 @@ Package typearea Info: These are the values describing the layout:
 \scr@dte@subsubsection@maxnumwidth=\skip51
 \scr@dte@paragraph@maxnumwidth=\skip52
 \scr@dte@subparagraph@maxnumwidth=\skip53
-LaTeX Info: Redefining \textsubscript on input line 4841.
+LaTeX Info: Redefining \textsubscript on input line 4964.
 \abovecaptionskip=\skip54
 \belowcaptionskip=\skip55
 \c@pti@nb@sid@b@x=\box27
 \c@figure=\count87
 \c@table=\count88
-Class scrreprt Info: Redefining `\numberline' on input line 5988.
+Class scrreprt Info: Redefining `\numberline' on input line 6130.
 \bibindent=\dimen102
 )
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
@@ -127,7 +124,7 @@ File: csquotes.cfg
 Package csquotes Info: Enabling multilingual quotes.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/11/05 v2.16a AMS math features
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip56
 
 For additional information on amsmath, use the `?' option.
@@ -1000,6 +997,13 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                10.1006/jmbi.1999.3091
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
 )
 Package biblatex Info: Reference section=0 on input line 31.
 Package biblatex Info: Reference segment=0 on input line 31.
@@ -1050,8 +1054,8 @@ chapter 2.
 
 
 ]
-Overfull \hbox (43.85638pt too wide) in paragraph at lines 32--32
-[] 
+Overfull \hbox (43.85638pt too wide) detected at line 32
+[]
  []
 
 
@@ -1077,7 +1081,7 @@ LaTeX Warning: No positions in optional float specifier.
  (./resultados/resultados.tex
 chapter 3.
 (./resultados/atribuicao_ss.tex
-<../figures/comparacao_metodos_atribuicao.pdf, id=114, pagebox=cropbox, 578.16p
+<../figures/comparacao_metodos_atribuicao.pdf, id=118, pagebox=cropbox, 578.16p
 t x 397.485pt>
 File: ../figures/comparacao_metodos_atribuicao.pdf Graphic file (type pdf)
 <use ../figures/comparacao_metodos_atribuicao.pdf>
@@ -1085,7 +1089,7 @@ Package pdftex.def Info: ../figures/comparacao_metodos_atribuicao.pdf  used on
 input line 19. on input line 19.
 Package pdftex.def Info: Requested size: 418.25555pt x 287.54756pt on input lin
 e 19.
-<../figures/distribuicao_comprimento_helices.pdf, id=115, pagebox=cropbox, 433.
+<../figures/distribuicao_comprimento_helices.pdf, id=119, pagebox=cropbox, 433.
 62pt x 289.08pt>
 File: ../figures/distribuicao_comprimento_helices.pdf Graphic file (type pdf)
 <use ../figures/distribuicao_comprimento_helices.pdf>
@@ -1093,7 +1097,7 @@ Package pdftex.def Info: ../figures/distribuicao_comprimento_helices.pdf  used
 on input line 26. on input line 26.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 26.
-<../figures/distribuicao_comprimento_fitas.pdf, id=116, pagebox=cropbox, 433.62
+<../figures/distribuicao_comprimento_fitas.pdf, id=120, pagebox=cropbox, 433.62
 pt x 289.08pt>
 File: ../figures/distribuicao_comprimento_fitas.pdf Graphic file (type pdf)
 <use ../figures/distribuicao_comprimento_fitas.pdf>
@@ -1101,15 +1105,45 @@ Package pdftex.def Info: ../figures/distribuicao_comprimento_fitas.pdf  used on
  input line 32. on input line 32.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 32.
-)) [8
+) (./resultados/psipred.tex [8
 
 
 
 ] [9 <../figures/comparacao_metodos_atribuicao.pdf>] [10 <../figures/distribuic
 ao_comprimento_helices.pdf>] [11 <../figures/distribuicao_comprimento_fitas.pdf
 >]
+<../figures/psipred_q3.pdf, id=267, pagebox=cropbox, 433.62pt x 289.08pt>
+File: ../figures/psipred_q3.pdf Graphic file (type pdf)
+<use ../figures/psipred_q3.pdf>
+Package pdftex.def Info: ../figures/psipred_q3.pdf  used on input line 26. on i
+nput line 26.
+Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
+e 26.
+<../figures/psipred_qh.pdf, id=268, pagebox=cropbox, 433.62pt x 289.08pt>
+File: ../figures/psipred_qh.pdf Graphic file (type pdf)
+<use ../figures/psipred_qh.pdf>
+Package pdftex.def Info: ../figures/psipred_qh.pdf  used on input line 32. on i
+nput line 32.
+Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
+e 32.
+<../figures/psipred_qe.pdf, id=269, pagebox=cropbox, 433.62pt x 289.08pt>
+File: ../figures/psipred_qe.pdf Graphic file (type pdf)
+<use ../figures/psipred_qe.pdf>
+Package pdftex.def Info: ../figures/psipred_qe.pdf  used on input line 38. on i
+nput line 38.
+Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
+e 38.
+<../figures/psipred_qc.pdf, id=270, pagebox=cropbox, 433.62pt x 289.08pt>
+File: ../figures/psipred_qc.pdf Graphic file (type pdf)
+<use ../figures/psipred_qc.pdf>
+Package pdftex.def Info: ../figures/psipred_qc.pdf  used on input line 44. on i
+nput line 44.
+Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
+e 44.
+)) [12 <../figures/psipred_q3.pdf>] [13 <../figures/psipred_qh.pdf>] [14 <../fi
+gures/psipred_qe.pdf>] [15 <../figures/psipred_qc.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
- [12
+ [16
 
 
 ]
@@ -1120,16 +1154,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
 Package rerunfilecheck Info: File `structure.out' has not changed.
-(rerunfilecheck)             Checksum: 33D7DD55583934345FC9EE3265989CFF;1042.
+(rerunfilecheck)             Checksum: AC028A205330CD9E8564ABF48B98F69A;1131.
 Package logreq Info: Writing requests to 'structure.run.xml'.
 \openout1 = `structure.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15355 strings out of 492990
- 261513 string characters out of 6135005
- 828560 words of memory out of 5000000
- 18641 multiletter control sequences out of 15000+600000
+ 15409 strings out of 492990
+ 262669 string characters out of 6134997
+ 830818 words of memory out of 5000000
+ 18679 multiletter control sequences out of 15000+600000
  10358 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,11n,66p,8864b,1329s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1138,16 +1172,17 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmtt10.pfb>
-Output written on structure.pdf (12 pages, 208503 bytes).
+t/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10
+.pfb>
+Output written on structure.pdf (16 pages, 351073 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
- 187 compressed objects within 2 object streams
- 42 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 581 PDF objects out of 1000 (max. 8388607)
+ 238 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 

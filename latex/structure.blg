@@ -1,18 +1,19 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
 [1] Config.pm:357> INFO - Logfile is 'structure.blg'
-[48] biber:303> INFO - === Ter Set 26, 2017, 15:50:44
-[74] Biber.pm:359> INFO - Reading 'structure.bcf'
-[185] Biber.pm:835> INFO - Found 4 citekeys in bib section 0
-[204] Biber.pm:3670> INFO - Processing section 0
-[222] Biber.pm:3840> INFO - Looking for bibtex format file 'bibtex.bib' for section 0
-[223] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[228] bibtex.pm:1292> INFO - Found BibTeX data source 'bibtex.bib'
-[239] Utils.pm:164> WARN - month field 'dec' in entry 'Kabsch1983' is not an integer - this will probably not sort properly.
-[246] Utils.pm:164> WARN - I didn't find a database entry for 'key' (section 0)
-[274] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[274] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[274] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
-[274] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[279] bbl.pm:608> INFO - Writing 'structure.bbl' with encoding 'UTF-8'
-[281] bbl.pm:712> INFO - Output to structure.bbl
-[281] Biber.pm:109> INFO - WARNINGS: 2
+[43] biber:303> INFO - === Seg Out  2, 2017, 18:18:00
+[66] Biber.pm:359> INFO - Reading 'structure.bcf'
+[170] Biber.pm:835> INFO - Found 5 citekeys in bib section 0
+[188] Biber.pm:3670> INFO - Processing section 0
+[204] Biber.pm:3840> INFO - Looking for bibtex format file 'bibtex.bib' for section 0
+[205] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[209] bibtex.pm:1292> INFO - Found BibTeX data source 'bibtex.bib'
+[218] Utils.pm:164> WARN - month field 'dec' in entry 'Kabsch1983' is not an integer - this will probably not sort properly.
+[224] Utils.pm:164> WARN - I didn't find a database entry for 'key' (section 0)
+[224] Utils.pm:164> WARN - I didn't find a database entry for '10.1006/jmbi.1999.3091' (section 0)
+[251] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[251] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[251] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[251] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[256] bbl.pm:608> INFO - Writing 'structure.bbl' with encoding 'UTF-8'
+[257] bbl.pm:712> INFO - Output to structure.bbl
+[257] Biber.pm:109> INFO - WARNINGS: 3
