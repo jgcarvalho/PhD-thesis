@@ -1,0 +1,17 @@
+\section{Resultados de predição com rede neurais artificiais}
+
+O método de predição proposto por Holley e Karplus em \citeyear{key} foi treinado utilizando 48 estruturas proteicas resolvidas, de um conjunto de 62 estruturas selecionadas. Nessas condições, o método demonstrou uma acurácia de aproximadamente 63\%. Posteriormente, Chandonia e Karplus \citeyear{10.1002/pro.5560050422} demonstraram que o aumento no número de estruturas do conjunto de treinamento poderia aumentar a acurácia da predição utilizando redes neurais. Entretanto, como observado por eles, tal aumento pode requerer modificações na topologia da rede neural. Assim, com um conjunto de 318 estruturas proteicas e aumentando o número de neurônios da camada oculta de 2 para 8, eles conseguiram uma acurácia de 67\%.
+
+Para avaliarmos qual seria o desempenho de uma rede neural com topologia similar a proposta por Holley e Karplus \citeyear{key} nós implementamos algumas redes neurais utilizando o framework Pytorch e treinamos com o conjunto de proteinas utilizado ao longo desse trabalho.
+
+Tabela 
+
+
+
+A acurácia máxima observada de 74\% para o conjunto de teste evidencia que a quantidade de dados e informação ainda é um dos fatores que a serem explorados para aumentar a acurácia. Assim, o platô dos métodos de predição baseados em redes neurais artificiais e que utilizam apenas a sequência de aminoácidos como entrada pode não ter sido atingido ainda.
+
+
+
+
+
+%The secondary structure and class prediction  results demonstrate  that  the most efficient  network  topologies for solving a given problem  can  change as the size of the  database increases. In particular,  as more information is resented, the hidden layer becomes more important. The results demonstrate for the first time that there are improvements in accuracy due to  the addi- tion of units to the hidden layer. Additional units n the hidden layer of  neural  etworks  allow the  formulation of more com- plex (and accurate) rules for solving a given problem. However, here  must be sufficient data in the  raining set to compensate for the  large  number  of  independent  variables (weights and bi- ases) that  are  determined  during  training. It is likely that, as the number  of  nonhomologous well-defined protein  structures in- creases, networks with additional hidden  units will become more effective  at  redicting  secondary  structure  and  structural class
