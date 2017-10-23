@@ -2155,7 +2155,13 @@
     <bcf:citekey order="8">key</bcf:citekey>
     <bcf:citekey order="9">10.1002/pro.5560050422</bcf:citekey>
     <bcf:citekey order="10">key</bcf:citekey>
-    <bcf:citekey order="11">10.1006/jmbi.1999.3091</bcf:citekey>
+    <bcf:citekey order="11">10.1002/pro.5560050422</bcf:citekey>
+    <bcf:citekey order="12">key</bcf:citekey>
+    <bcf:citekey order="13">10.1002/pro.5560050422</bcf:citekey>
+    <bcf:citekey order="14">key</bcf:citekey>
+    <bcf:citekey order="15">key</bcf:citekey>
+    <bcf:citekey order="16">10.1002/pro.5560050422</bcf:citekey>
+    <bcf:citekey order="17">10.1006/jmbi.1999.3091</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global/" type="entry" sortscheme="nyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

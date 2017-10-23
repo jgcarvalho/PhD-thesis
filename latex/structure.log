@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2018/dev/Debian) (preloaded format=pdflatex 2017.9.29)  10 OCT 2017 16:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2018/dev/Debian) (preloaded format=pdflatex 2017.9.29)  23 OCT 2017 15:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -944,9 +944,7 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )
-(./structure.aux (./introducao/introducao.aux)
-(./rev_literatura/rev_literatura.aux) (./metodos/metodos.aux)
-(./resultados/resultados.aux))
+(./structure.aux)
 \openout1 = `structure.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1015,34 +1013,12 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `structure.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'structure.bbl' found.
-(./structure.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                10.1002/pro.5560050422
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                key
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                10.1006/jmbi.1999.3091
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+Package biblatex Info: ... file 'structure.bbl' not found.
+No file structure.bbl.
 Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference segment=0 on input line 32.
 \AtBeginShipoutBox=\box31
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -1063,15 +1039,18 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
 LaTeX Info: Redefining \nameref on input line 32.
-
-(./structure.out) (./structure.out)
 \@outlinefile=\write5
 \openout5 = `structure.out'.
 
 \openout2 = `introducao/introducao.aux'.
 
- (./introducao/introducao.tex
+
+(./introducao/introducao.tex
 chapter 1.
+
+LaTeX Warning: Citation 'kendrew1958three' on page 1 undefined on input line 13
+.
+
 ) [1
 
 
@@ -1083,7 +1062,15 @@ chapter 1.
 (./rev_literatura/rev_literatura.tex
 chapter 2.
 (./rev_literatura/ss_atribuicao/intro.tex)
-(./rev_literatura/ss_atribuicao/dssp.tex [2
+(./rev_literatura/ss_atribuicao/dssp.tex
+
+LaTeX Warning: Reference `eq:dssp_energy' on page 2 undefined on input line 15.
+
+
+
+LaTeX Warning: Citation 'Kabsch1983' on page 2 undefined on input line 17.
+
+[2
 
 
 
@@ -1100,31 +1087,141 @@ ao longo da cadeia polipept^^S^^Pdica
  []
 
 ) (./rev_literatura/ss_atribuicao/stride.tex)
-(./rev_literatura/ss_atribuicao/kaksi.tex [3])
-(./rev_literatura/ss_atribuicao/pross.tex)
+(./rev_literatura/ss_atribuicao/kaksi.tex
+
+LaTeX Warning: Citation 'Martin2005' on page 3 undefined on input line 3.
+
+[3]) (./rev_literatura/ss_atribuicao/pross.tex)
 (./rev_literatura/ss_predicao/1_geracao.tex
+
+LaTeX Warning: Citation 'key' on page 4 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'key' on page 4 undefined on input line 5.
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 8.
 
 [4] [5]) (./rev_literatura/ss_predicao/2_geracao.tex)
-(./rev_literatura/ss_predicao/3_geracao.tex [6])
-(./rev_literatura/ss_predicao/4_geracao.tex)) [7]
+(./rev_literatura/ss_predicao/3_geracao.tex
+
+LaTeX Warning: Citation 'key' on page 6 undefined on input line 4.
+
+[6]
+
+LaTeX Warning: Citation 'key' on page 7 undefined on input line 12.
+
+) (./rev_literatura/ss_predicao/4_geracao.tex)) [7]
 \openout2 = `metodos/metodos.aux'.
 
  (./metodos/metodos.tex
 chapter 3.
-(./metodos/conjunto_dados.tex)) [8
+(./metodos/conjunto_dados.tex) (./metodos/modelo_hk.tex
+
+LaTeX Warning: Citation 'key' on page 8 undefined on input line 3.
+
+
+LaTeX Warning: Citation '10.1002/pro.5560050422' on page 8 undefined on input l
+ine 3.
+
+<../figures/neural_network_HK.pdf, id=63, pagebox=cropbox, 404.67636pt x 239.76
+039pt>
+File: ../figures/neural_network_HK.pdf Graphic file (type pdf)
+<use ../figures/neural_network_HK.pdf>
+Package pdftex.def Info: ../figures/neural_network_HK.pdf  used on input line 6
+. on input line 6.
+Package pdftex.def Info: Requested size: 418.25555pt x 247.81569pt on input lin
+e 6.
+
+LaTeX Warning: Citation 'key' on page 8 undefined on input line 7.
+
+
+LaTeX Warning: Citation '10.1002/pro.5560050422' on page 8 undefined on input l
+ine 7.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 7.
+
+./metodos/modelo_hk.tex:7: Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.7 ...ightarrow fita$, $(0,0) \rightarrow coil$.}
+                                                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+./metodos/modelo_hk.tex:7: You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.7 ...ightarrow fita$, $(0,0) \rightarrow coil$.}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+
+LaTeX Warning: Citation 'key' on page 8 undefined on input line 7.
+
+
+LaTeX Warning: Citation '10.1002/pro.5560050422' on page 8 undefined on input l
+ine 7.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 7.
+
+./metodos/modelo_hk.tex:7: Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.7 ...ightarrow fita$, $(0,0) \rightarrow coil$.}
+                                                  
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+./metodos/modelo_hk.tex:7: You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.7 ...ightarrow fita$, $(0,0) \rightarrow coil$.}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex10!
+
+LaTeX Warning: Citation 'key' on page 8 undefined on input line 11.
+
+<../figures/neural_network_HK_similar.pdf, id=64, pagebox=cropbox, 403.19168pt 
+x 420.56331pt>
+File: ../figures/neural_network_HK_similar.pdf Graphic file (type pdf)
+<use ../figures/neural_network_HK_similar.pdf>
+Package pdftex.def Info: ../figures/neural_network_HK_similar.pdf  used on inpu
+t line 14. on input line 14.
+Package pdftex.def Info: Requested size: 418.25555pt x 436.27817pt on input lin
+e 14.
+)) [8
 
 
 
-]
+] [9 <../figures/neural_network_HK.pdf>] [10 <../figures/neural_network_HK_simi
+lar.pdf>]
 \openout2 = `resultados/resultados.aux'.
 
  (./resultados/resultados.tex
 chapter 4.
 (./resultados/atribuicao_ss.tex
-<../figures/comparacao_metodos_atribuicao.pdf, id=134, pagebox=cropbox, 578.16p
+
+LaTeX Warning: Reference `section:metodos_atribuicao' on page 11 undefined on i
+nput line 5.
+
+
+LaTeX Warning: Reference `fig:comparacao_metodos_atribuicao' on page 11 undefin
+ed on input line 9.
+
+<../figures/comparacao_metodos_atribuicao.pdf, id=152, pagebox=cropbox, 578.16p
 t x 397.485pt>
 File: ../figures/comparacao_metodos_atribuicao.pdf Graphic file (type pdf)
 <use ../figures/comparacao_metodos_atribuicao.pdf>
@@ -1132,7 +1229,7 @@ Package pdftex.def Info: ../figures/comparacao_metodos_atribuicao.pdf  used on
 input line 19. on input line 19.
 Package pdftex.def Info: Requested size: 418.25555pt x 287.54756pt on input lin
 e 19.
-<../figures/distribuicao_comprimento_helices.pdf, id=135, pagebox=cropbox, 433.
+<../figures/distribuicao_comprimento_helices.pdf, id=153, pagebox=cropbox, 433.
 62pt x 289.08pt>
 File: ../figures/distribuicao_comprimento_helices.pdf Graphic file (type pdf)
 <use ../figures/distribuicao_comprimento_helices.pdf>
@@ -1140,7 +1237,7 @@ Package pdftex.def Info: ../figures/distribuicao_comprimento_helices.pdf  used
 on input line 26. on input line 26.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 26.
-<../figures/distribuicao_comprimento_fitas.pdf, id=136, pagebox=cropbox, 433.62
+<../figures/distribuicao_comprimento_fitas.pdf, id=154, pagebox=cropbox, 433.62
 pt x 289.08pt>
 File: ../figures/distribuicao_comprimento_fitas.pdf Graphic file (type pdf)
 <use ../figures/distribuicao_comprimento_fitas.pdf>
@@ -1148,43 +1245,58 @@ Package pdftex.def Info: ../figures/distribuicao_comprimento_fitas.pdf  used on
  input line 32. on input line 32.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 32.
-) (./resultados/rede_neural_hk.tex [9
+) (./resultados/rede_neural_hk.tex
+
+LaTeX Warning: Citation 'key' on page 11 undefined on input line 3.
+
+
+LaTeX Warning: Citation '10.1002/pro.5560050422' on page 11 undefined on input 
+line 3.
+
+[11
 
 
 
-] [10 <../figures/comparacao_metodos_atribuicao.pdf>] [11 <../figures/distribui
-cao_comprimento_helices.pdf>] [12 <../figures/distribuicao_comprimento_fitas.pd
-f>])
-(./resultados/psipred.tex
-<../figures/psipred_q3.pdf, id=283, pagebox=cropbox, 433.62pt x 289.08pt>
+] [12 <../figures/comparacao_metodos_atribuicao.pdf>] [13 <../figures/distribui
+cao_comprimento_helices.pdf>] [14 <../figures/distribuicao_comprimento_fitas.pd
+f>]) (./resultados/psipred.tex
+
+LaTeX Warning: Citation '10.1006/jmbi.1999.3091' on page 15 undefined on input 
+line 3.
+
+
+LaTeX Warning: Reference `ch:rev_literatura' on page 15 undefined on input line
+ 3.
+
+<../figures/psipred_q3.pdf, id=303, pagebox=cropbox, 433.62pt x 289.08pt>
 File: ../figures/psipred_q3.pdf Graphic file (type pdf)
 <use ../figures/psipred_q3.pdf>
 Package pdftex.def Info: ../figures/psipred_q3.pdf  used on input line 26. on i
 nput line 26.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 26.
-<../figures/psipred_qh.pdf, id=284, pagebox=cropbox, 433.62pt x 289.08pt>
+<../figures/psipred_qh.pdf, id=304, pagebox=cropbox, 433.62pt x 289.08pt>
 File: ../figures/psipred_qh.pdf Graphic file (type pdf)
 <use ../figures/psipred_qh.pdf>
 Package pdftex.def Info: ../figures/psipred_qh.pdf  used on input line 32. on i
 nput line 32.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 32.
-<../figures/psipred_qe.pdf, id=285, pagebox=cropbox, 433.62pt x 289.08pt>
+<../figures/psipred_qe.pdf, id=305, pagebox=cropbox, 433.62pt x 289.08pt>
 File: ../figures/psipred_qe.pdf Graphic file (type pdf)
 <use ../figures/psipred_qe.pdf>
 Package pdftex.def Info: ../figures/psipred_qe.pdf  used on input line 38. on i
 nput line 38.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 38.
-<../figures/psipred_qc.pdf, id=286, pagebox=cropbox, 433.62pt x 289.08pt>
+<../figures/psipred_qc.pdf, id=306, pagebox=cropbox, 433.62pt x 289.08pt>
 File: ../figures/psipred_qc.pdf Graphic file (type pdf)
 <use ../figures/psipred_qc.pdf>
 Package pdftex.def Info: ../figures/psipred_qc.pdf  used on input line 44. on i
 nput line 44.
 Package pdftex.def Info: Requested size: 418.25555pt x 278.85017pt on input lin
 e 44.
-<../figures/psipred_all3_confusion_matrix.pdf, id=287, pagebox=cropbox, 578.16p
+<../figures/psipred_all3_confusion_matrix.pdf, id=307, pagebox=cropbox, 578.16p
 t x 397.485pt>
 File: ../figures/psipred_all3_confusion_matrix.pdf Graphic file (type pdf)
 <use ../figures/psipred_all3_confusion_matrix.pdf>
@@ -1192,7 +1304,7 @@ Package pdftex.def Info: ../figures/psipred_all3_confusion_matrix.pdf  used on
 input line 50. on input line 50.
 Package pdftex.def Info: Requested size: 418.25555pt x 287.54756pt on input lin
 e 50.
-<../figures/psipred_dssp_confusion_matrix.pdf, id=288, pagebox=cropbox, 578.16p
+<../figures/psipred_dssp_confusion_matrix.pdf, id=308, pagebox=cropbox, 578.16p
 t x 397.485pt>
 File: ../figures/psipred_dssp_confusion_matrix.pdf Graphic file (type pdf)
 <use ../figures/psipred_dssp_confusion_matrix.pdf>
@@ -1200,7 +1312,7 @@ Package pdftex.def Info: ../figures/psipred_dssp_confusion_matrix.pdf  used on
 input line 58. on input line 58.
 Package pdftex.def Info: Requested size: 209.12778pt x 143.77377pt on input lin
 e 58.
-<../figures/psipred_stride_confusion_matrix.pdf, id=289, pagebox=cropbox, 578.1
+<../figures/psipred_stride_confusion_matrix.pdf, id=309, pagebox=cropbox, 578.1
 6pt x 397.485pt>
 File: ../figures/psipred_stride_confusion_matrix.pdf Graphic file (type pdf)
 <use ../figures/psipred_stride_confusion_matrix.pdf>
@@ -1208,7 +1320,7 @@ Package pdftex.def Info: ../figures/psipred_stride_confusion_matrix.pdf  used o
 n input line 65. on input line 65.
 Package pdftex.def Info: Requested size: 209.12778pt x 143.77377pt on input lin
 e 65.
-<../figures/psipred_kaksi_confusion_matrix.pdf, id=290, pagebox=cropbox, 578.16
+<../figures/psipred_kaksi_confusion_matrix.pdf, id=310, pagebox=cropbox, 578.16
 pt x 397.485pt>
 File: ../figures/psipred_kaksi_confusion_matrix.pdf Graphic file (type pdf)
 <use ../figures/psipred_kaksi_confusion_matrix.pdf>
@@ -1216,7 +1328,7 @@ Package pdftex.def Info: ../figures/psipred_kaksi_confusion_matrix.pdf  used on
  input line 72. on input line 72.
 Package pdftex.def Info: Requested size: 209.12778pt x 143.77377pt on input lin
 e 72.
-<../figures/psipred_pross_confusion_matrix.pdf, id=291, pagebox=cropbox, 578.16
+<../figures/psipred_pross_confusion_matrix.pdf, id=311, pagebox=cropbox, 578.16
 pt x 397.485pt>
 File: ../figures/psipred_pross_confusion_matrix.pdf Graphic file (type pdf)
 <use ../figures/psipred_pross_confusion_matrix.pdf>
@@ -1224,10 +1336,10 @@ Package pdftex.def Info: ../figures/psipred_pross_confusion_matrix.pdf  used on
  input line 78. on input line 78.
 Package pdftex.def Info: Requested size: 209.12778pt x 143.77377pt on input lin
 e 78.
-)) [13] [14 <../figures/psipred_q3.pdf>] [15 <../figures/psipred_qh.pdf>] [16 <
-../figures/psipred_qe.pdf>] [17 <../figures/psipred_qc.pdf>] [18 <../figures/ps
-ipred_all3_confusion_matrix.pdf>] [19 <../figures/psipred_dssp_confusion_matrix
-.pdf> <../figures/psipred_stride_confusion_matrix.pdf
+)) [15] [16 <../figures/psipred_q3.pdf>] [17 <../figures/psipred_qh.pdf>]
+[18 <../figures/psipred_qe.pdf>] [19 <../figures/psipred_qc.pdf>] [20 <../figur
+es/psipred_all3_confusion_matrix.pdf>] [21 <../figures/psipred_dssp_confusion_m
+atrix.pdf> <../figures/psipred_stride_confusion_matrix.pdf
 
 pdfTeX warning: pdflatex (file ../figures/psipred_stride_confusion_matrix.pdf):
  PDF inclusion: multiple pdfs with page group included in a single page
@@ -1240,47 +1352,62 @@ PDF inclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ../figures/psipred_pross_confusion_matrix.pdf): 
 PDF inclusion: multiple pdfs with page group included in a single page
 >]
+
+LaTeX Warning: Empty bibliography on input line 39.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
- [20
-
-
-]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
- (./structure.aux (./introducao/introducao.aux)
+(./structure.aux (./introducao/introducao.aux)
 (./rev_literatura/rev_literatura.aux) (./metodos/metodos.aux)
 (./resultados/resultados.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
-Package rerunfilecheck Info: File `structure.out' has not changed.
-(rerunfilecheck)             Checksum: AF8B5A3906CD73AD9EB407BC90FCF155;1357.
+
+
+Package rerunfilecheck Warning: File `structure.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `structure.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  51E98EAB64337BDFC0640877CA2A51FE;1453.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                structure
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'structure.run.xml'.
 \openout1 = `structure.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16542 strings out of 492990
- 284401 string characters out of 6134997
- 849543 words of memory out of 5000000
- 19776 multiletter control sequences out of 15000+600000
- 10358 words of font info for 37 fonts, out of 8000000 for 9000
+ 16490 strings out of 492990
+ 283634 string characters out of 6134997
+ 837533 words of memory out of 5000000
+ 19735 multiletter control sequences out of 15000+600000
+ 9889 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,11n,66p,8864b,1329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,11n,66p,8864b,1079s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10
-.pfb>
-Output written on structure.pdf (20 pages, 447438 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb>
+Output written on structure.pdf (21 pages, 605097 bytes).
 PDF statistics:
- 855 PDF objects out of 1000 (max. 8388607)
- 293 compressed objects within 3 object streams
+ 856 PDF objects out of 1000 (max. 8388607)
+ 272 compressed objects within 3 object streams
  60 named destinations out of 1000 (max. 500000)
- 205 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

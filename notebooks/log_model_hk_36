@@ -1,0 +1,2001 @@
+[1] Training loss: 1.055 accuracy (Q3): 0.518 Qc: 0.476 Qh: 0.610 Qe: 0.414
+[1] Validation loss: 0.982 accuracy: 0.639 Qc: 0.572 Qh: 0.770 Qe: 0.466
+[2] Training loss: 0.930 accuracy (Q3): 0.645 Qc: 0.635 Qh: 0.701 Qe: 0.555
+[2] Validation loss: 0.888 accuracy: 0.649 Qc: 0.629 Qh: 0.706 Qe: 0.559
+[3] Training loss: 0.849 accuracy (Q3): 0.654 Qc: 0.648 Qh: 0.687 Qe: 0.599
+[3] Validation loss: 0.827 accuracy: 0.655 Qc: 0.653 Qh: 0.677 Qe: 0.612
+[4] Training loss: 0.801 accuracy (Q3): 0.663 Qc: 0.661 Qh: 0.687 Qe: 0.620
+[4] Validation loss: 0.793 accuracy: 0.661 Qc: 0.654 Qh: 0.679 Qe: 0.639
+[5] Training loss: 0.775 accuracy (Q3): 0.668 Qc: 0.671 Qh: 0.682 Qe: 0.636
+[5] Validation loss: 0.773 accuracy: 0.670 Qc: 0.671 Qh: 0.693 Qe: 0.618
+[6] Training loss: 0.761 accuracy (Q3): 0.672 Qc: 0.678 Qh: 0.682 Qe: 0.642
+[6] Validation loss: 0.765 accuracy: 0.669 Qc: 0.680 Qh: 0.671 Qe: 0.646
+[7] Training loss: 0.755 accuracy (Q3): 0.673 Qc: 0.680 Qh: 0.679 Qe: 0.648
+[7] Validation loss: 0.760 accuracy: 0.672 Qc: 0.681 Qh: 0.682 Qe: 0.635
+[8] Training loss: 0.753 accuracy (Q3): 0.674 Qc: 0.682 Qh: 0.682 Qe: 0.643
+[8] Validation loss: 0.759 accuracy: 0.672 Qc: 0.675 Qh: 0.685 Qe: 0.638
+[9] Training loss: 0.751 accuracy (Q3): 0.674 Qc: 0.682 Qh: 0.681 Qe: 0.648
+[9] Validation loss: 0.757 accuracy: 0.675 Qc: 0.698 Qh: 0.676 Qe: 0.630
+[10] Training loss: 0.750 accuracy (Q3): 0.675 Qc: 0.683 Qh: 0.682 Qe: 0.648
+[10] Validation loss: 0.756 accuracy: 0.678 Qc: 0.684 Qh: 0.703 Qe: 0.610
+[11] Training loss: 0.750 accuracy (Q3): 0.675 Qc: 0.682 Qh: 0.681 Qe: 0.648
+[11] Validation loss: 0.755 accuracy: 0.675 Qc: 0.675 Qh: 0.695 Qe: 0.630
+[12] Training loss: 0.750 accuracy (Q3): 0.675 Qc: 0.683 Qh: 0.682 Qe: 0.648
+[12] Validation loss: 0.754 accuracy: 0.676 Qc: 0.678 Qh: 0.695 Qe: 0.628
+[13] Training loss: 0.749 accuracy (Q3): 0.675 Qc: 0.683 Qh: 0.680 Qe: 0.651
+[13] Validation loss: 0.756 accuracy: 0.671 Qc: 0.673 Qh: 0.679 Qe: 0.651
+[14] Training loss: 0.747 accuracy (Q3): 0.676 Qc: 0.683 Qh: 0.684 Qe: 0.649
+[14] Validation loss: 0.756 accuracy: 0.670 Qc: 0.678 Qh: 0.666 Qe: 0.662
+[15] Training loss: 0.748 accuracy (Q3): 0.675 Qc: 0.684 Qh: 0.679 Qe: 0.650
+[15] Validation loss: 0.754 accuracy: 0.679 Qc: 0.665 Qh: 0.722 Qe: 0.607
+[16] Training loss: 0.749 accuracy (Q3): 0.676 Qc: 0.682 Qh: 0.685 Qe: 0.645
+[16] Validation loss: 0.756 accuracy: 0.670 Qc: 0.683 Qh: 0.665 Qe: 0.658
+[17] Training loss: 0.748 accuracy (Q3): 0.676 Qc: 0.684 Qh: 0.682 Qe: 0.650
+[17] Validation loss: 0.755 accuracy: 0.674 Qc: 0.697 Qh: 0.672 Qe: 0.634
+[18] Training loss: 0.748 accuracy (Q3): 0.676 Qc: 0.685 Qh: 0.681 Qe: 0.648
+[18] Validation loss: 0.754 accuracy: 0.676 Qc: 0.693 Qh: 0.683 Qe: 0.628
+[19] Training loss: 0.748 accuracy (Q3): 0.676 Qc: 0.685 Qh: 0.681 Qe: 0.648
+[19] Validation loss: 0.754 accuracy: 0.674 Qc: 0.680 Qh: 0.686 Qe: 0.639
+[20] Training loss: 0.748 accuracy (Q3): 0.676 Qc: 0.684 Qh: 0.683 Qe: 0.646
+[20] Validation loss: 0.758 accuracy: 0.667 Qc: 0.697 Qh: 0.645 Qe: 0.664
+[21] Training loss: 0.748 accuracy (Q3): 0.675 Qc: 0.685 Qh: 0.679 Qe: 0.651
+[21] Validation loss: 0.753 accuracy: 0.675 Qc: 0.682 Qh: 0.687 Qe: 0.637
+[22] Training loss: 0.747 accuracy (Q3): 0.676 Qc: 0.686 Qh: 0.679 Qe: 0.652
+[22] Validation loss: 0.753 accuracy: 0.676 Qc: 0.678 Qh: 0.696 Qe: 0.629
+[23] Training loss: 0.747 accuracy (Q3): 0.677 Qc: 0.685 Qh: 0.684 Qe: 0.647
+[23] Validation loss: 0.756 accuracy: 0.671 Qc: 0.679 Qh: 0.674 Qe: 0.650
+[24] Training loss: 0.747 accuracy (Q3): 0.676 Qc: 0.686 Qh: 0.682 Qe: 0.648
+[24] Validation loss: 0.753 accuracy: 0.675 Qc: 0.672 Qh: 0.694 Qe: 0.636
+[25] Training loss: 0.746 accuracy (Q3): 0.677 Qc: 0.687 Qh: 0.683 Qe: 0.648
+[25] Validation loss: 0.753 accuracy: 0.674 Qc: 0.673 Qh: 0.691 Qe: 0.640
+[26] Training loss: 0.747 accuracy (Q3): 0.676 Qc: 0.685 Qh: 0.680 Qe: 0.651
+[26] Validation loss: 0.754 accuracy: 0.673 Qc: 0.686 Qh: 0.673 Qe: 0.649
+[27] Training loss: 0.746 accuracy (Q3): 0.676 Qc: 0.687 Qh: 0.681 Qe: 0.649
+[27] Validation loss: 0.754 accuracy: 0.673 Qc: 0.690 Qh: 0.671 Qe: 0.647
+[28] Training loss: 0.748 accuracy (Q3): 0.676 Qc: 0.686 Qh: 0.681 Qe: 0.648
+[28] Validation loss: 0.754 accuracy: 0.674 Qc: 0.697 Qh: 0.672 Qe: 0.636
+[29] Training loss: 0.747 accuracy (Q3): 0.676 Qc: 0.690 Qh: 0.678 Qe: 0.649
+[29] Validation loss: 0.753 accuracy: 0.674 Qc: 0.684 Qh: 0.676 Qe: 0.646
+[30] Training loss: 0.746 accuracy (Q3): 0.677 Qc: 0.687 Qh: 0.682 Qe: 0.647
+[30] Validation loss: 0.755 accuracy: 0.669 Qc: 0.689 Qh: 0.657 Qe: 0.661
+[31] Training loss: 0.746 accuracy (Q3): 0.677 Qc: 0.690 Qh: 0.677 Qe: 0.650
+[31] Validation loss: 0.754 accuracy: 0.670 Qc: 0.669 Qh: 0.676 Qe: 0.661
+[32] Training loss: 0.746 accuracy (Q3): 0.677 Qc: 0.688 Qh: 0.681 Qe: 0.649
+[32] Validation loss: 0.753 accuracy: 0.673 Qc: 0.694 Qh: 0.670 Qe: 0.645
+[33] Training loss: 0.746 accuracy (Q3): 0.677 Qc: 0.691 Qh: 0.678 Qe: 0.649
+[33] Validation loss: 0.752 accuracy: 0.680 Qc: 0.673 Qh: 0.722 Qe: 0.602
+[34] Training loss: 0.746 accuracy (Q3): 0.677 Qc: 0.689 Qh: 0.680 Qe: 0.648
+[34] Validation loss: 0.751 accuracy: 0.677 Qc: 0.677 Qh: 0.698 Qe: 0.630
+[35] Training loss: 0.745 accuracy (Q3): 0.677 Qc: 0.691 Qh: 0.680 Qe: 0.646
+[35] Validation loss: 0.750 accuracy: 0.677 Qc: 0.682 Qh: 0.693 Qe: 0.632
+[36] Training loss: 0.745 accuracy (Q3): 0.677 Qc: 0.691 Qh: 0.680 Qe: 0.648
+[36] Validation loss: 0.750 accuracy: 0.678 Qc: 0.698 Qh: 0.689 Qe: 0.618
+[37] Training loss: 0.744 accuracy (Q3): 0.678 Qc: 0.691 Qh: 0.681 Qe: 0.648
+[37] Validation loss: 0.751 accuracy: 0.674 Qc: 0.696 Qh: 0.667 Qe: 0.652
+[38] Training loss: 0.744 accuracy (Q3): 0.677 Qc: 0.693 Qh: 0.678 Qe: 0.649
+[38] Validation loss: 0.750 accuracy: 0.678 Qc: 0.686 Qh: 0.694 Qe: 0.627
+[39] Training loss: 0.744 accuracy (Q3): 0.678 Qc: 0.693 Qh: 0.678 Qe: 0.649
+[39] Validation loss: 0.750 accuracy: 0.674 Qc: 0.684 Qh: 0.678 Qe: 0.646
+[40] Training loss: 0.743 accuracy (Q3): 0.678 Qc: 0.693 Qh: 0.681 Qe: 0.646
+[40] Validation loss: 0.750 accuracy: 0.675 Qc: 0.703 Qh: 0.668 Qe: 0.639
+[41] Training loss: 0.743 accuracy (Q3): 0.679 Qc: 0.695 Qh: 0.680 Qe: 0.647
+[41] Validation loss: 0.749 accuracy: 0.677 Qc: 0.677 Qh: 0.697 Qe: 0.636
+[42] Training loss: 0.742 accuracy (Q3): 0.678 Qc: 0.694 Qh: 0.680 Qe: 0.650
+[42] Validation loss: 0.747 accuracy: 0.679 Qc: 0.697 Qh: 0.687 Qe: 0.630
+[43] Training loss: 0.742 accuracy (Q3): 0.679 Qc: 0.694 Qh: 0.682 Qe: 0.646
+[43] Validation loss: 0.747 accuracy: 0.678 Qc: 0.687 Qh: 0.690 Qe: 0.633
+[44] Training loss: 0.741 accuracy (Q3): 0.680 Qc: 0.696 Qh: 0.683 Qe: 0.645
+[44] Validation loss: 0.747 accuracy: 0.676 Qc: 0.700 Qh: 0.670 Qe: 0.646
+[45] Training loss: 0.740 accuracy (Q3): 0.679 Qc: 0.698 Qh: 0.678 Qe: 0.650
+[45] Validation loss: 0.746 accuracy: 0.679 Qc: 0.699 Qh: 0.683 Qe: 0.633
+[46] Training loss: 0.739 accuracy (Q3): 0.681 Qc: 0.698 Qh: 0.681 Qe: 0.649
+[46] Validation loss: 0.746 accuracy: 0.675 Qc: 0.684 Qh: 0.673 Qe: 0.661
+[47] Training loss: 0.737 accuracy (Q3): 0.682 Qc: 0.699 Qh: 0.681 Qe: 0.652
+[47] Validation loss: 0.744 accuracy: 0.678 Qc: 0.679 Qh: 0.692 Qe: 0.645
+[48] Training loss: 0.737 accuracy (Q3): 0.682 Qc: 0.699 Qh: 0.682 Qe: 0.650
+[48] Validation loss: 0.743 accuracy: 0.678 Qc: 0.693 Qh: 0.679 Qe: 0.650
+[49] Training loss: 0.736 accuracy (Q3): 0.682 Qc: 0.701 Qh: 0.682 Qe: 0.651
+[49] Validation loss: 0.741 accuracy: 0.682 Qc: 0.699 Qh: 0.687 Qe: 0.636
+[50] Training loss: 0.734 accuracy (Q3): 0.684 Qc: 0.702 Qh: 0.687 Qe: 0.647
+[50] Validation loss: 0.740 accuracy: 0.683 Qc: 0.704 Qh: 0.687 Qe: 0.634
+[51] Training loss: 0.733 accuracy (Q3): 0.685 Qc: 0.703 Qh: 0.686 Qe: 0.650
+[51] Validation loss: 0.738 accuracy: 0.685 Qc: 0.708 Qh: 0.692 Qe: 0.625
+[52] Training loss: 0.732 accuracy (Q3): 0.685 Qc: 0.704 Qh: 0.685 Qe: 0.652
+[52] Validation loss: 0.737 accuracy: 0.684 Qc: 0.706 Qh: 0.684 Qe: 0.641
+[53] Training loss: 0.728 accuracy (Q3): 0.687 Qc: 0.707 Qh: 0.686 Qe: 0.655
+[53] Validation loss: 0.735 accuracy: 0.684 Qc: 0.702 Qh: 0.688 Qe: 0.642
+[54] Training loss: 0.728 accuracy (Q3): 0.688 Qc: 0.706 Qh: 0.690 Qe: 0.653
+[54] Validation loss: 0.734 accuracy: 0.688 Qc: 0.708 Qh: 0.698 Qe: 0.629
+[55] Training loss: 0.726 accuracy (Q3): 0.689 Qc: 0.706 Qh: 0.694 Qe: 0.651
+[55] Validation loss: 0.733 accuracy: 0.685 Qc: 0.704 Qh: 0.684 Qe: 0.653
+[56] Training loss: 0.723 accuracy (Q3): 0.691 Qc: 0.708 Qh: 0.692 Qe: 0.657
+[56] Validation loss: 0.732 accuracy: 0.682 Qc: 0.710 Qh: 0.663 Qe: 0.673
+[57] Training loss: 0.722 accuracy (Q3): 0.692 Qc: 0.708 Qh: 0.695 Qe: 0.657
+[57] Validation loss: 0.727 accuracy: 0.691 Qc: 0.715 Qh: 0.696 Qe: 0.637
+[58] Training loss: 0.719 accuracy (Q3): 0.694 Qc: 0.710 Qh: 0.698 Qe: 0.659
+[58] Validation loss: 0.727 accuracy: 0.685 Qc: 0.706 Qh: 0.669 Qe: 0.679
+[59] Training loss: 0.716 accuracy (Q3): 0.694 Qc: 0.710 Qh: 0.695 Qe: 0.664
+[59] Validation loss: 0.720 accuracy: 0.695 Qc: 0.697 Qh: 0.716 Qe: 0.641
+[60] Training loss: 0.713 accuracy (Q3): 0.698 Qc: 0.711 Qh: 0.704 Qe: 0.661
+[60] Validation loss: 0.718 accuracy: 0.696 Qc: 0.703 Qh: 0.710 Qe: 0.650
+[61] Training loss: 0.710 accuracy (Q3): 0.699 Qc: 0.711 Qh: 0.706 Qe: 0.665
+[61] Validation loss: 0.716 accuracy: 0.696 Qc: 0.725 Qh: 0.695 Qe: 0.648
+[62] Training loss: 0.706 accuracy (Q3): 0.702 Qc: 0.714 Qh: 0.709 Qe: 0.665
+[62] Validation loss: 0.714 accuracy: 0.695 Qc: 0.702 Qh: 0.700 Qe: 0.673
+[63] Training loss: 0.703 accuracy (Q3): 0.703 Qc: 0.713 Qh: 0.711 Qe: 0.668
+[63] Validation loss: 0.707 accuracy: 0.701 Qc: 0.697 Qh: 0.720 Qe: 0.665
+[64] Training loss: 0.699 accuracy (Q3): 0.706 Qc: 0.713 Qh: 0.715 Qe: 0.673
+[64] Validation loss: 0.707 accuracy: 0.699 Qc: 0.722 Qh: 0.692 Qe: 0.674
+[65] Training loss: 0.696 accuracy (Q3): 0.707 Qc: 0.716 Qh: 0.716 Qe: 0.674
+[65] Validation loss: 0.702 accuracy: 0.704 Qc: 0.718 Qh: 0.710 Qe: 0.666
+[66] Training loss: 0.693 accuracy (Q3): 0.709 Qc: 0.714 Qh: 0.720 Qe: 0.677
+[66] Validation loss: 0.700 accuracy: 0.702 Qc: 0.703 Qh: 0.704 Qe: 0.693
+[67] Training loss: 0.689 accuracy (Q3): 0.711 Qc: 0.716 Qh: 0.722 Qe: 0.680
+[67] Validation loss: 0.695 accuracy: 0.706 Qc: 0.710 Qh: 0.713 Qe: 0.684
+[68] Training loss: 0.685 accuracy (Q3): 0.713 Qc: 0.716 Qh: 0.725 Qe: 0.684
+[68] Validation loss: 0.691 accuracy: 0.709 Qc: 0.712 Qh: 0.718 Qe: 0.681
+[69] Training loss: 0.682 accuracy (Q3): 0.715 Qc: 0.716 Qh: 0.727 Qe: 0.688
+[69] Validation loss: 0.686 accuracy: 0.713 Qc: 0.699 Qh: 0.745 Qe: 0.669
+[70] Training loss: 0.679 accuracy (Q3): 0.717 Qc: 0.717 Qh: 0.733 Qe: 0.686
+[70] Validation loss: 0.685 accuracy: 0.712 Qc: 0.711 Qh: 0.724 Qe: 0.685
+[71] Training loss: 0.675 accuracy (Q3): 0.718 Qc: 0.717 Qh: 0.732 Qe: 0.693
+[71] Validation loss: 0.681 accuracy: 0.717 Qc: 0.701 Qh: 0.750 Qe: 0.668
+[72] Training loss: 0.672 accuracy (Q3): 0.720 Qc: 0.718 Qh: 0.736 Qe: 0.692
+[72] Validation loss: 0.677 accuracy: 0.719 Qc: 0.710 Qh: 0.752 Qe: 0.662
+[73] Training loss: 0.669 accuracy (Q3): 0.722 Qc: 0.718 Qh: 0.739 Qe: 0.694
+[73] Validation loss: 0.675 accuracy: 0.719 Qc: 0.718 Qh: 0.740 Qe: 0.673
+[74] Training loss: 0.667 accuracy (Q3): 0.722 Qc: 0.717 Qh: 0.740 Qe: 0.698
+[74] Validation loss: 0.672 accuracy: 0.724 Qc: 0.717 Qh: 0.760 Qe: 0.655
+[75] Training loss: 0.664 accuracy (Q3): 0.724 Qc: 0.719 Qh: 0.743 Qe: 0.699
+[75] Validation loss: 0.670 accuracy: 0.719 Qc: 0.719 Qh: 0.735 Qe: 0.687
+[76] Training loss: 0.662 accuracy (Q3): 0.725 Qc: 0.718 Qh: 0.745 Qe: 0.698
+[76] Validation loss: 0.668 accuracy: 0.723 Qc: 0.721 Qh: 0.748 Qe: 0.670
+[77] Training loss: 0.659 accuracy (Q3): 0.726 Qc: 0.719 Qh: 0.745 Qe: 0.702
+[77] Validation loss: 0.666 accuracy: 0.723 Qc: 0.715 Qh: 0.752 Qe: 0.674
+[78] Training loss: 0.658 accuracy (Q3): 0.727 Qc: 0.718 Qh: 0.748 Qe: 0.700
+[78] Validation loss: 0.665 accuracy: 0.719 Qc: 0.702 Qh: 0.740 Qe: 0.704
+[79] Training loss: 0.656 accuracy (Q3): 0.727 Qc: 0.719 Qh: 0.747 Qe: 0.705
+[79] Validation loss: 0.664 accuracy: 0.722 Qc: 0.727 Qh: 0.735 Qe: 0.686
+[80] Training loss: 0.654 accuracy (Q3): 0.728 Qc: 0.720 Qh: 0.746 Qe: 0.707
+[80] Validation loss: 0.662 accuracy: 0.724 Qc: 0.723 Qh: 0.742 Qe: 0.684
+[81] Training loss: 0.652 accuracy (Q3): 0.729 Qc: 0.720 Qh: 0.749 Qe: 0.707
+[81] Validation loss: 0.660 accuracy: 0.725 Qc: 0.712 Qh: 0.752 Qe: 0.685
+[82] Training loss: 0.652 accuracy (Q3): 0.729 Qc: 0.719 Qh: 0.752 Qe: 0.703
+[82] Validation loss: 0.660 accuracy: 0.725 Qc: 0.724 Qh: 0.745 Qe: 0.680
+[83] Training loss: 0.649 accuracy (Q3): 0.730 Qc: 0.721 Qh: 0.749 Qe: 0.709
+[83] Validation loss: 0.657 accuracy: 0.727 Qc: 0.707 Qh: 0.762 Qe: 0.684
+[84] Training loss: 0.648 accuracy (Q3): 0.731 Qc: 0.721 Qh: 0.753 Qe: 0.707
+[84] Validation loss: 0.658 accuracy: 0.723 Qc: 0.724 Qh: 0.736 Qe: 0.693
+[85] Training loss: 0.648 accuracy (Q3): 0.731 Qc: 0.721 Qh: 0.752 Qe: 0.708
+[85] Validation loss: 0.656 accuracy: 0.725 Qc: 0.712 Qh: 0.748 Qe: 0.698
+[86] Training loss: 0.647 accuracy (Q3): 0.731 Qc: 0.721 Qh: 0.752 Qe: 0.708
+[86] Validation loss: 0.655 accuracy: 0.727 Qc: 0.721 Qh: 0.751 Qe: 0.683
+[87] Training loss: 0.645 accuracy (Q3): 0.731 Qc: 0.721 Qh: 0.751 Qe: 0.712
+[87] Validation loss: 0.655 accuracy: 0.724 Qc: 0.708 Qh: 0.748 Qe: 0.704
+[88] Training loss: 0.645 accuracy (Q3): 0.732 Qc: 0.720 Qh: 0.755 Qe: 0.709
+[88] Validation loss: 0.654 accuracy: 0.726 Qc: 0.706 Qh: 0.756 Qe: 0.696
+[89] Training loss: 0.644 accuracy (Q3): 0.732 Qc: 0.720 Qh: 0.753 Qe: 0.712
+[89] Validation loss: 0.653 accuracy: 0.727 Qc: 0.717 Qh: 0.753 Qe: 0.690
+[90] Training loss: 0.643 accuracy (Q3): 0.732 Qc: 0.721 Qh: 0.753 Qe: 0.711
+[90] Validation loss: 0.652 accuracy: 0.727 Qc: 0.702 Qh: 0.761 Qe: 0.695
+[91] Training loss: 0.642 accuracy (Q3): 0.733 Qc: 0.721 Qh: 0.754 Qe: 0.714
+[91] Validation loss: 0.653 accuracy: 0.727 Qc: 0.707 Qh: 0.758 Qe: 0.694
+[92] Training loss: 0.642 accuracy (Q3): 0.733 Qc: 0.721 Qh: 0.755 Qe: 0.710
+[92] Validation loss: 0.653 accuracy: 0.723 Qc: 0.710 Qh: 0.735 Qe: 0.717
+[93] Training loss: 0.641 accuracy (Q3): 0.733 Qc: 0.721 Qh: 0.754 Qe: 0.714
+[93] Validation loss: 0.651 accuracy: 0.727 Qc: 0.718 Qh: 0.749 Qe: 0.694
+[94] Training loss: 0.640 accuracy (Q3): 0.734 Qc: 0.722 Qh: 0.755 Qe: 0.713
+[94] Validation loss: 0.650 accuracy: 0.727 Qc: 0.714 Qh: 0.750 Qe: 0.699
+[95] Training loss: 0.639 accuracy (Q3): 0.735 Qc: 0.721 Qh: 0.757 Qe: 0.714
+[95] Validation loss: 0.650 accuracy: 0.729 Qc: 0.721 Qh: 0.760 Qe: 0.677
+[96] Training loss: 0.639 accuracy (Q3): 0.735 Qc: 0.722 Qh: 0.757 Qe: 0.713
+[96] Validation loss: 0.652 accuracy: 0.724 Qc: 0.716 Qh: 0.736 Qe: 0.714
+[97] Training loss: 0.638 accuracy (Q3): 0.735 Qc: 0.723 Qh: 0.755 Qe: 0.714
+[97] Validation loss: 0.649 accuracy: 0.728 Qc: 0.708 Qh: 0.758 Qe: 0.699
+[98] Training loss: 0.638 accuracy (Q3): 0.735 Qc: 0.722 Qh: 0.755 Qe: 0.717
+[98] Validation loss: 0.647 accuracy: 0.729 Qc: 0.720 Qh: 0.755 Qe: 0.688
+[99] Training loss: 0.637 accuracy (Q3): 0.735 Qc: 0.723 Qh: 0.756 Qe: 0.717
+[99] Validation loss: 0.648 accuracy: 0.730 Qc: 0.722 Qh: 0.756 Qe: 0.684
+[100] Training loss: 0.637 accuracy (Q3): 0.736 Qc: 0.724 Qh: 0.759 Qe: 0.713
+[100] Validation loss: 0.650 accuracy: 0.725 Qc: 0.719 Qh: 0.735 Qe: 0.715
+[101] Training loss: 0.637 accuracy (Q3): 0.735 Qc: 0.722 Qh: 0.755 Qe: 0.718
+[101] Validation loss: 0.647 accuracy: 0.729 Qc: 0.716 Qh: 0.753 Qe: 0.696
+[102] Training loss: 0.635 accuracy (Q3): 0.736 Qc: 0.723 Qh: 0.759 Qe: 0.715
+[102] Validation loss: 0.647 accuracy: 0.729 Qc: 0.710 Qh: 0.757 Qe: 0.700
+[103] Training loss: 0.635 accuracy (Q3): 0.736 Qc: 0.724 Qh: 0.757 Qe: 0.717
+[103] Validation loss: 0.646 accuracy: 0.728 Qc: 0.716 Qh: 0.747 Qe: 0.708
+[104] Training loss: 0.635 accuracy (Q3): 0.736 Qc: 0.723 Qh: 0.756 Qe: 0.718
+[104] Validation loss: 0.646 accuracy: 0.729 Qc: 0.716 Qh: 0.751 Qe: 0.700
+[105] Training loss: 0.635 accuracy (Q3): 0.736 Qc: 0.723 Qh: 0.758 Qe: 0.718
+[105] Validation loss: 0.644 accuracy: 0.732 Qc: 0.720 Qh: 0.764 Qe: 0.680
+[106] Training loss: 0.634 accuracy (Q3): 0.737 Qc: 0.725 Qh: 0.759 Qe: 0.715
+[106] Validation loss: 0.647 accuracy: 0.726 Qc: 0.729 Qh: 0.728 Qe: 0.716
+[107] Training loss: 0.633 accuracy (Q3): 0.736 Qc: 0.724 Qh: 0.755 Qe: 0.721
+[107] Validation loss: 0.644 accuracy: 0.733 Qc: 0.730 Qh: 0.759 Qe: 0.679
+[108] Training loss: 0.633 accuracy (Q3): 0.737 Qc: 0.724 Qh: 0.759 Qe: 0.717
+[108] Validation loss: 0.643 accuracy: 0.733 Qc: 0.716 Qh: 0.771 Qe: 0.679
+[109] Training loss: 0.632 accuracy (Q3): 0.737 Qc: 0.726 Qh: 0.758 Qe: 0.717
+[109] Validation loss: 0.644 accuracy: 0.729 Qc: 0.712 Qh: 0.750 Qe: 0.712
+[110] Training loss: 0.632 accuracy (Q3): 0.737 Qc: 0.724 Qh: 0.759 Qe: 0.720
+[110] Validation loss: 0.643 accuracy: 0.732 Qc: 0.729 Qh: 0.751 Qe: 0.692
+[111] Training loss: 0.632 accuracy (Q3): 0.738 Qc: 0.725 Qh: 0.760 Qe: 0.718
+[111] Validation loss: 0.643 accuracy: 0.729 Qc: 0.715 Qh: 0.748 Qe: 0.713
+[112] Training loss: 0.631 accuracy (Q3): 0.738 Qc: 0.725 Qh: 0.757 Qe: 0.721
+[112] Validation loss: 0.642 accuracy: 0.732 Qc: 0.716 Qh: 0.761 Qe: 0.695
+[113] Training loss: 0.630 accuracy (Q3): 0.738 Qc: 0.726 Qh: 0.759 Qe: 0.719
+[113] Validation loss: 0.642 accuracy: 0.731 Qc: 0.725 Qh: 0.752 Qe: 0.696
+[114] Training loss: 0.629 accuracy (Q3): 0.739 Qc: 0.725 Qh: 0.761 Qe: 0.720
+[114] Validation loss: 0.643 accuracy: 0.730 Qc: 0.740 Qh: 0.734 Qe: 0.703
+[115] Training loss: 0.629 accuracy (Q3): 0.739 Qc: 0.727 Qh: 0.758 Qe: 0.721
+[115] Validation loss: 0.640 accuracy: 0.733 Qc: 0.711 Qh: 0.766 Qe: 0.698
+[116] Training loss: 0.629 accuracy (Q3): 0.738 Qc: 0.725 Qh: 0.759 Qe: 0.721
+[116] Validation loss: 0.640 accuracy: 0.734 Qc: 0.701 Qh: 0.781 Qe: 0.690
+[117] Training loss: 0.629 accuracy (Q3): 0.739 Qc: 0.724 Qh: 0.763 Qe: 0.718
+[117] Validation loss: 0.641 accuracy: 0.731 Qc: 0.716 Qh: 0.752 Qe: 0.709
+[118] Training loss: 0.628 accuracy (Q3): 0.739 Qc: 0.726 Qh: 0.760 Qe: 0.722
+[118] Validation loss: 0.641 accuracy: 0.728 Qc: 0.715 Qh: 0.741 Qe: 0.724
+[119] Training loss: 0.628 accuracy (Q3): 0.739 Qc: 0.725 Qh: 0.761 Qe: 0.723
+[119] Validation loss: 0.639 accuracy: 0.733 Qc: 0.716 Qh: 0.762 Qe: 0.701
+[120] Training loss: 0.628 accuracy (Q3): 0.739 Qc: 0.726 Qh: 0.761 Qe: 0.721
+[120] Validation loss: 0.638 accuracy: 0.734 Qc: 0.711 Qh: 0.770 Qe: 0.699
+[121] Training loss: 0.628 accuracy (Q3): 0.739 Qc: 0.726 Qh: 0.761 Qe: 0.721
+[121] Validation loss: 0.638 accuracy: 0.735 Qc: 0.719 Qh: 0.767 Qe: 0.691
+[122] Training loss: 0.626 accuracy (Q3): 0.740 Qc: 0.726 Qh: 0.762 Qe: 0.724
+[122] Validation loss: 0.638 accuracy: 0.733 Qc: 0.713 Qh: 0.765 Qe: 0.699
+[123] Training loss: 0.626 accuracy (Q3): 0.740 Qc: 0.726 Qh: 0.762 Qe: 0.722
+[123] Validation loss: 0.638 accuracy: 0.731 Qc: 0.713 Qh: 0.753 Qe: 0.717
+[124] Training loss: 0.625 accuracy (Q3): 0.740 Qc: 0.726 Qh: 0.762 Qe: 0.723
+[124] Validation loss: 0.642 accuracy: 0.727 Qc: 0.722 Qh: 0.728 Qe: 0.736
+[125] Training loss: 0.625 accuracy (Q3): 0.741 Qc: 0.727 Qh: 0.762 Qe: 0.723
+[125] Validation loss: 0.639 accuracy: 0.731 Qc: 0.719 Qh: 0.748 Qe: 0.714
+[126] Training loss: 0.625 accuracy (Q3): 0.740 Qc: 0.725 Qh: 0.761 Qe: 0.726
+[126] Validation loss: 0.637 accuracy: 0.736 Qc: 0.714 Qh: 0.777 Qe: 0.688
+[127] Training loss: 0.624 accuracy (Q3): 0.741 Qc: 0.728 Qh: 0.764 Qe: 0.721
+[127] Validation loss: 0.637 accuracy: 0.732 Qc: 0.716 Qh: 0.749 Qe: 0.721
+[128] Training loss: 0.623 accuracy (Q3): 0.742 Qc: 0.727 Qh: 0.764 Qe: 0.724
+[128] Validation loss: 0.637 accuracy: 0.732 Qc: 0.713 Qh: 0.753 Qe: 0.719
+[129] Training loss: 0.624 accuracy (Q3): 0.741 Qc: 0.727 Qh: 0.762 Qe: 0.725
+[129] Validation loss: 0.638 accuracy: 0.733 Qc: 0.724 Qh: 0.751 Qe: 0.707
+[130] Training loss: 0.622 accuracy (Q3): 0.742 Qc: 0.726 Qh: 0.764 Qe: 0.726
+[130] Validation loss: 0.635 accuracy: 0.736 Qc: 0.716 Qh: 0.771 Qe: 0.693
+[131] Training loss: 0.623 accuracy (Q3): 0.742 Qc: 0.727 Qh: 0.764 Qe: 0.724
+[131] Validation loss: 0.637 accuracy: 0.733 Qc: 0.728 Qh: 0.748 Qe: 0.708
+[132] Training loss: 0.623 accuracy (Q3): 0.742 Qc: 0.728 Qh: 0.763 Qe: 0.725
+[132] Validation loss: 0.635 accuracy: 0.735 Qc: 0.705 Qh: 0.771 Qe: 0.707
+[133] Training loss: 0.622 accuracy (Q3): 0.742 Qc: 0.728 Qh: 0.766 Qe: 0.724
+[133] Validation loss: 0.635 accuracy: 0.735 Qc: 0.724 Qh: 0.760 Qe: 0.700
+[134] Training loss: 0.622 accuracy (Q3): 0.742 Qc: 0.728 Qh: 0.764 Qe: 0.725
+[134] Validation loss: 0.635 accuracy: 0.734 Qc: 0.715 Qh: 0.760 Qe: 0.711
+[135] Training loss: 0.621 accuracy (Q3): 0.743 Qc: 0.728 Qh: 0.765 Qe: 0.725
+[135] Validation loss: 0.635 accuracy: 0.735 Qc: 0.727 Qh: 0.760 Qe: 0.695
+[136] Training loss: 0.621 accuracy (Q3): 0.743 Qc: 0.727 Qh: 0.766 Qe: 0.725
+[136] Validation loss: 0.634 accuracy: 0.735 Qc: 0.723 Qh: 0.759 Qe: 0.703
+[137] Training loss: 0.620 accuracy (Q3): 0.743 Qc: 0.729 Qh: 0.765 Qe: 0.725
+[137] Validation loss: 0.636 accuracy: 0.731 Qc: 0.711 Qh: 0.750 Qe: 0.728
+[138] Training loss: 0.621 accuracy (Q3): 0.743 Qc: 0.729 Qh: 0.763 Qe: 0.728
+[138] Validation loss: 0.635 accuracy: 0.733 Qc: 0.719 Qh: 0.751 Qe: 0.718
+[139] Training loss: 0.620 accuracy (Q3): 0.743 Qc: 0.727 Qh: 0.767 Qe: 0.725
+[139] Validation loss: 0.634 accuracy: 0.735 Qc: 0.723 Qh: 0.760 Qe: 0.702
+[140] Training loss: 0.620 accuracy (Q3): 0.743 Qc: 0.730 Qh: 0.765 Qe: 0.724
+[140] Validation loss: 0.635 accuracy: 0.733 Qc: 0.700 Qh: 0.766 Qe: 0.721
+[141] Training loss: 0.619 accuracy (Q3): 0.743 Qc: 0.726 Qh: 0.768 Qe: 0.726
+[141] Validation loss: 0.634 accuracy: 0.733 Qc: 0.722 Qh: 0.750 Qe: 0.717
+[142] Training loss: 0.619 accuracy (Q3): 0.744 Qc: 0.729 Qh: 0.767 Qe: 0.726
+[142] Validation loss: 0.633 accuracy: 0.735 Qc: 0.718 Qh: 0.761 Qe: 0.710
+[143] Training loss: 0.620 accuracy (Q3): 0.743 Qc: 0.728 Qh: 0.766 Qe: 0.726
+[143] Validation loss: 0.633 accuracy: 0.735 Qc: 0.715 Qh: 0.765 Qe: 0.706
+[144] Training loss: 0.619 accuracy (Q3): 0.743 Qc: 0.728 Qh: 0.765 Qe: 0.727
+[144] Validation loss: 0.633 accuracy: 0.737 Qc: 0.702 Qh: 0.778 Qe: 0.707
+[145] Training loss: 0.618 accuracy (Q3): 0.744 Qc: 0.729 Qh: 0.767 Qe: 0.726
+[145] Validation loss: 0.633 accuracy: 0.735 Qc: 0.712 Qh: 0.766 Qe: 0.710
+[146] Training loss: 0.618 accuracy (Q3): 0.744 Qc: 0.729 Qh: 0.766 Qe: 0.727
+[146] Validation loss: 0.633 accuracy: 0.738 Qc: 0.701 Qh: 0.785 Qe: 0.699
+[147] Training loss: 0.618 accuracy (Q3): 0.744 Qc: 0.728 Qh: 0.767 Qe: 0.728
+[147] Validation loss: 0.632 accuracy: 0.735 Qc: 0.724 Qh: 0.757 Qe: 0.708
+[148] Training loss: 0.618 accuracy (Q3): 0.744 Qc: 0.730 Qh: 0.767 Qe: 0.727
+[148] Validation loss: 0.632 accuracy: 0.735 Qc: 0.722 Qh: 0.756 Qe: 0.711
+[149] Training loss: 0.617 accuracy (Q3): 0.744 Qc: 0.729 Qh: 0.766 Qe: 0.730
+[149] Validation loss: 0.631 accuracy: 0.738 Qc: 0.716 Qh: 0.774 Qe: 0.698
+[150] Training loss: 0.617 accuracy (Q3): 0.745 Qc: 0.728 Qh: 0.769 Qe: 0.727
+[150] Validation loss: 0.632 accuracy: 0.735 Qc: 0.724 Qh: 0.755 Qe: 0.711
+[151] Training loss: 0.617 accuracy (Q3): 0.745 Qc: 0.731 Qh: 0.767 Qe: 0.727
+[151] Validation loss: 0.631 accuracy: 0.735 Qc: 0.711 Qh: 0.760 Qe: 0.719
+[152] Training loss: 0.617 accuracy (Q3): 0.745 Qc: 0.727 Qh: 0.769 Qe: 0.728
+[152] Validation loss: 0.633 accuracy: 0.734 Qc: 0.724 Qh: 0.748 Qe: 0.720
+[153] Training loss: 0.617 accuracy (Q3): 0.744 Qc: 0.730 Qh: 0.766 Qe: 0.728
+[153] Validation loss: 0.631 accuracy: 0.738 Qc: 0.712 Qh: 0.772 Qe: 0.706
+[154] Training loss: 0.616 accuracy (Q3): 0.745 Qc: 0.729 Qh: 0.768 Qe: 0.730
+[154] Validation loss: 0.631 accuracy: 0.738 Qc: 0.709 Qh: 0.778 Qe: 0.701
+[155] Training loss: 0.617 accuracy (Q3): 0.745 Qc: 0.729 Qh: 0.770 Qe: 0.726
+[155] Validation loss: 0.635 accuracy: 0.730 Qc: 0.725 Qh: 0.730 Qe: 0.740
+[156] Training loss: 0.617 accuracy (Q3): 0.745 Qc: 0.730 Qh: 0.765 Qe: 0.731
+[156] Validation loss: 0.631 accuracy: 0.735 Qc: 0.703 Qh: 0.769 Qe: 0.717
+[157] Training loss: 0.616 accuracy (Q3): 0.745 Qc: 0.729 Qh: 0.769 Qe: 0.728
+[157] Validation loss: 0.629 accuracy: 0.737 Qc: 0.719 Qh: 0.763 Qe: 0.711
+[158] Training loss: 0.616 accuracy (Q3): 0.745 Qc: 0.730 Qh: 0.770 Qe: 0.726
+[158] Validation loss: 0.633 accuracy: 0.732 Qc: 0.718 Qh: 0.740 Qe: 0.739
+[159] Training loss: 0.616 accuracy (Q3): 0.745 Qc: 0.727 Qh: 0.767 Qe: 0.732
+[159] Validation loss: 0.630 accuracy: 0.737 Qc: 0.722 Qh: 0.762 Qe: 0.708
+[160] Training loss: 0.614 accuracy (Q3): 0.746 Qc: 0.731 Qh: 0.768 Qe: 0.731
+[160] Validation loss: 0.629 accuracy: 0.740 Qc: 0.706 Qh: 0.785 Qe: 0.701
+[161] Training loss: 0.616 accuracy (Q3): 0.745 Qc: 0.730 Qh: 0.769 Qe: 0.728
+[161] Validation loss: 0.630 accuracy: 0.735 Qc: 0.713 Qh: 0.760 Qe: 0.720
+[162] Training loss: 0.615 accuracy (Q3): 0.746 Qc: 0.729 Qh: 0.770 Qe: 0.729
+[162] Validation loss: 0.630 accuracy: 0.737 Qc: 0.712 Qh: 0.767 Qe: 0.713
+[163] Training loss: 0.615 accuracy (Q3): 0.745 Qc: 0.729 Qh: 0.768 Qe: 0.729
+[163] Validation loss: 0.630 accuracy: 0.737 Qc: 0.726 Qh: 0.757 Qe: 0.710
+[164] Training loss: 0.614 accuracy (Q3): 0.746 Qc: 0.730 Qh: 0.769 Qe: 0.730
+[164] Validation loss: 0.629 accuracy: 0.738 Qc: 0.707 Qh: 0.780 Qe: 0.704
+[165] Training loss: 0.614 accuracy (Q3): 0.746 Qc: 0.730 Qh: 0.770 Qe: 0.729
+[165] Validation loss: 0.630 accuracy: 0.740 Qc: 0.731 Qh: 0.772 Qe: 0.686
+[166] Training loss: 0.614 accuracy (Q3): 0.746 Qc: 0.731 Qh: 0.769 Qe: 0.730
+[166] Validation loss: 0.629 accuracy: 0.736 Qc: 0.713 Qh: 0.763 Qe: 0.719
+[167] Training loss: 0.614 accuracy (Q3): 0.746 Qc: 0.729 Qh: 0.769 Qe: 0.731
+[167] Validation loss: 0.629 accuracy: 0.740 Qc: 0.714 Qh: 0.781 Qe: 0.693
+[168] Training loss: 0.613 accuracy (Q3): 0.747 Qc: 0.730 Qh: 0.770 Qe: 0.728
+[168] Validation loss: 0.630 accuracy: 0.736 Qc: 0.724 Qh: 0.752 Qe: 0.721
+[169] Training loss: 0.613 accuracy (Q3): 0.747 Qc: 0.731 Qh: 0.768 Qe: 0.732
+[169] Validation loss: 0.628 accuracy: 0.739 Qc: 0.712 Qh: 0.776 Qe: 0.708
+[170] Training loss: 0.613 accuracy (Q3): 0.747 Qc: 0.729 Qh: 0.771 Qe: 0.728
+[170] Validation loss: 0.628 accuracy: 0.738 Qc: 0.714 Qh: 0.772 Qe: 0.707
+[171] Training loss: 0.614 accuracy (Q3): 0.746 Qc: 0.731 Qh: 0.769 Qe: 0.729
+[171] Validation loss: 0.630 accuracy: 0.735 Qc: 0.716 Qh: 0.756 Qe: 0.726
+[172] Training loss: 0.613 accuracy (Q3): 0.746 Qc: 0.729 Qh: 0.769 Qe: 0.731
+[172] Validation loss: 0.632 accuracy: 0.732 Qc: 0.714 Qh: 0.745 Qe: 0.734
+[173] Training loss: 0.613 accuracy (Q3): 0.746 Qc: 0.730 Qh: 0.770 Qe: 0.730
+[173] Validation loss: 0.628 accuracy: 0.738 Qc: 0.725 Qh: 0.764 Qe: 0.705
+[174] Training loss: 0.612 accuracy (Q3): 0.747 Qc: 0.729 Qh: 0.770 Qe: 0.731
+[174] Validation loss: 0.628 accuracy: 0.738 Qc: 0.725 Qh: 0.764 Qe: 0.704
+[175] Training loss: 0.612 accuracy (Q3): 0.748 Qc: 0.732 Qh: 0.770 Qe: 0.730
+[175] Validation loss: 0.628 accuracy: 0.739 Qc: 0.718 Qh: 0.772 Qe: 0.704
+[176] Training loss: 0.613 accuracy (Q3): 0.747 Qc: 0.730 Qh: 0.769 Qe: 0.732
+[176] Validation loss: 0.633 accuracy: 0.731 Qc: 0.717 Qh: 0.736 Qe: 0.746
+[177] Training loss: 0.612 accuracy (Q3): 0.747 Qc: 0.731 Qh: 0.770 Qe: 0.730
+[177] Validation loss: 0.629 accuracy: 0.737 Qc: 0.708 Qh: 0.767 Qe: 0.722
+[178] Training loss: 0.612 accuracy (Q3): 0.747 Qc: 0.730 Qh: 0.770 Qe: 0.733
+[178] Validation loss: 0.629 accuracy: 0.736 Qc: 0.718 Qh: 0.757 Qe: 0.726
+[179] Training loss: 0.611 accuracy (Q3): 0.748 Qc: 0.731 Qh: 0.772 Qe: 0.730
+[179] Validation loss: 0.628 accuracy: 0.736 Qc: 0.711 Qh: 0.762 Qe: 0.726
+[180] Training loss: 0.612 accuracy (Q3): 0.747 Qc: 0.731 Qh: 0.770 Qe: 0.731
+[180] Validation loss: 0.629 accuracy: 0.738 Qc: 0.724 Qh: 0.759 Qe: 0.715
+[181] Training loss: 0.611 accuracy (Q3): 0.748 Qc: 0.730 Qh: 0.770 Qe: 0.735
+[181] Validation loss: 0.627 accuracy: 0.740 Qc: 0.724 Qh: 0.772 Qe: 0.698
+[182] Training loss: 0.611 accuracy (Q3): 0.748 Qc: 0.732 Qh: 0.773 Qe: 0.729
+[182] Validation loss: 0.627 accuracy: 0.738 Qc: 0.724 Qh: 0.760 Qe: 0.714
+[183] Training loss: 0.612 accuracy (Q3): 0.747 Qc: 0.731 Qh: 0.768 Qe: 0.734
+[183] Validation loss: 0.627 accuracy: 0.739 Qc: 0.709 Qh: 0.776 Qe: 0.712
+[184] Training loss: 0.611 accuracy (Q3): 0.747 Qc: 0.730 Qh: 0.772 Qe: 0.730
+[184] Validation loss: 0.627 accuracy: 0.738 Qc: 0.717 Qh: 0.767 Qe: 0.713
+[185] Training loss: 0.612 accuracy (Q3): 0.747 Qc: 0.731 Qh: 0.769 Qe: 0.731
+[185] Validation loss: 0.628 accuracy: 0.736 Qc: 0.720 Qh: 0.755 Qe: 0.725
+[186] Training loss: 0.610 accuracy (Q3): 0.748 Qc: 0.731 Qh: 0.772 Qe: 0.731
+[186] Validation loss: 0.627 accuracy: 0.739 Qc: 0.722 Qh: 0.769 Qe: 0.703
+[187] Training loss: 0.611 accuracy (Q3): 0.747 Qc: 0.731 Qh: 0.770 Qe: 0.732
+[187] Validation loss: 0.627 accuracy: 0.740 Qc: 0.708 Qh: 0.781 Qe: 0.706
+[188] Training loss: 0.611 accuracy (Q3): 0.747 Qc: 0.730 Qh: 0.771 Qe: 0.731
+[188] Validation loss: 0.627 accuracy: 0.739 Qc: 0.713 Qh: 0.770 Qe: 0.713
+[189] Training loss: 0.610 accuracy (Q3): 0.748 Qc: 0.733 Qh: 0.770 Qe: 0.731
+[189] Validation loss: 0.626 accuracy: 0.739 Qc: 0.708 Qh: 0.777 Qe: 0.712
+[190] Training loss: 0.611 accuracy (Q3): 0.748 Qc: 0.731 Qh: 0.772 Qe: 0.731
+[190] Validation loss: 0.627 accuracy: 0.738 Qc: 0.716 Qh: 0.767 Qe: 0.713
+[191] Training loss: 0.610 accuracy (Q3): 0.748 Qc: 0.730 Qh: 0.772 Qe: 0.733
+[191] Validation loss: 0.628 accuracy: 0.737 Qc: 0.726 Qh: 0.756 Qe: 0.717
+[192] Training loss: 0.609 accuracy (Q3): 0.748 Qc: 0.732 Qh: 0.770 Qe: 0.734
+[192] Validation loss: 0.625 accuracy: 0.740 Qc: 0.718 Qh: 0.771 Qe: 0.709
+[193] Training loss: 0.610 accuracy (Q3): 0.748 Qc: 0.731 Qh: 0.771 Qe: 0.732
+[193] Validation loss: 0.626 accuracy: 0.739 Qc: 0.707 Qh: 0.778 Qe: 0.711
+[194] Training loss: 0.610 accuracy (Q3): 0.748 Qc: 0.732 Qh: 0.771 Qe: 0.731
+[194] Validation loss: 0.626 accuracy: 0.738 Qc: 0.717 Qh: 0.763 Qe: 0.721
+[195] Training loss: 0.610 accuracy (Q3): 0.748 Qc: 0.731 Qh: 0.772 Qe: 0.732
+[195] Validation loss: 0.626 accuracy: 0.741 Qc: 0.715 Qh: 0.779 Qe: 0.701
+[196] Training loss: 0.609 accuracy (Q3): 0.748 Qc: 0.731 Qh: 0.772 Qe: 0.732
+[196] Validation loss: 0.627 accuracy: 0.737 Qc: 0.715 Qh: 0.760 Qe: 0.726
+[197] Training loss: 0.610 accuracy (Q3): 0.748 Qc: 0.730 Qh: 0.772 Qe: 0.731
+[197] Validation loss: 0.628 accuracy: 0.737 Qc: 0.727 Qh: 0.753 Qe: 0.718
+[198] Training loss: 0.608 accuracy (Q3): 0.749 Qc: 0.733 Qh: 0.772 Qe: 0.732
+[198] Validation loss: 0.628 accuracy: 0.736 Qc: 0.714 Qh: 0.756 Qe: 0.730
+[199] Training loss: 0.609 accuracy (Q3): 0.748 Qc: 0.732 Qh: 0.770 Qe: 0.734
+[199] Validation loss: 0.627 accuracy: 0.738 Qc: 0.722 Qh: 0.761 Qe: 0.716
+[200] Training loss: 0.609 accuracy (Q3): 0.748 Qc: 0.733 Qh: 0.769 Qe: 0.734
+[200] Validation loss: 0.626 accuracy: 0.738 Qc: 0.717 Qh: 0.761 Qe: 0.723
+[201] Training loss: 0.609 accuracy (Q3): 0.748 Qc: 0.730 Qh: 0.773 Qe: 0.731
+[201] Validation loss: 0.630 accuracy: 0.735 Qc: 0.728 Qh: 0.744 Qe: 0.731
+[202] Training loss: 0.608 accuracy (Q3): 0.748 Qc: 0.732 Qh: 0.768 Qe: 0.736
+[202] Validation loss: 0.625 accuracy: 0.742 Qc: 0.721 Qh: 0.777 Qe: 0.701
+[203] Training loss: 0.609 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.772 Qe: 0.732
+[203] Validation loss: 0.626 accuracy: 0.738 Qc: 0.711 Qh: 0.766 Qe: 0.725
+[204] Training loss: 0.608 accuracy (Q3): 0.748 Qc: 0.731 Qh: 0.772 Qe: 0.733
+[204] Validation loss: 0.627 accuracy: 0.737 Qc: 0.722 Qh: 0.753 Qe: 0.730
+[205] Training loss: 0.609 accuracy (Q3): 0.748 Qc: 0.732 Qh: 0.770 Qe: 0.734
+[205] Validation loss: 0.626 accuracy: 0.739 Qc: 0.727 Qh: 0.757 Qe: 0.717
+[206] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.731 Qh: 0.772 Qe: 0.734
+[206] Validation loss: 0.626 accuracy: 0.737 Qc: 0.713 Qh: 0.762 Qe: 0.726
+[207] Training loss: 0.608 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.772 Qe: 0.734
+[207] Validation loss: 0.626 accuracy: 0.738 Qc: 0.718 Qh: 0.763 Qe: 0.721
+[208] Training loss: 0.608 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.772 Qe: 0.732
+[208] Validation loss: 0.628 accuracy: 0.735 Qc: 0.723 Qh: 0.745 Qe: 0.735
+[209] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.772 Qe: 0.734
+[209] Validation loss: 0.624 accuracy: 0.741 Qc: 0.717 Qh: 0.777 Qe: 0.704
+[210] Training loss: 0.608 accuracy (Q3): 0.749 Qc: 0.731 Qh: 0.773 Qe: 0.734
+[210] Validation loss: 0.624 accuracy: 0.741 Qc: 0.719 Qh: 0.775 Qe: 0.705
+[211] Training loss: 0.608 accuracy (Q3): 0.749 Qc: 0.733 Qh: 0.771 Qe: 0.733
+[211] Validation loss: 0.627 accuracy: 0.736 Qc: 0.710 Qh: 0.759 Qe: 0.733
+[212] Training loss: 0.608 accuracy (Q3): 0.748 Qc: 0.730 Qh: 0.772 Qe: 0.735
+[212] Validation loss: 0.625 accuracy: 0.741 Qc: 0.719 Qh: 0.777 Qe: 0.704
+[213] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.733 Qh: 0.773 Qe: 0.732
+[213] Validation loss: 0.630 accuracy: 0.734 Qc: 0.735 Qh: 0.734 Qe: 0.736
+[214] Training loss: 0.608 accuracy (Q3): 0.748 Qc: 0.732 Qh: 0.770 Qe: 0.734
+[214] Validation loss: 0.625 accuracy: 0.739 Qc: 0.707 Qh: 0.776 Qe: 0.717
+[215] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.772 Qe: 0.733
+[215] Validation loss: 0.626 accuracy: 0.739 Qc: 0.712 Qh: 0.768 Qe: 0.721
+[216] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.772 Qe: 0.735
+[216] Validation loss: 0.625 accuracy: 0.739 Qc: 0.721 Qh: 0.764 Qe: 0.716
+[217] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.772 Qe: 0.735
+[217] Validation loss: 0.628 accuracy: 0.737 Qc: 0.738 Qh: 0.743 Qe: 0.720
+[218] Training loss: 0.608 accuracy (Q3): 0.749 Qc: 0.733 Qh: 0.772 Qe: 0.733
+[218] Validation loss: 0.624 accuracy: 0.740 Qc: 0.710 Qh: 0.777 Qe: 0.715
+[219] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.731 Qh: 0.772 Qe: 0.735
+[219] Validation loss: 0.627 accuracy: 0.738 Qc: 0.731 Qh: 0.752 Qe: 0.718
+[220] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.733 Qh: 0.772 Qe: 0.734
+[220] Validation loss: 0.626 accuracy: 0.737 Qc: 0.714 Qh: 0.758 Qe: 0.731
+[221] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.731 Qh: 0.772 Qe: 0.734
+[221] Validation loss: 0.625 accuracy: 0.739 Qc: 0.723 Qh: 0.763 Qe: 0.715
+[222] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.774 Qe: 0.733
+[222] Validation loss: 0.627 accuracy: 0.737 Qc: 0.726 Qh: 0.749 Qe: 0.727
+[223] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.773 Qe: 0.735
+[223] Validation loss: 0.626 accuracy: 0.740 Qc: 0.722 Qh: 0.766 Qe: 0.713
+[224] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.771 Qe: 0.736
+[224] Validation loss: 0.624 accuracy: 0.743 Qc: 0.728 Qh: 0.777 Qe: 0.692
+[225] Training loss: 0.606 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.774 Qe: 0.733
+[225] Validation loss: 0.627 accuracy: 0.738 Qc: 0.726 Qh: 0.756 Qe: 0.718
+[226] Training loss: 0.606 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.773 Qe: 0.736
+[226] Validation loss: 0.624 accuracy: 0.741 Qc: 0.711 Qh: 0.778 Qe: 0.711
+[227] Training loss: 0.606 accuracy (Q3): 0.750 Qc: 0.732 Qh: 0.772 Qe: 0.737
+[227] Validation loss: 0.625 accuracy: 0.741 Qc: 0.717 Qh: 0.778 Qe: 0.705
+[228] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.733 Qh: 0.773 Qe: 0.732
+[228] Validation loss: 0.625 accuracy: 0.739 Qc: 0.708 Qh: 0.773 Qe: 0.723
+[229] Training loss: 0.606 accuracy (Q3): 0.750 Qc: 0.732 Qh: 0.773 Qe: 0.735
+[229] Validation loss: 0.625 accuracy: 0.739 Qc: 0.727 Qh: 0.762 Qe: 0.714
+[230] Training loss: 0.606 accuracy (Q3): 0.750 Qc: 0.732 Qh: 0.774 Qe: 0.733
+[230] Validation loss: 0.625 accuracy: 0.740 Qc: 0.718 Qh: 0.770 Qe: 0.715
+[231] Training loss: 0.606 accuracy (Q3): 0.750 Qc: 0.732 Qh: 0.773 Qe: 0.735
+[231] Validation loss: 0.628 accuracy: 0.736 Qc: 0.737 Qh: 0.738 Qe: 0.731
+[232] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.734 Qh: 0.772 Qe: 0.735
+[232] Validation loss: 0.625 accuracy: 0.738 Qc: 0.722 Qh: 0.759 Qe: 0.722
+[233] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.734 Qh: 0.771 Qe: 0.735
+[233] Validation loss: 0.625 accuracy: 0.740 Qc: 0.712 Qh: 0.773 Qe: 0.717
+[234] Training loss: 0.607 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.773 Qe: 0.735
+[234] Validation loss: 0.624 accuracy: 0.740 Qc: 0.726 Qh: 0.764 Qe: 0.714
+[235] Training loss: 0.606 accuracy (Q3): 0.750 Qc: 0.732 Qh: 0.773 Qe: 0.735
+[235] Validation loss: 0.624 accuracy: 0.741 Qc: 0.729 Qh: 0.766 Qe: 0.709
+[236] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.772 Qe: 0.736
+[236] Validation loss: 0.625 accuracy: 0.739 Qc: 0.706 Qh: 0.773 Qe: 0.722
+[237] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.776 Qe: 0.732
+[237] Validation loss: 0.626 accuracy: 0.737 Qc: 0.713 Qh: 0.759 Qe: 0.728
+[238] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.772 Qe: 0.738
+[238] Validation loss: 0.624 accuracy: 0.741 Qc: 0.723 Qh: 0.772 Qe: 0.707
+[239] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.774 Qe: 0.735
+[239] Validation loss: 0.625 accuracy: 0.744 Qc: 0.729 Qh: 0.783 Qe: 0.683
+[240] Training loss: 0.606 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.774 Qe: 0.732
+[240] Validation loss: 0.625 accuracy: 0.738 Qc: 0.717 Qh: 0.759 Qe: 0.729
+[241] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.732 Qh: 0.773 Qe: 0.735
+[241] Validation loss: 0.624 accuracy: 0.741 Qc: 0.728 Qh: 0.764 Qe: 0.711
+[242] Training loss: 0.606 accuracy (Q3): 0.750 Qc: 0.734 Qh: 0.771 Qe: 0.735
+[242] Validation loss: 0.624 accuracy: 0.740 Qc: 0.711 Qh: 0.773 Qe: 0.719
+[243] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.774 Qe: 0.734
+[243] Validation loss: 0.625 accuracy: 0.739 Qc: 0.722 Qh: 0.759 Qe: 0.722
+[244] Training loss: 0.606 accuracy (Q3): 0.749 Qc: 0.733 Qh: 0.771 Qe: 0.736
+[244] Validation loss: 0.625 accuracy: 0.738 Qc: 0.712 Qh: 0.762 Qe: 0.730
+[245] Training loss: 0.606 accuracy (Q3): 0.749 Qc: 0.732 Qh: 0.772 Qe: 0.735
+[245] Validation loss: 0.625 accuracy: 0.739 Qc: 0.719 Qh: 0.765 Qe: 0.719
+[246] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.734 Qh: 0.773 Qe: 0.735
+[246] Validation loss: 0.625 accuracy: 0.741 Qc: 0.716 Qh: 0.778 Qe: 0.704
+[247] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.774 Qe: 0.736
+[247] Validation loss: 0.625 accuracy: 0.738 Qc: 0.721 Qh: 0.758 Qe: 0.725
+[248] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.734 Qh: 0.773 Qe: 0.736
+[248] Validation loss: 0.624 accuracy: 0.740 Qc: 0.721 Qh: 0.765 Qe: 0.718
+[249] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.732 Qh: 0.774 Qe: 0.734
+[249] Validation loss: 0.624 accuracy: 0.738 Qc: 0.713 Qh: 0.763 Qe: 0.729
+[250] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.734 Qh: 0.772 Qe: 0.737
+[250] Validation loss: 0.624 accuracy: 0.741 Qc: 0.709 Qh: 0.783 Qe: 0.707
+[251] Training loss: 0.604 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.775 Qe: 0.735
+[251] Validation loss: 0.624 accuracy: 0.743 Qc: 0.715 Qh: 0.784 Qe: 0.700
+[252] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.732 Qh: 0.774 Qe: 0.736
+[252] Validation loss: 0.624 accuracy: 0.741 Qc: 0.727 Qh: 0.765 Qe: 0.711
+[253] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.734 Qh: 0.774 Qe: 0.735
+[253] Validation loss: 0.625 accuracy: 0.736 Qc: 0.709 Qh: 0.760 Qe: 0.735
+[254] Training loss: 0.605 accuracy (Q3): 0.750 Qc: 0.734 Qh: 0.774 Qe: 0.734
+[254] Validation loss: 0.626 accuracy: 0.737 Qc: 0.731 Qh: 0.748 Qe: 0.724
+[255] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.773 Qe: 0.737
+[255] Validation loss: 0.623 accuracy: 0.743 Qc: 0.722 Qh: 0.777 Qe: 0.702
+[256] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.774 Qe: 0.734
+[256] Validation loss: 0.625 accuracy: 0.737 Qc: 0.727 Qh: 0.749 Qe: 0.730
+[257] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.773 Qe: 0.736
+[257] Validation loss: 0.624 accuracy: 0.741 Qc: 0.726 Qh: 0.769 Qe: 0.708
+[258] Training loss: 0.604 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.774 Qe: 0.735
+[258] Validation loss: 0.625 accuracy: 0.739 Qc: 0.719 Qh: 0.764 Qe: 0.719
+[259] Training loss: 0.604 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.776 Qe: 0.734
+[259] Validation loss: 0.624 accuracy: 0.742 Qc: 0.723 Qh: 0.777 Qe: 0.699
+[260] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.773 Qe: 0.738
+[260] Validation loss: 0.624 accuracy: 0.741 Qc: 0.721 Qh: 0.771 Qe: 0.708
+[261] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.774 Qe: 0.734
+[261] Validation loss: 0.624 accuracy: 0.739 Qc: 0.723 Qh: 0.758 Qe: 0.723
+[262] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.774 Qe: 0.736
+[262] Validation loss: 0.624 accuracy: 0.739 Qc: 0.711 Qh: 0.771 Qe: 0.721
+[263] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.732 Qh: 0.775 Qe: 0.737
+[263] Validation loss: 0.625 accuracy: 0.739 Qc: 0.723 Qh: 0.759 Qe: 0.722
+[264] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.734 Qh: 0.773 Qe: 0.734
+[264] Validation loss: 0.624 accuracy: 0.742 Qc: 0.724 Qh: 0.774 Qe: 0.703
+[265] Training loss: 0.604 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.735
+[265] Validation loss: 0.624 accuracy: 0.739 Qc: 0.719 Qh: 0.764 Qe: 0.721
+[266] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.774 Qe: 0.736
+[266] Validation loss: 0.624 accuracy: 0.742 Qc: 0.730 Qh: 0.768 Qe: 0.705
+[267] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.734 Qh: 0.773 Qe: 0.735
+[267] Validation loss: 0.624 accuracy: 0.740 Qc: 0.731 Qh: 0.757 Qe: 0.716
+[268] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.737
+[268] Validation loss: 0.625 accuracy: 0.741 Qc: 0.737 Qh: 0.763 Qe: 0.702
+[269] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.774 Qe: 0.735
+[269] Validation loss: 0.623 accuracy: 0.741 Qc: 0.725 Qh: 0.763 Qe: 0.718
+[270] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.735 Qh: 0.771 Qe: 0.737
+[270] Validation loss: 0.623 accuracy: 0.739 Qc: 0.713 Qh: 0.766 Qe: 0.726
+[271] Training loss: 0.602 accuracy (Q3): 0.752 Qc: 0.733 Qh: 0.777 Qe: 0.736
+[271] Validation loss: 0.624 accuracy: 0.739 Qc: 0.722 Qh: 0.759 Qe: 0.724
+[272] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.774 Qe: 0.737
+[272] Validation loss: 0.624 accuracy: 0.743 Qc: 0.727 Qh: 0.776 Qe: 0.698
+[273] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.735 Qh: 0.773 Qe: 0.736
+[273] Validation loss: 0.625 accuracy: 0.737 Qc: 0.719 Qh: 0.755 Qe: 0.732
+[274] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.736
+[274] Validation loss: 0.626 accuracy: 0.737 Qc: 0.722 Qh: 0.750 Qe: 0.736
+[275] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.774 Qe: 0.737
+[275] Validation loss: 0.623 accuracy: 0.741 Qc: 0.727 Qh: 0.766 Qe: 0.714
+[276] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.736
+[276] Validation loss: 0.625 accuracy: 0.739 Qc: 0.730 Qh: 0.758 Qe: 0.718
+[277] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.774 Qe: 0.738
+[277] Validation loss: 0.623 accuracy: 0.742 Qc: 0.732 Qh: 0.767 Qe: 0.706
+[278] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.775 Qe: 0.735
+[278] Validation loss: 0.623 accuracy: 0.740 Qc: 0.720 Qh: 0.767 Qe: 0.721
+[279] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.732 Qh: 0.776 Qe: 0.736
+[279] Validation loss: 0.626 accuracy: 0.737 Qc: 0.733 Qh: 0.745 Qe: 0.727
+[280] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.734
+[280] Validation loss: 0.624 accuracy: 0.738 Qc: 0.708 Qh: 0.765 Qe: 0.733
+[281] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.732 Qh: 0.775 Qe: 0.736
+[281] Validation loss: 0.624 accuracy: 0.744 Qc: 0.735 Qh: 0.774 Qe: 0.690
+[282] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.775 Qe: 0.735
+[282] Validation loss: 0.624 accuracy: 0.741 Qc: 0.727 Qh: 0.765 Qe: 0.714
+[283] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.735 Qh: 0.773 Qe: 0.737
+[283] Validation loss: 0.623 accuracy: 0.738 Qc: 0.716 Qh: 0.757 Qe: 0.735
+[284] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.775 Qe: 0.736
+[284] Validation loss: 0.624 accuracy: 0.740 Qc: 0.722 Qh: 0.763 Qe: 0.720
+[285] Training loss: 0.604 accuracy (Q3): 0.750 Qc: 0.733 Qh: 0.772 Qe: 0.738
+[285] Validation loss: 0.624 accuracy: 0.741 Qc: 0.728 Qh: 0.762 Qe: 0.715
+[286] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.774 Qe: 0.736
+[286] Validation loss: 0.622 accuracy: 0.742 Qc: 0.723 Qh: 0.774 Qe: 0.706
+[287] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.735 Qh: 0.774 Qe: 0.734
+[287] Validation loss: 0.624 accuracy: 0.738 Qc: 0.714 Qh: 0.761 Qe: 0.732
+[288] Training loss: 0.603 accuracy (Q3): 0.750 Qc: 0.732 Qh: 0.774 Qe: 0.736
+[288] Validation loss: 0.624 accuracy: 0.738 Qc: 0.714 Qh: 0.763 Qe: 0.728
+[289] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.773 Qe: 0.738
+[289] Validation loss: 0.623 accuracy: 0.740 Qc: 0.724 Qh: 0.761 Qe: 0.721
+[290] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.774 Qe: 0.738
+[290] Validation loss: 0.624 accuracy: 0.739 Qc: 0.733 Qh: 0.751 Qe: 0.721
+[291] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.735 Qh: 0.773 Qe: 0.736
+[291] Validation loss: 0.625 accuracy: 0.738 Qc: 0.721 Qh: 0.757 Qe: 0.729
+[292] Training loss: 0.603 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.774 Qe: 0.736
+[292] Validation loss: 0.623 accuracy: 0.740 Qc: 0.720 Qh: 0.764 Qe: 0.721
+[293] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.735 Qh: 0.774 Qe: 0.737
+[293] Validation loss: 0.623 accuracy: 0.741 Qc: 0.726 Qh: 0.763 Qe: 0.718
+[294] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.738
+[294] Validation loss: 0.623 accuracy: 0.742 Qc: 0.727 Qh: 0.770 Qe: 0.705
+[295] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.774 Qe: 0.737
+[295] Validation loss: 0.623 accuracy: 0.744 Qc: 0.711 Qh: 0.791 Qe: 0.698
+[296] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.775 Qe: 0.737
+[296] Validation loss: 0.623 accuracy: 0.742 Qc: 0.706 Qh: 0.789 Qe: 0.706
+[297] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.773 Qe: 0.737
+[297] Validation loss: 0.623 accuracy: 0.740 Qc: 0.716 Qh: 0.766 Qe: 0.723
+[298] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.773 Qe: 0.738
+[298] Validation loss: 0.624 accuracy: 0.741 Qc: 0.726 Qh: 0.767 Qe: 0.710
+[299] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.776 Qe: 0.734
+[299] Validation loss: 0.623 accuracy: 0.740 Qc: 0.715 Qh: 0.769 Qe: 0.723
+[300] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.737
+[300] Validation loss: 0.624 accuracy: 0.741 Qc: 0.721 Qh: 0.768 Qe: 0.717
+[301] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.773 Qe: 0.738
+[301] Validation loss: 0.622 accuracy: 0.742 Qc: 0.726 Qh: 0.767 Qe: 0.715
+[302] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.773 Qe: 0.739
+[302] Validation loss: 0.622 accuracy: 0.742 Qc: 0.710 Qh: 0.787 Qe: 0.703
+[303] Training loss: 0.602 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.736
+[303] Validation loss: 0.625 accuracy: 0.737 Qc: 0.717 Qh: 0.757 Qe: 0.732
+[304] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.736
+[304] Validation loss: 0.623 accuracy: 0.740 Qc: 0.710 Qh: 0.770 Qe: 0.724
+[305] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.737
+[305] Validation loss: 0.623 accuracy: 0.739 Qc: 0.712 Qh: 0.766 Qe: 0.728
+[306] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.732 Qh: 0.774 Qe: 0.738
+[306] Validation loss: 0.622 accuracy: 0.742 Qc: 0.726 Qh: 0.768 Qe: 0.712
+[307] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.735 Qh: 0.774 Qe: 0.736
+[307] Validation loss: 0.622 accuracy: 0.742 Qc: 0.718 Qh: 0.774 Qe: 0.713
+[308] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.738
+[308] Validation loss: 0.623 accuracy: 0.739 Qc: 0.718 Qh: 0.761 Qe: 0.727
+[309] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.773 Qe: 0.739
+[309] Validation loss: 0.623 accuracy: 0.742 Qc: 0.731 Qh: 0.765 Qe: 0.709
+[310] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.775 Qe: 0.736
+[310] Validation loss: 0.623 accuracy: 0.742 Qc: 0.726 Qh: 0.769 Qe: 0.708
+[311] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.733 Qh: 0.775 Qe: 0.738
+[311] Validation loss: 0.623 accuracy: 0.741 Qc: 0.727 Qh: 0.766 Qe: 0.711
+[312] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.775 Qe: 0.735
+[312] Validation loss: 0.622 accuracy: 0.741 Qc: 0.725 Qh: 0.765 Qe: 0.715
+[313] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.777 Qe: 0.735
+[313] Validation loss: 0.626 accuracy: 0.737 Qc: 0.729 Qh: 0.741 Qe: 0.739
+[314] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.736 Qh: 0.772 Qe: 0.738
+[314] Validation loss: 0.624 accuracy: 0.736 Qc: 0.706 Qh: 0.758 Qe: 0.743
+[315] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.732 Qh: 0.777 Qe: 0.740
+[315] Validation loss: 0.623 accuracy: 0.739 Qc: 0.720 Qh: 0.761 Qe: 0.725
+[316] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.738
+[316] Validation loss: 0.623 accuracy: 0.742 Qc: 0.732 Qh: 0.763 Qe: 0.711
+[317] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.775 Qe: 0.737
+[317] Validation loss: 0.622 accuracy: 0.742 Qc: 0.725 Qh: 0.772 Qe: 0.708
+[318] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.775 Qe: 0.738
+[318] Validation loss: 0.623 accuracy: 0.741 Qc: 0.725 Qh: 0.764 Qe: 0.715
+[319] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.737
+[319] Validation loss: 0.623 accuracy: 0.741 Qc: 0.709 Qh: 0.780 Qe: 0.712
+[320] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.737
+[320] Validation loss: 0.623 accuracy: 0.740 Qc: 0.712 Qh: 0.775 Qe: 0.714
+[321] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.776 Qe: 0.738
+[321] Validation loss: 0.622 accuracy: 0.744 Qc: 0.728 Qh: 0.779 Qe: 0.694
+[322] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.737
+[322] Validation loss: 0.622 accuracy: 0.742 Qc: 0.713 Qh: 0.782 Qe: 0.708
+[323] Training loss: 0.602 accuracy (Q3): 0.752 Qc: 0.733 Qh: 0.777 Qe: 0.735
+[323] Validation loss: 0.623 accuracy: 0.739 Qc: 0.715 Qh: 0.765 Qe: 0.726
+[324] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.772 Qe: 0.740
+[324] Validation loss: 0.624 accuracy: 0.739 Qc: 0.729 Qh: 0.753 Qe: 0.724
+[325] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.739
+[325] Validation loss: 0.622 accuracy: 0.741 Qc: 0.725 Qh: 0.763 Qe: 0.719
+[326] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.737
+[326] Validation loss: 0.623 accuracy: 0.743 Qc: 0.709 Qh: 0.791 Qe: 0.698
+[327] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.738
+[327] Validation loss: 0.622 accuracy: 0.741 Qc: 0.715 Qh: 0.774 Qe: 0.715
+[328] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.775 Qe: 0.735
+[328] Validation loss: 0.622 accuracy: 0.741 Qc: 0.724 Qh: 0.766 Qe: 0.716
+[329] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.775 Qe: 0.738
+[329] Validation loss: 0.621 accuracy: 0.743 Qc: 0.723 Qh: 0.777 Qe: 0.704
+[330] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.735 Qh: 0.775 Qe: 0.736
+[330] Validation loss: 0.622 accuracy: 0.741 Qc: 0.729 Qh: 0.762 Qe: 0.718
+[331] Training loss: 0.603 accuracy (Q3): 0.750 Qc: 0.734 Qh: 0.771 Qe: 0.738
+[331] Validation loss: 0.622 accuracy: 0.740 Qc: 0.713 Qh: 0.771 Qe: 0.721
+[332] Training loss: 0.600 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.774 Qe: 0.739
+[332] Validation loss: 0.621 accuracy: 0.743 Qc: 0.718 Qh: 0.777 Qe: 0.712
+[333] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.736
+[333] Validation loss: 0.622 accuracy: 0.740 Qc: 0.725 Qh: 0.762 Qe: 0.722
+[334] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.774 Qe: 0.739
+[334] Validation loss: 0.622 accuracy: 0.742 Qc: 0.717 Qh: 0.780 Qe: 0.704
+[335] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.738
+[335] Validation loss: 0.621 accuracy: 0.741 Qc: 0.713 Qh: 0.775 Qe: 0.715
+[336] Training loss: 0.601 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.775 Qe: 0.738
+[336] Validation loss: 0.622 accuracy: 0.744 Qc: 0.731 Qh: 0.778 Qe: 0.693
+[337] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.776 Qe: 0.735
+[337] Validation loss: 0.622 accuracy: 0.741 Qc: 0.722 Qh: 0.766 Qe: 0.720
+[338] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.738
+[338] Validation loss: 0.622 accuracy: 0.740 Qc: 0.727 Qh: 0.760 Qe: 0.723
+[339] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.775 Qe: 0.738
+[339] Validation loss: 0.622 accuracy: 0.742 Qc: 0.714 Qh: 0.779 Qe: 0.712
+[340] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.738
+[340] Validation loss: 0.621 accuracy: 0.742 Qc: 0.708 Qh: 0.780 Qe: 0.717
+[341] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.776 Qe: 0.738
+[341] Validation loss: 0.622 accuracy: 0.742 Qc: 0.724 Qh: 0.769 Qe: 0.713
+[342] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.737
+[342] Validation loss: 0.621 accuracy: 0.741 Qc: 0.722 Qh: 0.767 Qe: 0.719
+[343] Training loss: 0.602 accuracy (Q3): 0.751 Qc: 0.733 Qh: 0.775 Qe: 0.738
+[343] Validation loss: 0.621 accuracy: 0.743 Qc: 0.709 Qh: 0.789 Qe: 0.704
+[344] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.735
+[344] Validation loss: 0.623 accuracy: 0.740 Qc: 0.715 Qh: 0.771 Qe: 0.718
+[345] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.733 Qh: 0.776 Qe: 0.740
+[345] Validation loss: 0.622 accuracy: 0.742 Qc: 0.730 Qh: 0.764 Qe: 0.714
+[346] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.773 Qe: 0.738
+[346] Validation loss: 0.622 accuracy: 0.742 Qc: 0.722 Qh: 0.772 Qe: 0.711
+[347] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.738
+[347] Validation loss: 0.622 accuracy: 0.742 Qc: 0.719 Qh: 0.772 Qe: 0.714
+[348] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.739
+[348] Validation loss: 0.623 accuracy: 0.739 Qc: 0.719 Qh: 0.761 Qe: 0.729
+[349] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.737
+[349] Validation loss: 0.624 accuracy: 0.738 Qc: 0.716 Qh: 0.760 Qe: 0.732
+[350] Training loss: 0.600 accuracy (Q3): 0.751 Qc: 0.734 Qh: 0.772 Qe: 0.740
+[350] Validation loss: 0.622 accuracy: 0.742 Qc: 0.728 Qh: 0.770 Qe: 0.708
+[351] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.738
+[351] Validation loss: 0.622 accuracy: 0.743 Qc: 0.729 Qh: 0.773 Qe: 0.702
+[352] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.776 Qe: 0.739
+[352] Validation loss: 0.622 accuracy: 0.744 Qc: 0.723 Qh: 0.782 Qe: 0.696
+[353] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.774 Qe: 0.737
+[353] Validation loss: 0.621 accuracy: 0.743 Qc: 0.710 Qh: 0.786 Qe: 0.704
+[354] Training loss: 0.601 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.736
+[354] Validation loss: 0.624 accuracy: 0.739 Qc: 0.735 Qh: 0.749 Qe: 0.724
+[355] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.773 Qe: 0.741
+[355] Validation loss: 0.621 accuracy: 0.743 Qc: 0.719 Qh: 0.781 Qe: 0.704
+[356] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.778 Qe: 0.736
+[356] Validation loss: 0.622 accuracy: 0.742 Qc: 0.722 Qh: 0.772 Qe: 0.713
+[357] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.737
+[357] Validation loss: 0.623 accuracy: 0.740 Qc: 0.725 Qh: 0.758 Qe: 0.725
+[358] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.739
+[358] Validation loss: 0.623 accuracy: 0.740 Qc: 0.718 Qh: 0.764 Qe: 0.726
+[359] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.775 Qe: 0.737
+[359] Validation loss: 0.621 accuracy: 0.742 Qc: 0.723 Qh: 0.769 Qe: 0.716
+[360] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.775 Qe: 0.739
+[360] Validation loss: 0.621 accuracy: 0.744 Qc: 0.717 Qh: 0.788 Qe: 0.696
+[361] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.737
+[361] Validation loss: 0.622 accuracy: 0.742 Qc: 0.706 Qh: 0.786 Qe: 0.709
+[362] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.777 Qe: 0.736
+[362] Validation loss: 0.622 accuracy: 0.740 Qc: 0.728 Qh: 0.758 Qe: 0.725
+[363] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.741
+[363] Validation loss: 0.622 accuracy: 0.741 Qc: 0.718 Qh: 0.771 Qe: 0.717
+[364] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.736
+[364] Validation loss: 0.621 accuracy: 0.742 Qc: 0.721 Qh: 0.771 Qe: 0.716
+[365] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.777 Qe: 0.737
+[365] Validation loss: 0.622 accuracy: 0.739 Qc: 0.718 Qh: 0.762 Qe: 0.729
+[366] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.739
+[366] Validation loss: 0.621 accuracy: 0.743 Qc: 0.725 Qh: 0.771 Qe: 0.711
+[367] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.736
+[367] Validation loss: 0.624 accuracy: 0.737 Qc: 0.725 Qh: 0.746 Qe: 0.740
+[368] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.773 Qe: 0.739
+[368] Validation loss: 0.622 accuracy: 0.738 Qc: 0.712 Qh: 0.761 Qe: 0.737
+[369] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.776 Qe: 0.738
+[369] Validation loss: 0.621 accuracy: 0.743 Qc: 0.725 Qh: 0.776 Qe: 0.703
+[370] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.773 Qe: 0.738
+[370] Validation loss: 0.622 accuracy: 0.741 Qc: 0.707 Qh: 0.781 Qe: 0.714
+[371] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.737
+[371] Validation loss: 0.623 accuracy: 0.738 Qc: 0.724 Qh: 0.751 Qe: 0.738
+[372] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.740
+[372] Validation loss: 0.623 accuracy: 0.740 Qc: 0.706 Qh: 0.774 Qe: 0.724
+[373] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.738
+[373] Validation loss: 0.621 accuracy: 0.743 Qc: 0.718 Qh: 0.778 Qe: 0.709
+[374] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.777 Qe: 0.738
+[374] Validation loss: 0.622 accuracy: 0.742 Qc: 0.725 Qh: 0.771 Qe: 0.708
+[375] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.776 Qe: 0.739
+[375] Validation loss: 0.622 accuracy: 0.741 Qc: 0.727 Qh: 0.762 Qe: 0.720
+[376] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.738
+[376] Validation loss: 0.622 accuracy: 0.743 Qc: 0.731 Qh: 0.774 Qe: 0.696
+[377] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.774 Qe: 0.738
+[377] Validation loss: 0.623 accuracy: 0.738 Qc: 0.718 Qh: 0.756 Qe: 0.738
+[378] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.776 Qe: 0.740
+[378] Validation loss: 0.622 accuracy: 0.742 Qc: 0.726 Qh: 0.770 Qe: 0.711
+[379] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.739
+[379] Validation loss: 0.621 accuracy: 0.740 Qc: 0.711 Qh: 0.771 Qe: 0.725
+[380] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.737
+[380] Validation loss: 0.622 accuracy: 0.742 Qc: 0.708 Qh: 0.785 Qe: 0.708
+[381] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.776 Qe: 0.739
+[381] Validation loss: 0.622 accuracy: 0.741 Qc: 0.724 Qh: 0.764 Qe: 0.723
+[382] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.737
+[382] Validation loss: 0.620 accuracy: 0.744 Qc: 0.727 Qh: 0.778 Qe: 0.700
+[383] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.775 Qe: 0.739
+[383] Validation loss: 0.621 accuracy: 0.743 Qc: 0.722 Qh: 0.778 Qe: 0.705
+[384] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.737
+[384] Validation loss: 0.622 accuracy: 0.742 Qc: 0.720 Qh: 0.776 Qe: 0.707
+[385] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.777 Qe: 0.737
+[385] Validation loss: 0.622 accuracy: 0.739 Qc: 0.720 Qh: 0.756 Qe: 0.735
+[386] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.733 Qh: 0.774 Qe: 0.741
+[386] Validation loss: 0.622 accuracy: 0.741 Qc: 0.729 Qh: 0.759 Qe: 0.723
+[387] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.739
+[387] Validation loss: 0.621 accuracy: 0.743 Qc: 0.714 Qh: 0.784 Qe: 0.703
+[388] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.733 Qh: 0.776 Qe: 0.740
+[388] Validation loss: 0.621 accuracy: 0.744 Qc: 0.708 Qh: 0.796 Qe: 0.694
+[389] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.737
+[389] Validation loss: 0.622 accuracy: 0.740 Qc: 0.721 Qh: 0.761 Qe: 0.731
+[390] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.774 Qe: 0.739
+[390] Validation loss: 0.622 accuracy: 0.738 Qc: 0.710 Qh: 0.763 Qe: 0.734
+[391] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.733 Qh: 0.777 Qe: 0.738
+[391] Validation loss: 0.623 accuracy: 0.739 Qc: 0.731 Qh: 0.750 Qe: 0.730
+[392] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.738
+[392] Validation loss: 0.623 accuracy: 0.739 Qc: 0.716 Qh: 0.759 Qe: 0.736
+[393] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.775 Qe: 0.740
+[393] Validation loss: 0.621 accuracy: 0.742 Qc: 0.732 Qh: 0.761 Qe: 0.717
+[394] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.740
+[394] Validation loss: 0.620 accuracy: 0.742 Qc: 0.721 Qh: 0.773 Qe: 0.714
+[395] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.778 Qe: 0.737
+[395] Validation loss: 0.621 accuracy: 0.741 Qc: 0.718 Qh: 0.767 Qe: 0.723
+[396] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.739
+[396] Validation loss: 0.621 accuracy: 0.739 Qc: 0.711 Qh: 0.766 Qe: 0.732
+[397] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.739
+[397] Validation loss: 0.623 accuracy: 0.738 Qc: 0.715 Qh: 0.759 Qe: 0.736
+[398] Training loss: 0.598 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.741
+[398] Validation loss: 0.622 accuracy: 0.740 Qc: 0.714 Qh: 0.768 Qe: 0.725
+[399] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.777 Qe: 0.739
+[399] Validation loss: 0.621 accuracy: 0.744 Qc: 0.729 Qh: 0.773 Qe: 0.704
+[400] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.774 Qe: 0.739
+[400] Validation loss: 0.622 accuracy: 0.739 Qc: 0.717 Qh: 0.760 Qe: 0.732
+[401] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.740
+[401] Validation loss: 0.621 accuracy: 0.741 Qc: 0.722 Qh: 0.765 Qe: 0.724
+[402] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.734 Qh: 0.776 Qe: 0.740
+[402] Validation loss: 0.621 accuracy: 0.740 Qc: 0.720 Qh: 0.763 Qe: 0.726
+[403] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.775 Qe: 0.739
+[403] Validation loss: 0.621 accuracy: 0.742 Qc: 0.728 Qh: 0.766 Qe: 0.715
+[404] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.737
+[404] Validation loss: 0.622 accuracy: 0.739 Qc: 0.723 Qh: 0.756 Qe: 0.733
+[405] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.741
+[405] Validation loss: 0.621 accuracy: 0.741 Qc: 0.715 Qh: 0.774 Qe: 0.716
+[406] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.778 Qe: 0.737
+[406] Validation loss: 0.622 accuracy: 0.741 Qc: 0.716 Qh: 0.772 Qe: 0.718
+[407] Training loss: 0.600 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.737
+[407] Validation loss: 0.625 accuracy: 0.738 Qc: 0.737 Qh: 0.741 Qe: 0.732
+[408] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.774 Qe: 0.739
+[408] Validation loss: 0.621 accuracy: 0.741 Qc: 0.712 Qh: 0.772 Qe: 0.723
+[409] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.778 Qe: 0.738
+[409] Validation loss: 0.622 accuracy: 0.741 Qc: 0.734 Qh: 0.755 Qe: 0.722
+[410] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.775 Qe: 0.739
+[410] Validation loss: 0.622 accuracy: 0.741 Qc: 0.726 Qh: 0.760 Qe: 0.722
+[411] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.777 Qe: 0.737
+[411] Validation loss: 0.621 accuracy: 0.741 Qc: 0.718 Qh: 0.770 Qe: 0.719
+[412] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.775 Qe: 0.739
+[412] Validation loss: 0.624 accuracy: 0.738 Qc: 0.732 Qh: 0.743 Qe: 0.738
+[413] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.775 Qe: 0.741
+[413] Validation loss: 0.621 accuracy: 0.744 Qc: 0.729 Qh: 0.775 Qe: 0.703
+[414] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.737
+[414] Validation loss: 0.620 accuracy: 0.740 Qc: 0.711 Qh: 0.770 Qe: 0.730
+[415] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.775 Qe: 0.740
+[415] Validation loss: 0.621 accuracy: 0.742 Qc: 0.718 Qh: 0.772 Qe: 0.717
+[416] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.739
+[416] Validation loss: 0.621 accuracy: 0.742 Qc: 0.725 Qh: 0.766 Qe: 0.717
+[417] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.778 Qe: 0.737
+[417] Validation loss: 0.622 accuracy: 0.739 Qc: 0.728 Qh: 0.752 Qe: 0.733
+[418] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.774 Qe: 0.740
+[418] Validation loss: 0.621 accuracy: 0.740 Qc: 0.720 Qh: 0.763 Qe: 0.728
+[419] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.774 Qe: 0.741
+[419] Validation loss: 0.621 accuracy: 0.742 Qc: 0.716 Qh: 0.772 Qe: 0.719
+[420] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.737
+[420] Validation loss: 0.622 accuracy: 0.739 Qc: 0.726 Qh: 0.753 Qe: 0.732
+[421] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.777 Qe: 0.739
+[421] Validation loss: 0.622 accuracy: 0.742 Qc: 0.715 Qh: 0.777 Qe: 0.713
+[422] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.740
+[422] Validation loss: 0.622 accuracy: 0.741 Qc: 0.732 Qh: 0.755 Qe: 0.726
+[423] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.736 Qh: 0.775 Qe: 0.738
+[423] Validation loss: 0.621 accuracy: 0.744 Qc: 0.703 Qh: 0.796 Qe: 0.702
+[424] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.777 Qe: 0.738
+[424] Validation loss: 0.624 accuracy: 0.737 Qc: 0.723 Qh: 0.747 Qe: 0.740
+[425] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.740
+[425] Validation loss: 0.621 accuracy: 0.740 Qc: 0.722 Qh: 0.762 Qe: 0.729
+[426] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.737 Qh: 0.776 Qe: 0.739
+[426] Validation loss: 0.622 accuracy: 0.739 Qc: 0.732 Qh: 0.749 Qe: 0.731
+[427] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.775 Qe: 0.741
+[427] Validation loss: 0.620 accuracy: 0.744 Qc: 0.728 Qh: 0.776 Qe: 0.703
+[428] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.739
+[428] Validation loss: 0.621 accuracy: 0.742 Qc: 0.725 Qh: 0.767 Qe: 0.718
+[429] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.739
+[429] Validation loss: 0.621 accuracy: 0.742 Qc: 0.730 Qh: 0.763 Qe: 0.718
+[430] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.739
+[430] Validation loss: 0.621 accuracy: 0.741 Qc: 0.710 Qh: 0.773 Qe: 0.724
+[431] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.738
+[431] Validation loss: 0.621 accuracy: 0.741 Qc: 0.721 Qh: 0.766 Qe: 0.721
+[432] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.778 Qe: 0.738
+[432] Validation loss: 0.621 accuracy: 0.739 Qc: 0.719 Qh: 0.758 Qe: 0.735
+[433] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.778 Qe: 0.739
+[433] Validation loss: 0.622 accuracy: 0.740 Qc: 0.731 Qh: 0.753 Qe: 0.726
+[434] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.774 Qe: 0.741
+[434] Validation loss: 0.620 accuracy: 0.742 Qc: 0.719 Qh: 0.770 Qe: 0.719
+[435] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.740
+[435] Validation loss: 0.620 accuracy: 0.743 Qc: 0.728 Qh: 0.769 Qe: 0.711
+[436] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.739
+[436] Validation loss: 0.621 accuracy: 0.741 Qc: 0.725 Qh: 0.759 Qe: 0.728
+[437] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.739
+[437] Validation loss: 0.620 accuracy: 0.742 Qc: 0.716 Qh: 0.776 Qe: 0.714
+[438] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.738
+[438] Validation loss: 0.622 accuracy: 0.740 Qc: 0.726 Qh: 0.756 Qe: 0.729
+[439] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.775 Qe: 0.741
+[439] Validation loss: 0.622 accuracy: 0.741 Qc: 0.724 Qh: 0.762 Qe: 0.724
+[440] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.777 Qe: 0.737
+[440] Validation loss: 0.620 accuracy: 0.740 Qc: 0.714 Qh: 0.765 Qe: 0.731
+[441] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.777 Qe: 0.740
+[441] Validation loss: 0.622 accuracy: 0.739 Qc: 0.715 Qh: 0.760 Qe: 0.737
+[442] Training loss: 0.599 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.776 Qe: 0.737
+[442] Validation loss: 0.622 accuracy: 0.739 Qc: 0.718 Qh: 0.755 Qe: 0.739
+[443] Training loss: 0.598 accuracy (Q3): 0.752 Qc: 0.735 Qh: 0.774 Qe: 0.741
+[443] Validation loss: 0.621 accuracy: 0.744 Qc: 0.722 Qh: 0.783 Qe: 0.697
+[444] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.778 Qe: 0.737
+[444] Validation loss: 0.622 accuracy: 0.738 Qc: 0.719 Qh: 0.754 Qe: 0.740
+[445] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.740
+[445] Validation loss: 0.621 accuracy: 0.743 Qc: 0.721 Qh: 0.778 Qe: 0.705
+[446] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.740
+[446] Validation loss: 0.620 accuracy: 0.742 Qc: 0.713 Qh: 0.776 Qe: 0.716
+[447] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.738
+[447] Validation loss: 0.619 accuracy: 0.744 Qc: 0.716 Qh: 0.783 Qe: 0.706
+[448] Training loss: 0.599 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.739
+[448] Validation loss: 0.621 accuracy: 0.744 Qc: 0.709 Qh: 0.792 Qe: 0.699
+[449] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.739
+[449] Validation loss: 0.621 accuracy: 0.741 Qc: 0.728 Qh: 0.761 Qe: 0.722
+[450] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[450] Validation loss: 0.621 accuracy: 0.740 Qc: 0.727 Qh: 0.754 Qe: 0.735
+[451] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.741
+[451] Validation loss: 0.619 accuracy: 0.743 Qc: 0.723 Qh: 0.769 Qe: 0.718
+[452] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.774 Qe: 0.740
+[452] Validation loss: 0.619 accuracy: 0.744 Qc: 0.725 Qh: 0.776 Qe: 0.706
+[453] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.738
+[453] Validation loss: 0.622 accuracy: 0.739 Qc: 0.716 Qh: 0.760 Qe: 0.734
+[454] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.737 Qh: 0.775 Qe: 0.740
+[454] Validation loss: 0.620 accuracy: 0.740 Qc: 0.706 Qh: 0.775 Qe: 0.727
+[455] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.776 Qe: 0.740
+[455] Validation loss: 0.620 accuracy: 0.744 Qc: 0.722 Qh: 0.783 Qe: 0.697
+[456] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.739
+[456] Validation loss: 0.620 accuracy: 0.742 Qc: 0.717 Qh: 0.772 Qe: 0.722
+[457] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.779 Qe: 0.738
+[457] Validation loss: 0.621 accuracy: 0.741 Qc: 0.730 Qh: 0.759 Qe: 0.723
+[458] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[458] Validation loss: 0.623 accuracy: 0.740 Qc: 0.743 Qh: 0.744 Qe: 0.725
+[459] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.737 Qh: 0.775 Qe: 0.740
+[459] Validation loss: 0.621 accuracy: 0.741 Qc: 0.720 Qh: 0.767 Qe: 0.723
+[460] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.739
+[460] Validation loss: 0.621 accuracy: 0.741 Qc: 0.735 Qh: 0.753 Qe: 0.727
+[461] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.774 Qe: 0.741
+[461] Validation loss: 0.621 accuracy: 0.743 Qc: 0.723 Qh: 0.776 Qe: 0.707
+[462] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.739
+[462] Validation loss: 0.620 accuracy: 0.743 Qc: 0.726 Qh: 0.774 Qe: 0.707
+[463] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[463] Validation loss: 0.619 accuracy: 0.741 Qc: 0.717 Qh: 0.768 Qe: 0.726
+[464] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.776 Qe: 0.740
+[464] Validation loss: 0.620 accuracy: 0.744 Qc: 0.724 Qh: 0.779 Qe: 0.702
+[465] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.778 Qe: 0.738
+[465] Validation loss: 0.622 accuracy: 0.741 Qc: 0.737 Qh: 0.756 Qe: 0.717
+[466] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.774 Qe: 0.740
+[466] Validation loss: 0.621 accuracy: 0.739 Qc: 0.701 Qh: 0.772 Qe: 0.736
+[467] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.777 Qe: 0.739
+[467] Validation loss: 0.620 accuracy: 0.742 Qc: 0.732 Qh: 0.761 Qe: 0.717
+[468] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[468] Validation loss: 0.620 accuracy: 0.742 Qc: 0.731 Qh: 0.764 Qe: 0.716
+[469] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.741
+[469] Validation loss: 0.620 accuracy: 0.741 Qc: 0.708 Qh: 0.779 Qe: 0.721
+[470] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.777 Qe: 0.739
+[470] Validation loss: 0.618 accuracy: 0.745 Qc: 0.722 Qh: 0.781 Qe: 0.708
+[471] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.738
+[471] Validation loss: 0.622 accuracy: 0.739 Qc: 0.727 Qh: 0.750 Qe: 0.736
+[472] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.740
+[472] Validation loss: 0.620 accuracy: 0.743 Qc: 0.719 Qh: 0.777 Qe: 0.713
+[473] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[473] Validation loss: 0.620 accuracy: 0.742 Qc: 0.718 Qh: 0.774 Qe: 0.717
+[474] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.776 Qe: 0.741
+[474] Validation loss: 0.619 accuracy: 0.744 Qc: 0.728 Qh: 0.775 Qe: 0.704
+[475] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.742
+[475] Validation loss: 0.620 accuracy: 0.745 Qc: 0.722 Qh: 0.782 Qe: 0.701
+[476] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.737
+[476] Validation loss: 0.621 accuracy: 0.739 Qc: 0.708 Qh: 0.767 Qe: 0.735
+[477] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.740
+[477] Validation loss: 0.619 accuracy: 0.743 Qc: 0.722 Qh: 0.775 Qe: 0.712
+[478] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.778 Qe: 0.739
+[478] Validation loss: 0.623 accuracy: 0.737 Qc: 0.715 Qh: 0.753 Qe: 0.745
+[479] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.742
+[479] Validation loss: 0.620 accuracy: 0.742 Qc: 0.716 Qh: 0.773 Qe: 0.719
+[480] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[480] Validation loss: 0.619 accuracy: 0.745 Qc: 0.724 Qh: 0.784 Qe: 0.698
+[481] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.741
+[481] Validation loss: 0.619 accuracy: 0.745 Qc: 0.722 Qh: 0.783 Qe: 0.701
+[482] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.739
+[482] Validation loss: 0.621 accuracy: 0.741 Qc: 0.726 Qh: 0.759 Qe: 0.726
+[483] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.734 Qh: 0.778 Qe: 0.740
+[483] Validation loss: 0.619 accuracy: 0.743 Qc: 0.727 Qh: 0.769 Qe: 0.712
+[484] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.738
+[484] Validation loss: 0.623 accuracy: 0.737 Qc: 0.724 Qh: 0.746 Qe: 0.745
+[485] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.737 Qh: 0.775 Qe: 0.740
+[485] Validation loss: 0.620 accuracy: 0.742 Qc: 0.731 Qh: 0.761 Qe: 0.719
+[486] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[486] Validation loss: 0.619 accuracy: 0.744 Qc: 0.724 Qh: 0.778 Qe: 0.704
+[487] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.776 Qe: 0.740
+[487] Validation loss: 0.620 accuracy: 0.743 Qc: 0.724 Qh: 0.770 Qe: 0.716
+[488] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[488] Validation loss: 0.620 accuracy: 0.744 Qc: 0.712 Qh: 0.786 Qe: 0.707
+[489] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[489] Validation loss: 0.620 accuracy: 0.741 Qc: 0.720 Qh: 0.766 Qe: 0.724
+[490] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[490] Validation loss: 0.619 accuracy: 0.745 Qc: 0.732 Qh: 0.773 Qe: 0.705
+[491] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.738
+[491] Validation loss: 0.621 accuracy: 0.743 Qc: 0.733 Qh: 0.762 Qe: 0.715
+[492] Training loss: 0.598 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.739
+[492] Validation loss: 0.620 accuracy: 0.741 Qc: 0.715 Qh: 0.774 Qe: 0.721
+[493] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.777 Qe: 0.740
+[493] Validation loss: 0.620 accuracy: 0.744 Qc: 0.740 Qh: 0.767 Qe: 0.702
+[494] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.737 Qh: 0.775 Qe: 0.739
+[494] Validation loss: 0.619 accuracy: 0.743 Qc: 0.717 Qh: 0.779 Qe: 0.713
+[495] Training loss: 0.596 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.742
+[495] Validation loss: 0.619 accuracy: 0.744 Qc: 0.721 Qh: 0.782 Qe: 0.704
+[496] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[496] Validation loss: 0.618 accuracy: 0.743 Qc: 0.723 Qh: 0.770 Qe: 0.721
+[497] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[497] Validation loss: 0.619 accuracy: 0.742 Qc: 0.722 Qh: 0.770 Qe: 0.718
+[498] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.778 Qe: 0.738
+[498] Validation loss: 0.620 accuracy: 0.740 Qc: 0.713 Qh: 0.764 Qe: 0.734
+[499] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.739
+[499] Validation loss: 0.620 accuracy: 0.740 Qc: 0.727 Qh: 0.754 Qe: 0.734
+[500] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.740
+[500] Validation loss: 0.621 accuracy: 0.741 Qc: 0.735 Qh: 0.751 Qe: 0.728
+[501] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.741
+[501] Validation loss: 0.620 accuracy: 0.743 Qc: 0.722 Qh: 0.777 Qe: 0.709
+[502] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.777 Qe: 0.740
+[502] Validation loss: 0.620 accuracy: 0.744 Qc: 0.734 Qh: 0.770 Qe: 0.702
+[503] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.740
+[503] Validation loss: 0.619 accuracy: 0.743 Qc: 0.719 Qh: 0.775 Qe: 0.715
+[504] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.778 Qe: 0.738
+[504] Validation loss: 0.621 accuracy: 0.738 Qc: 0.712 Qh: 0.755 Qe: 0.748
+[505] Training loss: 0.596 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.775 Qe: 0.742
+[505] Validation loss: 0.620 accuracy: 0.745 Qc: 0.724 Qh: 0.786 Qe: 0.692
+[506] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.738
+[506] Validation loss: 0.619 accuracy: 0.743 Qc: 0.729 Qh: 0.768 Qe: 0.715
+[507] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.741
+[507] Validation loss: 0.618 accuracy: 0.745 Qc: 0.732 Qh: 0.772 Qe: 0.708
+[508] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.740
+[508] Validation loss: 0.618 accuracy: 0.744 Qc: 0.728 Qh: 0.773 Qe: 0.710
+[509] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.740
+[509] Validation loss: 0.619 accuracy: 0.743 Qc: 0.725 Qh: 0.770 Qe: 0.715
+[510] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[510] Validation loss: 0.619 accuracy: 0.743 Qc: 0.726 Qh: 0.769 Qe: 0.717
+[511] Training loss: 0.596 accuracy (Q3): 0.753 Qc: 0.737 Qh: 0.776 Qe: 0.739
+[511] Validation loss: 0.623 accuracy: 0.738 Qc: 0.723 Qh: 0.746 Qe: 0.746
+[512] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.776 Qe: 0.742
+[512] Validation loss: 0.620 accuracy: 0.743 Qc: 0.731 Qh: 0.766 Qe: 0.713
+[513] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.740
+[513] Validation loss: 0.619 accuracy: 0.741 Qc: 0.718 Qh: 0.767 Qe: 0.727
+[514] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.775 Qe: 0.741
+[514] Validation loss: 0.620 accuracy: 0.742 Qc: 0.732 Qh: 0.758 Qe: 0.723
+[515] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.740
+[515] Validation loss: 0.620 accuracy: 0.741 Qc: 0.729 Qh: 0.760 Qe: 0.724
+[516] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.776 Qe: 0.740
+[516] Validation loss: 0.619 accuracy: 0.744 Qc: 0.723 Qh: 0.776 Qe: 0.709
+[517] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.778 Qe: 0.740
+[517] Validation loss: 0.622 accuracy: 0.739 Qc: 0.731 Qh: 0.747 Qe: 0.736
+[518] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.776 Qe: 0.740
+[518] Validation loss: 0.620 accuracy: 0.744 Qc: 0.726 Qh: 0.780 Qe: 0.699
+[519] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[519] Validation loss: 0.618 accuracy: 0.743 Qc: 0.715 Qh: 0.780 Qe: 0.712
+[520] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.738 Qh: 0.777 Qe: 0.739
+[520] Validation loss: 0.619 accuracy: 0.743 Qc: 0.727 Qh: 0.766 Qe: 0.717
+[521] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.776 Qe: 0.741
+[521] Validation loss: 0.620 accuracy: 0.742 Qc: 0.725 Qh: 0.766 Qe: 0.720
+[522] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.738
+[522] Validation loss: 0.621 accuracy: 0.739 Qc: 0.729 Qh: 0.751 Qe: 0.734
+[523] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[523] Validation loss: 0.619 accuracy: 0.744 Qc: 0.728 Qh: 0.774 Qe: 0.710
+[524] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.739
+[524] Validation loss: 0.619 accuracy: 0.742 Qc: 0.721 Qh: 0.770 Qe: 0.722
+[525] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.777 Qe: 0.741
+[525] Validation loss: 0.619 accuracy: 0.743 Qc: 0.725 Qh: 0.770 Qe: 0.716
+[526] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.740
+[526] Validation loss: 0.621 accuracy: 0.740 Qc: 0.723 Qh: 0.758 Qe: 0.733
+[527] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[527] Validation loss: 0.620 accuracy: 0.739 Qc: 0.722 Qh: 0.755 Qe: 0.736
+[528] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.740
+[528] Validation loss: 0.618 accuracy: 0.743 Qc: 0.712 Qh: 0.780 Qe: 0.718
+[529] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.778 Qe: 0.739
+[529] Validation loss: 0.619 accuracy: 0.744 Qc: 0.735 Qh: 0.771 Qe: 0.703
+[530] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.738 Qh: 0.776 Qe: 0.740
+[530] Validation loss: 0.619 accuracy: 0.742 Qc: 0.716 Qh: 0.768 Qe: 0.730
+[531] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.741
+[531] Validation loss: 0.620 accuracy: 0.740 Qc: 0.723 Qh: 0.758 Qe: 0.732
+[532] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.778 Qe: 0.738
+[532] Validation loss: 0.619 accuracy: 0.743 Qc: 0.718 Qh: 0.775 Qe: 0.716
+[533] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.740
+[533] Validation loss: 0.618 accuracy: 0.744 Qc: 0.721 Qh: 0.780 Qe: 0.709
+[534] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.742
+[534] Validation loss: 0.619 accuracy: 0.741 Qc: 0.710 Qh: 0.775 Qe: 0.726
+[535] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[535] Validation loss: 0.619 accuracy: 0.745 Qc: 0.734 Qh: 0.775 Qe: 0.700
+[536] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.739
+[536] Validation loss: 0.622 accuracy: 0.739 Qc: 0.727 Qh: 0.747 Qe: 0.741
+[537] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.776 Qe: 0.743
+[537] Validation loss: 0.619 accuracy: 0.743 Qc: 0.724 Qh: 0.773 Qe: 0.714
+[538] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.740
+[538] Validation loss: 0.619 accuracy: 0.741 Qc: 0.720 Qh: 0.761 Qe: 0.733
+[539] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[539] Validation loss: 0.622 accuracy: 0.738 Qc: 0.719 Qh: 0.748 Qe: 0.747
+[540] Training loss: 0.597 accuracy (Q3): 0.753 Qc: 0.735 Qh: 0.775 Qe: 0.742
+[540] Validation loss: 0.618 accuracy: 0.745 Qc: 0.722 Qh: 0.784 Qe: 0.702
+[541] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.776 Qe: 0.742
+[541] Validation loss: 0.619 accuracy: 0.743 Qc: 0.720 Qh: 0.777 Qe: 0.713
+[542] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[542] Validation loss: 0.619 accuracy: 0.744 Qc: 0.719 Qh: 0.782 Qe: 0.705
+[543] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.778 Qe: 0.738
+[543] Validation loss: 0.619 accuracy: 0.742 Qc: 0.735 Qh: 0.758 Qe: 0.723
+[544] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.739
+[544] Validation loss: 0.618 accuracy: 0.742 Qc: 0.727 Qh: 0.764 Qe: 0.722
+[545] Training loss: 0.596 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.741
+[545] Validation loss: 0.619 accuracy: 0.741 Qc: 0.715 Qh: 0.768 Qe: 0.730
+[546] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.778 Qe: 0.740
+[546] Validation loss: 0.619 accuracy: 0.742 Qc: 0.724 Qh: 0.767 Qe: 0.719
+[547] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.740
+[547] Validation loss: 0.619 accuracy: 0.741 Qc: 0.719 Qh: 0.768 Qe: 0.726
+[548] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.739
+[548] Validation loss: 0.625 accuracy: 0.736 Qc: 0.735 Qh: 0.733 Qe: 0.745
+[549] Training loss: 0.596 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.775 Qe: 0.743
+[549] Validation loss: 0.619 accuracy: 0.743 Qc: 0.729 Qh: 0.765 Qe: 0.718
+[550] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.741
+[550] Validation loss: 0.619 accuracy: 0.743 Qc: 0.726 Qh: 0.769 Qe: 0.717
+[551] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[551] Validation loss: 0.619 accuracy: 0.741 Qc: 0.717 Qh: 0.763 Qe: 0.733
+[552] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.778 Qe: 0.739
+[552] Validation loss: 0.620 accuracy: 0.741 Qc: 0.728 Qh: 0.758 Qe: 0.729
+[553] Training loss: 0.596 accuracy (Q3): 0.753 Qc: 0.737 Qh: 0.776 Qe: 0.741
+[553] Validation loss: 0.619 accuracy: 0.741 Qc: 0.724 Qh: 0.761 Qe: 0.731
+[554] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.740
+[554] Validation loss: 0.618 accuracy: 0.744 Qc: 0.732 Qh: 0.767 Qe: 0.716
+[555] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.740
+[555] Validation loss: 0.619 accuracy: 0.744 Qc: 0.720 Qh: 0.781 Qe: 0.706
+[556] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.776 Qe: 0.740
+[556] Validation loss: 0.618 accuracy: 0.743 Qc: 0.732 Qh: 0.762 Qe: 0.718
+[557] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.740
+[557] Validation loss: 0.619 accuracy: 0.745 Qc: 0.732 Qh: 0.775 Qe: 0.701
+[558] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.738 Qh: 0.775 Qe: 0.741
+[558] Validation loss: 0.620 accuracy: 0.747 Qc: 0.725 Qh: 0.795 Qe: 0.683
+[559] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.739
+[559] Validation loss: 0.620 accuracy: 0.740 Qc: 0.711 Qh: 0.768 Qe: 0.732
+[560] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.740
+[560] Validation loss: 0.623 accuracy: 0.737 Qc: 0.733 Qh: 0.737 Qe: 0.743
+[561] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.776 Qe: 0.742
+[561] Validation loss: 0.618 accuracy: 0.746 Qc: 0.732 Qh: 0.776 Qe: 0.704
+[562] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.741
+[562] Validation loss: 0.618 accuracy: 0.742 Qc: 0.722 Qh: 0.769 Qe: 0.721
+[563] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.779 Qe: 0.740
+[563] Validation loss: 0.620 accuracy: 0.742 Qc: 0.728 Qh: 0.762 Qe: 0.722
+[564] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.738
+[564] Validation loss: 0.619 accuracy: 0.743 Qc: 0.737 Qh: 0.757 Qe: 0.721
+[565] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.740
+[565] Validation loss: 0.619 accuracy: 0.741 Qc: 0.729 Qh: 0.758 Qe: 0.727
+[566] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[566] Validation loss: 0.620 accuracy: 0.741 Qc: 0.722 Qh: 0.761 Qe: 0.729
+[567] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.741
+[567] Validation loss: 0.621 accuracy: 0.739 Qc: 0.709 Qh: 0.765 Qe: 0.738
+[568] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.739
+[568] Validation loss: 0.618 accuracy: 0.743 Qc: 0.725 Qh: 0.767 Qe: 0.722
+[569] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.776 Qe: 0.740
+[569] Validation loss: 0.620 accuracy: 0.740 Qc: 0.727 Qh: 0.755 Qe: 0.729
+[570] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.739
+[570] Validation loss: 0.619 accuracy: 0.742 Qc: 0.735 Qh: 0.754 Qe: 0.726
+[571] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[571] Validation loss: 0.619 accuracy: 0.744 Qc: 0.724 Qh: 0.773 Qe: 0.713
+[572] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.778 Qe: 0.738
+[572] Validation loss: 0.620 accuracy: 0.740 Qc: 0.721 Qh: 0.758 Qe: 0.733
+[573] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.740
+[573] Validation loss: 0.620 accuracy: 0.742 Qc: 0.726 Qh: 0.766 Qe: 0.717
+[574] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.742
+[574] Validation loss: 0.619 accuracy: 0.745 Qc: 0.729 Qh: 0.779 Qe: 0.700
+[575] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.779 Qe: 0.740
+[575] Validation loss: 0.619 accuracy: 0.743 Qc: 0.715 Qh: 0.779 Qe: 0.715
+[576] Training loss: 0.596 accuracy (Q3): 0.753 Qc: 0.736 Qh: 0.777 Qe: 0.739
+[576] Validation loss: 0.618 accuracy: 0.744 Qc: 0.728 Qh: 0.771 Qe: 0.713
+[577] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[577] Validation loss: 0.619 accuracy: 0.744 Qc: 0.719 Qh: 0.780 Qe: 0.709
+[578] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.739
+[578] Validation loss: 0.619 accuracy: 0.744 Qc: 0.712 Qh: 0.785 Qe: 0.708
+[579] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.740
+[579] Validation loss: 0.618 accuracy: 0.744 Qc: 0.719 Qh: 0.776 Qe: 0.716
+[580] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[580] Validation loss: 0.619 accuracy: 0.741 Qc: 0.725 Qh: 0.761 Qe: 0.727
+[581] Training loss: 0.596 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.740
+[581] Validation loss: 0.619 accuracy: 0.742 Qc: 0.731 Qh: 0.759 Qe: 0.725
+[582] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[582] Validation loss: 0.619 accuracy: 0.741 Qc: 0.726 Qh: 0.758 Qe: 0.730
+[583] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.740
+[583] Validation loss: 0.618 accuracy: 0.743 Qc: 0.722 Qh: 0.773 Qe: 0.715
+[584] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.741
+[584] Validation loss: 0.619 accuracy: 0.743 Qc: 0.724 Qh: 0.770 Qe: 0.717
+[585] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.741
+[585] Validation loss: 0.619 accuracy: 0.742 Qc: 0.734 Qh: 0.758 Qe: 0.719
+[586] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.738
+[586] Validation loss: 0.619 accuracy: 0.741 Qc: 0.707 Qh: 0.771 Qe: 0.733
+[587] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.778 Qe: 0.738
+[587] Validation loss: 0.619 accuracy: 0.744 Qc: 0.723 Qh: 0.780 Qe: 0.706
+[588] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.779 Qe: 0.739
+[588] Validation loss: 0.618 accuracy: 0.743 Qc: 0.725 Qh: 0.770 Qe: 0.717
+[589] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[589] Validation loss: 0.618 accuracy: 0.745 Qc: 0.715 Qh: 0.785 Qe: 0.708
+[590] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.740
+[590] Validation loss: 0.616 accuracy: 0.745 Qc: 0.733 Qh: 0.770 Qe: 0.712
+[591] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.739
+[591] Validation loss: 0.619 accuracy: 0.741 Qc: 0.715 Qh: 0.772 Qe: 0.722
+[592] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.741
+[592] Validation loss: 0.618 accuracy: 0.742 Qc: 0.713 Qh: 0.773 Qe: 0.726
+[593] Training loss: 0.597 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.740
+[593] Validation loss: 0.618 accuracy: 0.744 Qc: 0.735 Qh: 0.764 Qe: 0.714
+[594] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.779 Qe: 0.738
+[594] Validation loss: 0.620 accuracy: 0.740 Qc: 0.727 Qh: 0.753 Qe: 0.734
+[595] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.738 Qh: 0.777 Qe: 0.739
+[595] Validation loss: 0.619 accuracy: 0.740 Qc: 0.717 Qh: 0.763 Qe: 0.734
+[596] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.777 Qe: 0.742
+[596] Validation loss: 0.619 accuracy: 0.741 Qc: 0.728 Qh: 0.757 Qe: 0.729
+[597] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.739
+[597] Validation loss: 0.619 accuracy: 0.739 Qc: 0.722 Qh: 0.751 Qe: 0.744
+[598] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.775 Qe: 0.743
+[598] Validation loss: 0.618 accuracy: 0.746 Qc: 0.735 Qh: 0.775 Qe: 0.700
+[599] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.778 Qe: 0.740
+[599] Validation loss: 0.618 accuracy: 0.741 Qc: 0.723 Qh: 0.760 Qe: 0.731
+[600] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.741
+[600] Validation loss: 0.618 accuracy: 0.742 Qc: 0.717 Qh: 0.773 Qe: 0.720
+[601] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.779 Qe: 0.739
+[601] Validation loss: 0.619 accuracy: 0.742 Qc: 0.727 Qh: 0.764 Qe: 0.722
+[602] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.742
+[602] Validation loss: 0.619 accuracy: 0.743 Qc: 0.718 Qh: 0.774 Qe: 0.720
+[603] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.740
+[603] Validation loss: 0.618 accuracy: 0.741 Qc: 0.721 Qh: 0.765 Qe: 0.728
+[604] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.742
+[604] Validation loss: 0.619 accuracy: 0.740 Qc: 0.729 Qh: 0.754 Qe: 0.730
+[605] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.739
+[605] Validation loss: 0.622 accuracy: 0.736 Qc: 0.725 Qh: 0.741 Qe: 0.749
+[606] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.775 Qe: 0.741
+[606] Validation loss: 0.617 accuracy: 0.742 Qc: 0.714 Qh: 0.774 Qe: 0.724
+[607] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.739
+[607] Validation loss: 0.620 accuracy: 0.740 Qc: 0.727 Qh: 0.754 Qe: 0.733
+[608] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.776 Qe: 0.741
+[608] Validation loss: 0.618 accuracy: 0.742 Qc: 0.722 Qh: 0.768 Qe: 0.719
+[609] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[609] Validation loss: 0.618 accuracy: 0.745 Qc: 0.724 Qh: 0.780 Qe: 0.703
+[610] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.742
+[610] Validation loss: 0.618 accuracy: 0.744 Qc: 0.723 Qh: 0.774 Qe: 0.715
+[611] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.779 Qe: 0.738
+[611] Validation loss: 0.621 accuracy: 0.740 Qc: 0.734 Qh: 0.749 Qe: 0.731
+[612] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.741
+[612] Validation loss: 0.619 accuracy: 0.743 Qc: 0.738 Qh: 0.761 Qe: 0.713
+[613] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[613] Validation loss: 0.620 accuracy: 0.740 Qc: 0.727 Qh: 0.754 Qe: 0.731
+[614] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.740
+[614] Validation loss: 0.618 accuracy: 0.743 Qc: 0.717 Qh: 0.776 Qe: 0.717
+[615] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[615] Validation loss: 0.618 accuracy: 0.743 Qc: 0.723 Qh: 0.768 Qe: 0.720
+[616] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.740
+[616] Validation loss: 0.619 accuracy: 0.742 Qc: 0.712 Qh: 0.777 Qe: 0.719
+[617] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.735 Qh: 0.779 Qe: 0.741
+[617] Validation loss: 0.618 accuracy: 0.745 Qc: 0.720 Qh: 0.786 Qe: 0.701
+[618] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.740
+[618] Validation loss: 0.617 accuracy: 0.743 Qc: 0.718 Qh: 0.775 Qe: 0.719
+[619] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.739
+[619] Validation loss: 0.618 accuracy: 0.746 Qc: 0.721 Qh: 0.787 Qe: 0.701
+[620] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.740
+[620] Validation loss: 0.618 accuracy: 0.742 Qc: 0.730 Qh: 0.760 Qe: 0.727
+[621] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.741
+[621] Validation loss: 0.618 accuracy: 0.743 Qc: 0.729 Qh: 0.766 Qe: 0.716
+[622] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.738
+[622] Validation loss: 0.619 accuracy: 0.742 Qc: 0.734 Qh: 0.759 Qe: 0.719
+[623] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.776 Qe: 0.742
+[623] Validation loss: 0.617 accuracy: 0.746 Qc: 0.716 Qh: 0.793 Qe: 0.697
+[624] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.739
+[624] Validation loss: 0.618 accuracy: 0.744 Qc: 0.719 Qh: 0.777 Qe: 0.714
+[625] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.742
+[625] Validation loss: 0.619 accuracy: 0.741 Qc: 0.727 Qh: 0.758 Qe: 0.729
+[626] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.778 Qe: 0.742
+[626] Validation loss: 0.617 accuracy: 0.746 Qc: 0.726 Qh: 0.781 Qe: 0.703
+[627] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.738
+[627] Validation loss: 0.619 accuracy: 0.741 Qc: 0.723 Qh: 0.761 Qe: 0.729
+[628] Training loss: 0.594 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.742
+[628] Validation loss: 0.617 accuracy: 0.745 Qc: 0.724 Qh: 0.781 Qe: 0.703
+[629] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.739
+[629] Validation loss: 0.619 accuracy: 0.740 Qc: 0.722 Qh: 0.758 Qe: 0.733
+[630] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.740
+[630] Validation loss: 0.618 accuracy: 0.745 Qc: 0.724 Qh: 0.781 Qe: 0.702
+[631] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.740
+[631] Validation loss: 0.617 accuracy: 0.744 Qc: 0.715 Qh: 0.781 Qe: 0.713
+[632] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.778 Qe: 0.741
+[632] Validation loss: 0.617 accuracy: 0.745 Qc: 0.725 Qh: 0.780 Qe: 0.704
+[633] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.741
+[633] Validation loss: 0.618 accuracy: 0.744 Qc: 0.731 Qh: 0.771 Qe: 0.709
+[634] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.741
+[634] Validation loss: 0.617 accuracy: 0.743 Qc: 0.726 Qh: 0.769 Qe: 0.717
+[635] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.778 Qe: 0.739
+[635] Validation loss: 0.619 accuracy: 0.741 Qc: 0.733 Qh: 0.756 Qe: 0.726
+[636] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[636] Validation loss: 0.619 accuracy: 0.742 Qc: 0.731 Qh: 0.757 Qe: 0.723
+[637] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.742
+[637] Validation loss: 0.617 accuracy: 0.742 Qc: 0.713 Qh: 0.773 Qe: 0.728
+[638] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.780 Qe: 0.740
+[638] Validation loss: 0.616 accuracy: 0.745 Qc: 0.732 Qh: 0.770 Qe: 0.711
+[639] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.779 Qe: 0.739
+[639] Validation loss: 0.620 accuracy: 0.740 Qc: 0.733 Qh: 0.749 Qe: 0.733
+[640] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.738 Qh: 0.775 Qe: 0.741
+[640] Validation loss: 0.618 accuracy: 0.744 Qc: 0.721 Qh: 0.779 Qe: 0.708
+[641] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.741
+[641] Validation loss: 0.618 accuracy: 0.743 Qc: 0.724 Qh: 0.771 Qe: 0.718
+[642] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.743
+[642] Validation loss: 0.617 accuracy: 0.745 Qc: 0.719 Qh: 0.783 Qe: 0.707
+[643] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.741
+[643] Validation loss: 0.618 accuracy: 0.741 Qc: 0.722 Qh: 0.763 Qe: 0.728
+[644] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.779 Qe: 0.739
+[644] Validation loss: 0.618 accuracy: 0.741 Qc: 0.724 Qh: 0.762 Qe: 0.726
+[645] Training loss: 0.594 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.742
+[645] Validation loss: 0.617 accuracy: 0.742 Qc: 0.718 Qh: 0.771 Qe: 0.724
+[646] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[646] Validation loss: 0.617 accuracy: 0.745 Qc: 0.735 Qh: 0.765 Qe: 0.715
+[647] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.741
+[647] Validation loss: 0.617 accuracy: 0.744 Qc: 0.726 Qh: 0.774 Qe: 0.714
+[648] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.742
+[648] Validation loss: 0.618 accuracy: 0.742 Qc: 0.708 Qh: 0.780 Qe: 0.721
+[649] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.738 Qh: 0.777 Qe: 0.740
+[649] Validation loss: 0.618 accuracy: 0.740 Qc: 0.713 Qh: 0.766 Qe: 0.733
+[650] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.779 Qe: 0.739
+[650] Validation loss: 0.621 accuracy: 0.737 Qc: 0.721 Qh: 0.745 Qe: 0.749
+[651] Training loss: 0.596 accuracy (Q3): 0.753 Qc: 0.737 Qh: 0.774 Qe: 0.743
+[651] Validation loss: 0.617 accuracy: 0.744 Qc: 0.713 Qh: 0.783 Qe: 0.712
+[652] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.779 Qe: 0.739
+[652] Validation loss: 0.621 accuracy: 0.739 Qc: 0.735 Qh: 0.745 Qe: 0.736
+[653] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.742
+[653] Validation loss: 0.618 accuracy: 0.744 Qc: 0.736 Qh: 0.765 Qe: 0.715
+[654] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.740
+[654] Validation loss: 0.619 accuracy: 0.741 Qc: 0.731 Qh: 0.753 Qe: 0.731
+[655] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.738 Qh: 0.777 Qe: 0.741
+[655] Validation loss: 0.618 accuracy: 0.741 Qc: 0.718 Qh: 0.763 Qe: 0.731
+[656] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.742
+[656] Validation loss: 0.617 accuracy: 0.746 Qc: 0.729 Qh: 0.779 Qe: 0.703
+[657] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.741
+[657] Validation loss: 0.618 accuracy: 0.742 Qc: 0.731 Qh: 0.761 Qe: 0.721
+[658] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[658] Validation loss: 0.618 accuracy: 0.745 Qc: 0.725 Qh: 0.778 Qe: 0.707
+[659] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.741
+[659] Validation loss: 0.619 accuracy: 0.741 Qc: 0.735 Qh: 0.753 Qe: 0.726
+[660] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.740
+[660] Validation loss: 0.617 accuracy: 0.744 Qc: 0.731 Qh: 0.769 Qe: 0.714
+[661] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[661] Validation loss: 0.617 accuracy: 0.742 Qc: 0.724 Qh: 0.764 Qe: 0.724
+[662] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.741
+[662] Validation loss: 0.617 accuracy: 0.744 Qc: 0.725 Qh: 0.773 Qe: 0.713
+[663] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.776 Qe: 0.743
+[663] Validation loss: 0.618 accuracy: 0.745 Qc: 0.719 Qh: 0.787 Qe: 0.700
+[664] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.739
+[664] Validation loss: 0.617 accuracy: 0.744 Qc: 0.716 Qh: 0.779 Qe: 0.715
+[665] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.743
+[665] Validation loss: 0.618 accuracy: 0.745 Qc: 0.711 Qh: 0.791 Qe: 0.704
+[666] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.740
+[666] Validation loss: 0.621 accuracy: 0.737 Qc: 0.721 Qh: 0.745 Qe: 0.749
+[667] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.740
+[667] Validation loss: 0.618 accuracy: 0.742 Qc: 0.728 Qh: 0.761 Qe: 0.727
+[668] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.741
+[668] Validation loss: 0.617 accuracy: 0.742 Qc: 0.731 Qh: 0.760 Qe: 0.726
+[669] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.778 Qe: 0.742
+[669] Validation loss: 0.618 accuracy: 0.744 Qc: 0.732 Qh: 0.767 Qe: 0.713
+[670] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[670] Validation loss: 0.618 accuracy: 0.742 Qc: 0.725 Qh: 0.767 Qe: 0.721
+[671] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.777 Qe: 0.744
+[671] Validation loss: 0.618 accuracy: 0.747 Qc: 0.715 Qh: 0.800 Qe: 0.689
+[672] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.779 Qe: 0.739
+[672] Validation loss: 0.619 accuracy: 0.743 Qc: 0.728 Qh: 0.766 Qe: 0.716
+[673] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.740
+[673] Validation loss: 0.620 accuracy: 0.739 Qc: 0.728 Qh: 0.748 Qe: 0.738
+[674] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.742
+[674] Validation loss: 0.617 accuracy: 0.745 Qc: 0.732 Qh: 0.774 Qe: 0.706
+[675] Training loss: 0.596 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.740
+[675] Validation loss: 0.617 accuracy: 0.743 Qc: 0.728 Qh: 0.767 Qe: 0.720
+[676] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.741
+[676] Validation loss: 0.618 accuracy: 0.741 Qc: 0.722 Qh: 0.762 Qe: 0.731
+[677] Training loss: 0.594 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.742
+[677] Validation loss: 0.617 accuracy: 0.742 Qc: 0.727 Qh: 0.762 Qe: 0.724
+[678] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.738
+[678] Validation loss: 0.617 accuracy: 0.742 Qc: 0.717 Qh: 0.771 Qe: 0.725
+[679] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.777 Qe: 0.741
+[679] Validation loss: 0.618 accuracy: 0.744 Qc: 0.729 Qh: 0.770 Qe: 0.713
+[680] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.741
+[680] Validation loss: 0.618 accuracy: 0.742 Qc: 0.708 Qh: 0.780 Qe: 0.719
+[681] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.780 Qe: 0.740
+[681] Validation loss: 0.618 accuracy: 0.742 Qc: 0.736 Qh: 0.757 Qe: 0.724
+[682] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.739
+[682] Validation loss: 0.620 accuracy: 0.739 Qc: 0.713 Qh: 0.758 Qe: 0.741
+[683] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.780 Qe: 0.740
+[683] Validation loss: 0.617 accuracy: 0.743 Qc: 0.717 Qh: 0.773 Qe: 0.721
+[684] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[684] Validation loss: 0.618 accuracy: 0.742 Qc: 0.716 Qh: 0.773 Qe: 0.721
+[685] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.778 Qe: 0.739
+[685] Validation loss: 0.617 accuracy: 0.741 Qc: 0.713 Qh: 0.771 Qe: 0.727
+[686] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.740
+[686] Validation loss: 0.617 accuracy: 0.743 Qc: 0.724 Qh: 0.773 Qe: 0.715
+[687] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.744
+[687] Validation loss: 0.616 accuracy: 0.746 Qc: 0.728 Qh: 0.782 Qe: 0.701
+[688] Training loss: 0.595 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.781 Qe: 0.737
+[688] Validation loss: 0.617 accuracy: 0.743 Qc: 0.723 Qh: 0.770 Qe: 0.720
+[689] Training loss: 0.594 accuracy (Q3): 0.754 Qc: 0.739 Qh: 0.775 Qe: 0.743
+[689] Validation loss: 0.616 accuracy: 0.745 Qc: 0.718 Qh: 0.784 Qe: 0.709
+[690] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.743
+[690] Validation loss: 0.619 accuracy: 0.740 Qc: 0.719 Qh: 0.759 Qe: 0.736
+[691] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.780 Qe: 0.739
+[691] Validation loss: 0.618 accuracy: 0.746 Qc: 0.716 Qh: 0.792 Qe: 0.699
+[692] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.740
+[692] Validation loss: 0.617 accuracy: 0.744 Qc: 0.729 Qh: 0.768 Qe: 0.715
+[693] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.741
+[693] Validation loss: 0.618 accuracy: 0.742 Qc: 0.733 Qh: 0.759 Qe: 0.721
+[694] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[694] Validation loss: 0.617 accuracy: 0.741 Qc: 0.721 Qh: 0.763 Qe: 0.730
+[695] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[695] Validation loss: 0.618 accuracy: 0.742 Qc: 0.731 Qh: 0.758 Qe: 0.727
+[696] Training loss: 0.594 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[696] Validation loss: 0.617 accuracy: 0.745 Qc: 0.720 Qh: 0.783 Qe: 0.708
+[697] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.743
+[697] Validation loss: 0.619 accuracy: 0.743 Qc: 0.736 Qh: 0.763 Qe: 0.713
+[698] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.739
+[698] Validation loss: 0.618 accuracy: 0.743 Qc: 0.731 Qh: 0.761 Qe: 0.720
+[699] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.740
+[699] Validation loss: 0.618 accuracy: 0.743 Qc: 0.739 Qh: 0.756 Qe: 0.721
+[700] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.742
+[700] Validation loss: 0.619 accuracy: 0.739 Qc: 0.731 Qh: 0.749 Qe: 0.735
+[701] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.742
+[701] Validation loss: 0.619 accuracy: 0.739 Qc: 0.722 Qh: 0.752 Qe: 0.741
+[702] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.740
+[702] Validation loss: 0.618 accuracy: 0.743 Qc: 0.738 Qh: 0.756 Qe: 0.721
+[703] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.776 Qe: 0.743
+[703] Validation loss: 0.617 accuracy: 0.743 Qc: 0.726 Qh: 0.769 Qe: 0.718
+[704] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[704] Validation loss: 0.617 accuracy: 0.743 Qc: 0.715 Qh: 0.775 Qe: 0.722
+[705] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.740
+[705] Validation loss: 0.617 accuracy: 0.745 Qc: 0.717 Qh: 0.784 Qe: 0.711
+[706] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.744
+[706] Validation loss: 0.617 accuracy: 0.746 Qc: 0.722 Qh: 0.787 Qe: 0.699
+[707] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.739
+[707] Validation loss: 0.617 accuracy: 0.742 Qc: 0.722 Qh: 0.765 Qe: 0.729
+[708] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.742
+[708] Validation loss: 0.617 accuracy: 0.744 Qc: 0.718 Qh: 0.781 Qe: 0.711
+[709] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[709] Validation loss: 0.617 accuracy: 0.744 Qc: 0.723 Qh: 0.774 Qe: 0.715
+[710] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.740
+[710] Validation loss: 0.622 accuracy: 0.736 Qc: 0.714 Qh: 0.746 Qe: 0.754
+[711] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.744
+[711] Validation loss: 0.616 accuracy: 0.745 Qc: 0.721 Qh: 0.782 Qe: 0.709
+[712] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.780 Qe: 0.740
+[712] Validation loss: 0.619 accuracy: 0.740 Qc: 0.724 Qh: 0.759 Qe: 0.728
+[713] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.740
+[713] Validation loss: 0.621 accuracy: 0.737 Qc: 0.729 Qh: 0.740 Qe: 0.747
+[714] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.741
+[714] Validation loss: 0.619 accuracy: 0.740 Qc: 0.725 Qh: 0.754 Qe: 0.735
+[715] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.743
+[715] Validation loss: 0.617 accuracy: 0.744 Qc: 0.718 Qh: 0.777 Qe: 0.717
+[716] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.781 Qe: 0.740
+[716] Validation loss: 0.617 accuracy: 0.742 Qc: 0.733 Qh: 0.758 Qe: 0.725
+[717] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.778 Qe: 0.741
+[717] Validation loss: 0.616 accuracy: 0.744 Qc: 0.726 Qh: 0.772 Qe: 0.715
+[718] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.776 Qe: 0.744
+[718] Validation loss: 0.617 accuracy: 0.742 Qc: 0.719 Qh: 0.769 Qe: 0.726
+[719] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.779 Qe: 0.742
+[719] Validation loss: 0.617 accuracy: 0.744 Qc: 0.739 Qh: 0.761 Qe: 0.713
+[720] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.779 Qe: 0.738
+[720] Validation loss: 0.618 accuracy: 0.741 Qc: 0.727 Qh: 0.757 Qe: 0.731
+[721] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.775 Qe: 0.744
+[721] Validation loss: 0.618 accuracy: 0.743 Qc: 0.719 Qh: 0.773 Qe: 0.721
+[722] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.780 Qe: 0.740
+[722] Validation loss: 0.616 accuracy: 0.745 Qc: 0.726 Qh: 0.773 Qe: 0.715
+[723] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[723] Validation loss: 0.616 accuracy: 0.743 Qc: 0.714 Qh: 0.777 Qe: 0.722
+[724] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.780 Qe: 0.741
+[724] Validation loss: 0.616 accuracy: 0.746 Qc: 0.721 Qh: 0.786 Qe: 0.703
+[725] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[725] Validation loss: 0.617 accuracy: 0.745 Qc: 0.725 Qh: 0.775 Qe: 0.713
+[726] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.741
+[726] Validation loss: 0.616 accuracy: 0.745 Qc: 0.720 Qh: 0.780 Qe: 0.711
+[727] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.742
+[727] Validation loss: 0.616 accuracy: 0.746 Qc: 0.710 Qh: 0.792 Qe: 0.705
+[728] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.742
+[728] Validation loss: 0.618 accuracy: 0.745 Qc: 0.733 Qh: 0.777 Qe: 0.699
+[729] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.741
+[729] Validation loss: 0.616 accuracy: 0.746 Qc: 0.730 Qh: 0.776 Qe: 0.708
+[730] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.780 Qe: 0.739
+[730] Validation loss: 0.617 accuracy: 0.741 Qc: 0.720 Qh: 0.765 Qe: 0.729
+[731] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.777 Qe: 0.743
+[731] Validation loss: 0.616 accuracy: 0.743 Qc: 0.712 Qh: 0.780 Qe: 0.719
+[732] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.742
+[732] Validation loss: 0.619 accuracy: 0.741 Qc: 0.736 Qh: 0.751 Qe: 0.726
+[733] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.740
+[733] Validation loss: 0.616 accuracy: 0.745 Qc: 0.721 Qh: 0.780 Qe: 0.712
+[734] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[734] Validation loss: 0.616 accuracy: 0.742 Qc: 0.723 Qh: 0.766 Qe: 0.726
+[735] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[735] Validation loss: 0.616 accuracy: 0.744 Qc: 0.719 Qh: 0.776 Qe: 0.717
+[736] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.740
+[736] Validation loss: 0.617 accuracy: 0.741 Qc: 0.723 Qh: 0.760 Qe: 0.734
+[737] Training loss: 0.595 accuracy (Q3): 0.754 Qc: 0.737 Qh: 0.777 Qe: 0.742
+[737] Validation loss: 0.616 accuracy: 0.745 Qc: 0.722 Qh: 0.782 Qe: 0.706
+[738] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.776 Qe: 0.743
+[738] Validation loss: 0.617 accuracy: 0.741 Qc: 0.716 Qh: 0.767 Qe: 0.731
+[739] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.741
+[739] Validation loss: 0.617 accuracy: 0.744 Qc: 0.714 Qh: 0.784 Qe: 0.712
+[740] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.779 Qe: 0.741
+[740] Validation loss: 0.617 accuracy: 0.741 Qc: 0.723 Qh: 0.760 Qe: 0.733
+[741] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.741
+[741] Validation loss: 0.616 accuracy: 0.744 Qc: 0.724 Qh: 0.774 Qe: 0.716
+[742] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.741
+[742] Validation loss: 0.617 accuracy: 0.742 Qc: 0.721 Qh: 0.768 Qe: 0.725
+[743] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.776 Qe: 0.743
+[743] Validation loss: 0.617 accuracy: 0.744 Qc: 0.728 Qh: 0.771 Qe: 0.714
+[744] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.742
+[744] Validation loss: 0.617 accuracy: 0.742 Qc: 0.725 Qh: 0.763 Qe: 0.727
+[745] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[745] Validation loss: 0.617 accuracy: 0.743 Qc: 0.713 Qh: 0.777 Qe: 0.722
+[746] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.742
+[746] Validation loss: 0.618 accuracy: 0.741 Qc: 0.715 Qh: 0.770 Qe: 0.727
+[747] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.742
+[747] Validation loss: 0.617 accuracy: 0.747 Qc: 0.721 Qh: 0.791 Qe: 0.695
+[748] Training loss: 0.594 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.739
+[748] Validation loss: 0.619 accuracy: 0.739 Qc: 0.720 Qh: 0.751 Qe: 0.746
+[749] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.742
+[749] Validation loss: 0.621 accuracy: 0.737 Qc: 0.721 Qh: 0.743 Qe: 0.752
+[750] Training loss: 0.594 accuracy (Q3): 0.754 Qc: 0.735 Qh: 0.778 Qe: 0.742
+[750] Validation loss: 0.617 accuracy: 0.747 Qc: 0.729 Qh: 0.786 Qe: 0.693
+[751] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.778 Qe: 0.741
+[751] Validation loss: 0.618 accuracy: 0.739 Qc: 0.712 Qh: 0.760 Qe: 0.741
+[752] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.744
+[752] Validation loss: 0.618 accuracy: 0.742 Qc: 0.731 Qh: 0.758 Qe: 0.727
+[753] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.780 Qe: 0.740
+[753] Validation loss: 0.615 accuracy: 0.744 Qc: 0.721 Qh: 0.774 Qe: 0.722
+[754] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[754] Validation loss: 0.617 accuracy: 0.744 Qc: 0.727 Qh: 0.771 Qe: 0.716
+[755] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[755] Validation loss: 0.616 accuracy: 0.744 Qc: 0.727 Qh: 0.770 Qe: 0.718
+[756] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.776 Qe: 0.743
+[756] Validation loss: 0.616 accuracy: 0.743 Qc: 0.717 Qh: 0.774 Qe: 0.723
+[757] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.780 Qe: 0.741
+[757] Validation loss: 0.616 accuracy: 0.744 Qc: 0.732 Qh: 0.769 Qe: 0.713
+[758] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.776 Qe: 0.742
+[758] Validation loss: 0.617 accuracy: 0.742 Qc: 0.727 Qh: 0.764 Qe: 0.725
+[759] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[759] Validation loss: 0.617 accuracy: 0.743 Qc: 0.738 Qh: 0.755 Qe: 0.722
+[760] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.742
+[760] Validation loss: 0.618 accuracy: 0.747 Qc: 0.713 Qh: 0.796 Qe: 0.698
+[761] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.744
+[761] Validation loss: 0.617 accuracy: 0.743 Qc: 0.719 Qh: 0.773 Qe: 0.722
+[762] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.739
+[762] Validation loss: 0.618 accuracy: 0.744 Qc: 0.729 Qh: 0.770 Qe: 0.713
+[763] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.741
+[763] Validation loss: 0.619 accuracy: 0.741 Qc: 0.742 Qh: 0.748 Qe: 0.725
+[764] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.742
+[764] Validation loss: 0.615 accuracy: 0.747 Qc: 0.727 Qh: 0.785 Qe: 0.701
+[765] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.741
+[765] Validation loss: 0.615 accuracy: 0.746 Qc: 0.720 Qh: 0.780 Qe: 0.715
+[766] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.738
+[766] Validation loss: 0.621 accuracy: 0.737 Qc: 0.724 Qh: 0.741 Qe: 0.750
+[767] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.776 Qe: 0.743
+[767] Validation loss: 0.618 accuracy: 0.741 Qc: 0.725 Qh: 0.758 Qe: 0.734
+[768] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[768] Validation loss: 0.617 accuracy: 0.743 Qc: 0.722 Qh: 0.770 Qe: 0.724
+[769] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.780 Qe: 0.741
+[769] Validation loss: 0.616 accuracy: 0.745 Qc: 0.734 Qh: 0.766 Qe: 0.716
+[770] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.742
+[770] Validation loss: 0.617 accuracy: 0.742 Qc: 0.722 Qh: 0.765 Qe: 0.727
+[771] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.742
+[771] Validation loss: 0.619 accuracy: 0.740 Qc: 0.724 Qh: 0.757 Qe: 0.731
+[772] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.743
+[772] Validation loss: 0.617 accuracy: 0.743 Qc: 0.729 Qh: 0.764 Qe: 0.724
+[773] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[773] Validation loss: 0.617 accuracy: 0.746 Qc: 0.730 Qh: 0.780 Qe: 0.702
+[774] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[774] Validation loss: 0.618 accuracy: 0.740 Qc: 0.724 Qh: 0.755 Qe: 0.737
+[775] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.779 Qe: 0.742
+[775] Validation loss: 0.617 accuracy: 0.747 Qc: 0.739 Qh: 0.779 Qe: 0.690
+[776] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.741
+[776] Validation loss: 0.616 accuracy: 0.744 Qc: 0.736 Qh: 0.763 Qe: 0.716
+[777] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.741
+[777] Validation loss: 0.617 accuracy: 0.742 Qc: 0.716 Qh: 0.771 Qe: 0.727
+[778] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.742
+[778] Validation loss: 0.616 accuracy: 0.745 Qc: 0.731 Qh: 0.772 Qe: 0.713
+[779] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[779] Validation loss: 0.615 accuracy: 0.745 Qc: 0.720 Qh: 0.781 Qe: 0.714
+[780] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.780 Qe: 0.742
+[780] Validation loss: 0.616 accuracy: 0.745 Qc: 0.734 Qh: 0.769 Qe: 0.711
+[781] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[781] Validation loss: 0.617 accuracy: 0.742 Qc: 0.709 Qh: 0.775 Qe: 0.727
+[782] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[782] Validation loss: 0.616 accuracy: 0.745 Qc: 0.719 Qh: 0.780 Qe: 0.713
+[783] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.742
+[783] Validation loss: 0.616 accuracy: 0.744 Qc: 0.732 Qh: 0.765 Qe: 0.720
+[784] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[784] Validation loss: 0.616 accuracy: 0.743 Qc: 0.730 Qh: 0.761 Qe: 0.726
+[785] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[785] Validation loss: 0.618 accuracy: 0.742 Qc: 0.739 Qh: 0.751 Qe: 0.725
+[786] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.778 Qe: 0.741
+[786] Validation loss: 0.618 accuracy: 0.740 Qc: 0.721 Qh: 0.756 Qe: 0.737
+[787] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[787] Validation loss: 0.616 accuracy: 0.743 Qc: 0.727 Qh: 0.763 Qe: 0.728
+[788] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.742
+[788] Validation loss: 0.616 accuracy: 0.746 Qc: 0.733 Qh: 0.773 Qe: 0.708
+[789] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.740
+[789] Validation loss: 0.616 accuracy: 0.746 Qc: 0.726 Qh: 0.779 Qe: 0.711
+[790] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.778 Qe: 0.741
+[790] Validation loss: 0.616 accuracy: 0.743 Qc: 0.739 Qh: 0.754 Qe: 0.724
+[791] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.743
+[791] Validation loss: 0.617 accuracy: 0.746 Qc: 0.727 Qh: 0.784 Qe: 0.698
+[792] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[792] Validation loss: 0.617 accuracy: 0.743 Qc: 0.722 Qh: 0.772 Qe: 0.721
+[793] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[793] Validation loss: 0.617 accuracy: 0.743 Qc: 0.730 Qh: 0.763 Qe: 0.720
+[794] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[794] Validation loss: 0.617 accuracy: 0.741 Qc: 0.723 Qh: 0.761 Qe: 0.730
+[795] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.743
+[795] Validation loss: 0.618 accuracy: 0.742 Qc: 0.738 Qh: 0.754 Qe: 0.723
+[796] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.739
+[796] Validation loss: 0.616 accuracy: 0.742 Qc: 0.721 Qh: 0.765 Qe: 0.730
+[797] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.776 Qe: 0.743
+[797] Validation loss: 0.618 accuracy: 0.739 Qc: 0.709 Qh: 0.764 Qe: 0.741
+[798] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.740
+[798] Validation loss: 0.616 accuracy: 0.745 Qc: 0.726 Qh: 0.773 Qe: 0.716
+[799] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.743
+[799] Validation loss: 0.616 accuracy: 0.747 Qc: 0.725 Qh: 0.783 Qe: 0.705
+[800] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[800] Validation loss: 0.617 accuracy: 0.741 Qc: 0.704 Qh: 0.773 Qe: 0.736
+[801] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.742
+[801] Validation loss: 0.616 accuracy: 0.745 Qc: 0.706 Qh: 0.793 Qe: 0.711
+[802] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.741
+[802] Validation loss: 0.617 accuracy: 0.741 Qc: 0.713 Qh: 0.766 Qe: 0.735
+[803] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.741
+[803] Validation loss: 0.618 accuracy: 0.739 Qc: 0.726 Qh: 0.752 Qe: 0.736
+[804] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.740 Qh: 0.778 Qe: 0.741
+[804] Validation loss: 0.618 accuracy: 0.740 Qc: 0.726 Qh: 0.755 Qe: 0.734
+[805] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.744
+[805] Validation loss: 0.616 accuracy: 0.746 Qc: 0.729 Qh: 0.775 Qe: 0.708
+[806] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.742
+[806] Validation loss: 0.616 accuracy: 0.746 Qc: 0.727 Qh: 0.778 Qe: 0.708
+[807] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.743
+[807] Validation loss: 0.616 accuracy: 0.745 Qc: 0.724 Qh: 0.779 Qe: 0.710
+[808] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.740
+[808] Validation loss: 0.617 accuracy: 0.745 Qc: 0.712 Qh: 0.788 Qe: 0.711
+[809] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[809] Validation loss: 0.616 accuracy: 0.745 Qc: 0.722 Qh: 0.779 Qe: 0.712
+[810] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.739
+[810] Validation loss: 0.616 accuracy: 0.743 Qc: 0.726 Qh: 0.767 Qe: 0.723
+[811] Training loss: 0.594 accuracy (Q3): 0.754 Qc: 0.736 Qh: 0.778 Qe: 0.741
+[811] Validation loss: 0.616 accuracy: 0.744 Qc: 0.718 Qh: 0.776 Qe: 0.719
+[812] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[812] Validation loss: 0.617 accuracy: 0.743 Qc: 0.726 Qh: 0.763 Qe: 0.728
+[813] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.741
+[813] Validation loss: 0.617 accuracy: 0.743 Qc: 0.738 Qh: 0.757 Qe: 0.719
+[814] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.743
+[814] Validation loss: 0.617 accuracy: 0.745 Qc: 0.713 Qh: 0.786 Qe: 0.712
+[815] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.743
+[815] Validation loss: 0.617 accuracy: 0.742 Qc: 0.715 Qh: 0.770 Qe: 0.728
+[816] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.781 Qe: 0.741
+[816] Validation loss: 0.617 accuracy: 0.744 Qc: 0.744 Qh: 0.757 Qe: 0.715
+[817] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.742
+[817] Validation loss: 0.617 accuracy: 0.742 Qc: 0.714 Qh: 0.771 Qe: 0.730
+[818] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.742
+[818] Validation loss: 0.616 accuracy: 0.743 Qc: 0.721 Qh: 0.769 Qe: 0.726
+[819] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.780 Qe: 0.740
+[819] Validation loss: 0.617 accuracy: 0.742 Qc: 0.723 Qh: 0.762 Qe: 0.730
+[820] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.742
+[820] Validation loss: 0.617 accuracy: 0.739 Qc: 0.721 Qh: 0.755 Qe: 0.743
+[821] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.778 Qe: 0.743
+[821] Validation loss: 0.617 accuracy: 0.744 Qc: 0.728 Qh: 0.770 Qe: 0.718
+[822] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.779 Qe: 0.739
+[822] Validation loss: 0.617 accuracy: 0.743 Qc: 0.719 Qh: 0.772 Qe: 0.724
+[823] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.743
+[823] Validation loss: 0.616 accuracy: 0.744 Qc: 0.716 Qh: 0.779 Qe: 0.719
+[824] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.740
+[824] Validation loss: 0.615 accuracy: 0.745 Qc: 0.730 Qh: 0.771 Qe: 0.714
+[825] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.742
+[825] Validation loss: 0.615 accuracy: 0.744 Qc: 0.725 Qh: 0.768 Qe: 0.725
+[826] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.780 Qe: 0.742
+[826] Validation loss: 0.617 accuracy: 0.740 Qc: 0.719 Qh: 0.757 Qe: 0.739
+[827] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.776 Qe: 0.744
+[827] Validation loss: 0.615 accuracy: 0.747 Qc: 0.719 Qh: 0.787 Qe: 0.707
+[828] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.741
+[828] Validation loss: 0.617 accuracy: 0.744 Qc: 0.731 Qh: 0.767 Qe: 0.718
+[829] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.778 Qe: 0.742
+[829] Validation loss: 0.617 accuracy: 0.745 Qc: 0.721 Qh: 0.780 Qe: 0.712
+[830] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.744
+[830] Validation loss: 0.616 accuracy: 0.744 Qc: 0.722 Qh: 0.772 Qe: 0.723
+[831] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.780 Qe: 0.742
+[831] Validation loss: 0.617 accuracy: 0.742 Qc: 0.741 Qh: 0.753 Qe: 0.722
+[832] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.742
+[832] Validation loss: 0.616 accuracy: 0.745 Qc: 0.729 Qh: 0.774 Qe: 0.709
+[833] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.780 Qe: 0.741
+[833] Validation loss: 0.615 accuracy: 0.747 Qc: 0.736 Qh: 0.778 Qe: 0.699
+[834] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.742
+[834] Validation loss: 0.616 accuracy: 0.743 Qc: 0.727 Qh: 0.761 Qe: 0.729
+[835] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.780 Qe: 0.741
+[835] Validation loss: 0.618 accuracy: 0.739 Qc: 0.728 Qh: 0.748 Qe: 0.742
+[836] Training loss: 0.594 accuracy (Q3): 0.754 Qc: 0.738 Qh: 0.776 Qe: 0.743
+[836] Validation loss: 0.616 accuracy: 0.745 Qc: 0.729 Qh: 0.772 Qe: 0.713
+[837] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.740
+[837] Validation loss: 0.616 accuracy: 0.745 Qc: 0.723 Qh: 0.776 Qe: 0.715
+[838] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.742
+[838] Validation loss: 0.615 accuracy: 0.744 Qc: 0.714 Qh: 0.777 Qe: 0.726
+[839] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.779 Qe: 0.742
+[839] Validation loss: 0.616 accuracy: 0.745 Qc: 0.731 Qh: 0.770 Qe: 0.713
+[840] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[840] Validation loss: 0.616 accuracy: 0.745 Qc: 0.718 Qh: 0.781 Qe: 0.713
+[841] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.742
+[841] Validation loss: 0.616 accuracy: 0.746 Qc: 0.721 Qh: 0.786 Qe: 0.704
+[842] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.781 Qe: 0.739
+[842] Validation loss: 0.615 accuracy: 0.744 Qc: 0.729 Qh: 0.767 Qe: 0.720
+[843] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[843] Validation loss: 0.616 accuracy: 0.743 Qc: 0.730 Qh: 0.762 Qe: 0.724
+[844] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.744
+[844] Validation loss: 0.615 accuracy: 0.744 Qc: 0.721 Qh: 0.775 Qe: 0.720
+[845] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.741
+[845] Validation loss: 0.616 accuracy: 0.743 Qc: 0.720 Qh: 0.768 Qe: 0.728
+[846] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[846] Validation loss: 0.616 accuracy: 0.743 Qc: 0.722 Qh: 0.769 Qe: 0.724
+[847] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.740
+[847] Validation loss: 0.616 accuracy: 0.744 Qc: 0.734 Qh: 0.767 Qe: 0.715
+[848] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.780 Qe: 0.741
+[848] Validation loss: 0.615 accuracy: 0.746 Qc: 0.725 Qh: 0.781 Qe: 0.709
+[849] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.742
+[849] Validation loss: 0.616 accuracy: 0.742 Qc: 0.718 Qh: 0.768 Qe: 0.730
+[850] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.743
+[850] Validation loss: 0.617 accuracy: 0.742 Qc: 0.729 Qh: 0.755 Qe: 0.734
+[851] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.742
+[851] Validation loss: 0.619 accuracy: 0.739 Qc: 0.727 Qh: 0.746 Qe: 0.744
+[852] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[852] Validation loss: 0.616 accuracy: 0.743 Qc: 0.728 Qh: 0.765 Qe: 0.724
+[853] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.743
+[853] Validation loss: 0.616 accuracy: 0.744 Qc: 0.735 Qh: 0.762 Qe: 0.720
+[854] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.742
+[854] Validation loss: 0.616 accuracy: 0.747 Qc: 0.730 Qh: 0.781 Qe: 0.701
+[855] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.738
+[855] Validation loss: 0.618 accuracy: 0.739 Qc: 0.707 Qh: 0.765 Qe: 0.742
+[856] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.736 Qh: 0.777 Qe: 0.744
+[856] Validation loss: 0.615 accuracy: 0.744 Qc: 0.729 Qh: 0.763 Qe: 0.727
+[857] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.741
+[857] Validation loss: 0.618 accuracy: 0.742 Qc: 0.737 Qh: 0.752 Qe: 0.727
+[858] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.742
+[858] Validation loss: 0.617 accuracy: 0.740 Qc: 0.721 Qh: 0.755 Qe: 0.740
+[859] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.780 Qe: 0.742
+[859] Validation loss: 0.618 accuracy: 0.740 Qc: 0.731 Qh: 0.748 Qe: 0.738
+[860] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.776 Qe: 0.744
+[860] Validation loss: 0.616 accuracy: 0.746 Qc: 0.731 Qh: 0.778 Qe: 0.702
+[861] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.742
+[861] Validation loss: 0.616 accuracy: 0.741 Qc: 0.712 Qh: 0.767 Qe: 0.737
+[862] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.742
+[862] Validation loss: 0.616 accuracy: 0.745 Qc: 0.725 Qh: 0.775 Qe: 0.715
+[863] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[863] Validation loss: 0.615 accuracy: 0.746 Qc: 0.733 Qh: 0.775 Qe: 0.708
+[864] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[864] Validation loss: 0.618 accuracy: 0.739 Qc: 0.726 Qh: 0.749 Qe: 0.740
+[865] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.780 Qe: 0.742
+[865] Validation loss: 0.615 accuracy: 0.744 Qc: 0.725 Qh: 0.769 Qe: 0.722
+[866] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.740
+[866] Validation loss: 0.616 accuracy: 0.743 Qc: 0.731 Qh: 0.759 Qe: 0.727
+[867] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.743
+[867] Validation loss: 0.615 accuracy: 0.745 Qc: 0.727 Qh: 0.772 Qe: 0.718
+[868] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.744
+[868] Validation loss: 0.617 accuracy: 0.745 Qc: 0.724 Qh: 0.776 Qe: 0.712
+[869] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[869] Validation loss: 0.615 accuracy: 0.746 Qc: 0.723 Qh: 0.779 Qe: 0.714
+[870] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.742
+[870] Validation loss: 0.615 accuracy: 0.747 Qc: 0.726 Qh: 0.784 Qe: 0.702
+[871] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.741
+[871] Validation loss: 0.616 accuracy: 0.747 Qc: 0.724 Qh: 0.784 Qe: 0.704
+[872] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[872] Validation loss: 0.615 accuracy: 0.744 Qc: 0.722 Qh: 0.771 Qe: 0.724
+[873] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.780 Qe: 0.743
+[873] Validation loss: 0.616 accuracy: 0.744 Qc: 0.730 Qh: 0.767 Qe: 0.719
+[874] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.741
+[874] Validation loss: 0.618 accuracy: 0.742 Qc: 0.734 Qh: 0.757 Qe: 0.725
+[875] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[875] Validation loss: 0.616 accuracy: 0.745 Qc: 0.720 Qh: 0.776 Qe: 0.719
+[876] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.743
+[876] Validation loss: 0.615 accuracy: 0.745 Qc: 0.726 Qh: 0.775 Qe: 0.714
+[877] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.739
+[877] Validation loss: 0.616 accuracy: 0.743 Qc: 0.722 Qh: 0.767 Qe: 0.727
+[878] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.744
+[878] Validation loss: 0.617 accuracy: 0.742 Qc: 0.738 Qh: 0.750 Qe: 0.729
+[879] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.776 Qe: 0.744
+[879] Validation loss: 0.616 accuracy: 0.747 Qc: 0.727 Qh: 0.787 Qe: 0.695
+[880] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.780 Qe: 0.740
+[880] Validation loss: 0.616 accuracy: 0.744 Qc: 0.724 Qh: 0.770 Qe: 0.721
+[881] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.741
+[881] Validation loss: 0.615 accuracy: 0.746 Qc: 0.726 Qh: 0.780 Qe: 0.708
+[882] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[882] Validation loss: 0.616 accuracy: 0.745 Qc: 0.730 Qh: 0.774 Qe: 0.710
+[883] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.740
+[883] Validation loss: 0.617 accuracy: 0.740 Qc: 0.718 Qh: 0.759 Qe: 0.741
+[884] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.744
+[884] Validation loss: 0.616 accuracy: 0.745 Qc: 0.720 Qh: 0.778 Qe: 0.715
+[885] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.741
+[885] Validation loss: 0.615 accuracy: 0.744 Qc: 0.722 Qh: 0.770 Qe: 0.724
+[886] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[886] Validation loss: 0.616 accuracy: 0.743 Qc: 0.723 Qh: 0.766 Qe: 0.727
+[887] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.780 Qe: 0.741
+[887] Validation loss: 0.615 accuracy: 0.745 Qc: 0.728 Qh: 0.771 Qe: 0.718
+[888] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[888] Validation loss: 0.616 accuracy: 0.743 Qc: 0.723 Qh: 0.766 Qe: 0.727
+[889] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.742
+[889] Validation loss: 0.616 accuracy: 0.744 Qc: 0.731 Qh: 0.767 Qe: 0.719
+[890] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.778 Qe: 0.741
+[890] Validation loss: 0.618 accuracy: 0.741 Qc: 0.730 Qh: 0.751 Qe: 0.736
+[891] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.778 Qe: 0.743
+[891] Validation loss: 0.614 accuracy: 0.746 Qc: 0.732 Qh: 0.775 Qe: 0.710
+[892] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.740 Qh: 0.779 Qe: 0.741
+[892] Validation loss: 0.616 accuracy: 0.743 Qc: 0.728 Qh: 0.763 Qe: 0.728
+[893] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.779 Qe: 0.742
+[893] Validation loss: 0.615 accuracy: 0.745 Qc: 0.712 Qh: 0.783 Qe: 0.720
+[894] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.742
+[894] Validation loss: 0.618 accuracy: 0.742 Qc: 0.727 Qh: 0.761 Qe: 0.726
+[895] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.742
+[895] Validation loss: 0.616 accuracy: 0.745 Qc: 0.737 Qh: 0.765 Qe: 0.714
+[896] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.742
+[896] Validation loss: 0.615 accuracy: 0.744 Qc: 0.725 Qh: 0.769 Qe: 0.723
+[897] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.742
+[897] Validation loss: 0.615 accuracy: 0.746 Qc: 0.730 Qh: 0.774 Qe: 0.711
+[898] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[898] Validation loss: 0.615 accuracy: 0.746 Qc: 0.723 Qh: 0.784 Qe: 0.705
+[899] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.742
+[899] Validation loss: 0.617 accuracy: 0.748 Qc: 0.723 Qh: 0.794 Qe: 0.692
+[900] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.780 Qe: 0.740
+[900] Validation loss: 0.617 accuracy: 0.742 Qc: 0.727 Qh: 0.760 Qe: 0.729
+[901] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.742
+[901] Validation loss: 0.614 accuracy: 0.745 Qc: 0.724 Qh: 0.773 Qe: 0.720
+[902] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.742
+[902] Validation loss: 0.617 accuracy: 0.741 Qc: 0.716 Qh: 0.764 Qe: 0.736
+[903] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.744
+[903] Validation loss: 0.615 accuracy: 0.747 Qc: 0.730 Qh: 0.781 Qe: 0.702
+[904] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[904] Validation loss: 0.615 accuracy: 0.744 Qc: 0.720 Qh: 0.772 Qe: 0.722
+[905] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.741
+[905] Validation loss: 0.616 accuracy: 0.742 Qc: 0.709 Qh: 0.775 Qe: 0.729
+[906] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.743
+[906] Validation loss: 0.615 accuracy: 0.744 Qc: 0.729 Qh: 0.766 Qe: 0.722
+[907] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[907] Validation loss: 0.616 accuracy: 0.744 Qc: 0.727 Qh: 0.770 Qe: 0.718
+[908] Training loss: 0.591 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.743
+[908] Validation loss: 0.615 accuracy: 0.745 Qc: 0.732 Qh: 0.766 Qe: 0.720
+[909] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.780 Qe: 0.741
+[909] Validation loss: 0.619 accuracy: 0.739 Qc: 0.726 Qh: 0.750 Qe: 0.741
+[910] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.777 Qe: 0.743
+[910] Validation loss: 0.616 accuracy: 0.741 Qc: 0.714 Qh: 0.766 Qe: 0.737
+[911] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.743
+[911] Validation loss: 0.614 accuracy: 0.745 Qc: 0.724 Qh: 0.776 Qe: 0.715
+[912] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.740
+[912] Validation loss: 0.615 accuracy: 0.745 Qc: 0.726 Qh: 0.774 Qe: 0.716
+[913] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.780 Qe: 0.742
+[913] Validation loss: 0.617 accuracy: 0.742 Qc: 0.727 Qh: 0.759 Qe: 0.732
+[914] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.743
+[914] Validation loss: 0.616 accuracy: 0.745 Qc: 0.729 Qh: 0.771 Qe: 0.716
+[915] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.741
+[915] Validation loss: 0.616 accuracy: 0.742 Qc: 0.728 Qh: 0.761 Qe: 0.729
+[916] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.777 Qe: 0.743
+[916] Validation loss: 0.615 accuracy: 0.745 Qc: 0.734 Qh: 0.770 Qe: 0.713
+[917] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.742
+[917] Validation loss: 0.615 accuracy: 0.746 Qc: 0.723 Qh: 0.781 Qe: 0.709
+[918] Training loss: 0.591 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.742
+[918] Validation loss: 0.616 accuracy: 0.747 Qc: 0.715 Qh: 0.793 Qe: 0.703
+[919] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.741
+[919] Validation loss: 0.615 accuracy: 0.743 Qc: 0.726 Qh: 0.762 Qe: 0.732
+[920] Training loss: 0.591 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.777 Qe: 0.745
+[920] Validation loss: 0.617 accuracy: 0.744 Qc: 0.739 Qh: 0.761 Qe: 0.713
+[921] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.741
+[921] Validation loss: 0.616 accuracy: 0.743 Qc: 0.727 Qh: 0.762 Qe: 0.729
+[922] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.776 Qe: 0.745
+[922] Validation loss: 0.616 accuracy: 0.744 Qc: 0.732 Qh: 0.767 Qe: 0.718
+[923] Training loss: 0.591 accuracy (Q3): 0.757 Qc: 0.739 Qh: 0.780 Qe: 0.742
+[923] Validation loss: 0.615 accuracy: 0.747 Qc: 0.728 Qh: 0.781 Qe: 0.705
+[924] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.740
+[924] Validation loss: 0.617 accuracy: 0.740 Qc: 0.725 Qh: 0.751 Qe: 0.744
+[925] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.744
+[925] Validation loss: 0.615 accuracy: 0.743 Qc: 0.724 Qh: 0.763 Qe: 0.732
+[926] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.741
+[926] Validation loss: 0.618 accuracy: 0.739 Qc: 0.721 Qh: 0.752 Qe: 0.744
+[927] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.745
+[927] Validation loss: 0.616 accuracy: 0.744 Qc: 0.736 Qh: 0.762 Qe: 0.718
+[928] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[928] Validation loss: 0.615 accuracy: 0.747 Qc: 0.724 Qh: 0.787 Qe: 0.702
+[929] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.740
+[929] Validation loss: 0.615 accuracy: 0.742 Qc: 0.727 Qh: 0.760 Qe: 0.732
+[930] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.743
+[930] Validation loss: 0.616 accuracy: 0.748 Qc: 0.718 Qh: 0.797 Qe: 0.696
+[931] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.740
+[931] Validation loss: 0.615 accuracy: 0.745 Qc: 0.725 Qh: 0.773 Qe: 0.718
+[932] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.743
+[932] Validation loss: 0.617 accuracy: 0.742 Qc: 0.726 Qh: 0.758 Qe: 0.735
+[933] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[933] Validation loss: 0.617 accuracy: 0.741 Qc: 0.706 Qh: 0.772 Qe: 0.737
+[934] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.742
+[934] Validation loss: 0.618 accuracy: 0.740 Qc: 0.733 Qh: 0.749 Qe: 0.736
+[935] Training loss: 0.594 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.777 Qe: 0.744
+[935] Validation loss: 0.616 accuracy: 0.746 Qc: 0.731 Qh: 0.778 Qe: 0.701
+[936] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.777 Qe: 0.743
+[936] Validation loss: 0.615 accuracy: 0.747 Qc: 0.718 Qh: 0.787 Qe: 0.708
+[937] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[937] Validation loss: 0.616 accuracy: 0.747 Qc: 0.726 Qh: 0.787 Qe: 0.697
+[938] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.742
+[938] Validation loss: 0.615 accuracy: 0.745 Qc: 0.729 Qh: 0.774 Qe: 0.712
+[939] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.778 Qe: 0.744
+[939] Validation loss: 0.615 accuracy: 0.747 Qc: 0.722 Qh: 0.787 Qe: 0.702
+[940] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.780 Qe: 0.740
+[940] Validation loss: 0.616 accuracy: 0.741 Qc: 0.718 Qh: 0.764 Qe: 0.735
+[941] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.742
+[941] Validation loss: 0.615 accuracy: 0.744 Qc: 0.721 Qh: 0.774 Qe: 0.722
+[942] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.741
+[942] Validation loss: 0.616 accuracy: 0.743 Qc: 0.729 Qh: 0.764 Qe: 0.725
+[943] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.776 Qe: 0.743
+[943] Validation loss: 0.615 accuracy: 0.745 Qc: 0.719 Qh: 0.780 Qe: 0.716
+[944] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.741
+[944] Validation loss: 0.616 accuracy: 0.743 Qc: 0.728 Qh: 0.761 Qe: 0.729
+[945] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.743
+[945] Validation loss: 0.616 accuracy: 0.744 Qc: 0.723 Qh: 0.774 Qe: 0.717
+[946] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.741
+[946] Validation loss: 0.617 accuracy: 0.742 Qc: 0.728 Qh: 0.757 Qe: 0.734
+[947] Training loss: 0.591 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.743
+[947] Validation loss: 0.615 accuracy: 0.743 Qc: 0.726 Qh: 0.764 Qe: 0.729
+[948] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.742
+[948] Validation loss: 0.615 accuracy: 0.746 Qc: 0.729 Qh: 0.774 Qe: 0.713
+[949] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.781 Qe: 0.740
+[949] Validation loss: 0.616 accuracy: 0.741 Qc: 0.721 Qh: 0.760 Qe: 0.736
+[950] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.742
+[950] Validation loss: 0.615 accuracy: 0.745 Qc: 0.725 Qh: 0.774 Qe: 0.719
+[951] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.743
+[951] Validation loss: 0.615 accuracy: 0.746 Qc: 0.723 Qh: 0.781 Qe: 0.710
+[952] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.781 Qe: 0.741
+[952] Validation loss: 0.618 accuracy: 0.741 Qc: 0.734 Qh: 0.749 Qe: 0.736
+[953] Training loss: 0.591 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.742
+[953] Validation loss: 0.614 accuracy: 0.746 Qc: 0.732 Qh: 0.773 Qe: 0.714
+[954] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[954] Validation loss: 0.615 accuracy: 0.745 Qc: 0.728 Qh: 0.772 Qe: 0.715
+[955] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[955] Validation loss: 0.616 accuracy: 0.746 Qc: 0.708 Qh: 0.795 Qe: 0.706
+[956] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.741
+[956] Validation loss: 0.615 accuracy: 0.744 Qc: 0.714 Qh: 0.778 Qe: 0.728
+[957] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.742
+[957] Validation loss: 0.616 accuracy: 0.743 Qc: 0.732 Qh: 0.760 Qe: 0.725
+[958] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.777 Qe: 0.744
+[958] Validation loss: 0.615 accuracy: 0.744 Qc: 0.731 Qh: 0.764 Qe: 0.723
+[959] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.744
+[959] Validation loss: 0.616 accuracy: 0.749 Qc: 0.722 Qh: 0.797 Qe: 0.690
+[960] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.781 Qe: 0.742
+[960] Validation loss: 0.615 accuracy: 0.746 Qc: 0.724 Qh: 0.782 Qe: 0.707
+[961] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.779 Qe: 0.742
+[961] Validation loss: 0.615 accuracy: 0.746 Qc: 0.729 Qh: 0.775 Qe: 0.711
+[962] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.740
+[962] Validation loss: 0.614 accuracy: 0.745 Qc: 0.728 Qh: 0.774 Qe: 0.713
+[963] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.742
+[963] Validation loss: 0.616 accuracy: 0.742 Qc: 0.717 Qh: 0.767 Qe: 0.733
+[964] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.743
+[964] Validation loss: 0.616 accuracy: 0.743 Qc: 0.719 Qh: 0.768 Qe: 0.731
+[965] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.778 Qe: 0.743
+[965] Validation loss: 0.615 accuracy: 0.745 Qc: 0.721 Qh: 0.776 Qe: 0.719
+[966] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.780 Qe: 0.742
+[966] Validation loss: 0.615 accuracy: 0.744 Qc: 0.713 Qh: 0.775 Qe: 0.730
+[967] Training loss: 0.591 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.743
+[967] Validation loss: 0.616 accuracy: 0.746 Qc: 0.741 Qh: 0.767 Qe: 0.706
+[968] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.780 Qe: 0.742
+[968] Validation loss: 0.615 accuracy: 0.746 Qc: 0.720 Qh: 0.781 Qe: 0.714
+[969] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.739 Qh: 0.777 Qe: 0.743
+[969] Validation loss: 0.614 accuracy: 0.746 Qc: 0.725 Qh: 0.780 Qe: 0.708
+[970] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.741
+[970] Validation loss: 0.616 accuracy: 0.742 Qc: 0.717 Qh: 0.767 Qe: 0.735
+[971] Training loss: 0.591 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.780 Qe: 0.741
+[971] Validation loss: 0.615 accuracy: 0.746 Qc: 0.726 Qh: 0.776 Qe: 0.714
+[972] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.741
+[972] Validation loss: 0.615 accuracy: 0.746 Qc: 0.726 Qh: 0.776 Qe: 0.717
+[973] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[973] Validation loss: 0.616 accuracy: 0.745 Qc: 0.727 Qh: 0.777 Qe: 0.711
+[974] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.780 Qe: 0.741
+[974] Validation loss: 0.616 accuracy: 0.744 Qc: 0.738 Qh: 0.758 Qe: 0.721
+[975] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.737 Qh: 0.778 Qe: 0.743
+[975] Validation loss: 0.616 accuracy: 0.743 Qc: 0.717 Qh: 0.769 Qe: 0.731
+[976] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.740
+[976] Validation loss: 0.614 accuracy: 0.746 Qc: 0.727 Qh: 0.777 Qe: 0.712
+[977] Training loss: 0.592 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[977] Validation loss: 0.615 accuracy: 0.744 Qc: 0.721 Qh: 0.772 Qe: 0.725
+[978] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[978] Validation loss: 0.615 accuracy: 0.744 Qc: 0.731 Qh: 0.764 Qe: 0.722
+[979] Training loss: 0.593 accuracy (Q3): 0.755 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[979] Validation loss: 0.615 accuracy: 0.745 Qc: 0.726 Qh: 0.771 Qe: 0.720
+[980] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.742
+[980] Validation loss: 0.617 accuracy: 0.741 Qc: 0.730 Qh: 0.754 Qe: 0.736
+[981] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.744
+[981] Validation loss: 0.617 accuracy: 0.740 Qc: 0.720 Qh: 0.756 Qe: 0.742
+[982] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.742
+[982] Validation loss: 0.617 accuracy: 0.746 Qc: 0.717 Qh: 0.788 Qe: 0.703
+[983] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.742
+[983] Validation loss: 0.615 accuracy: 0.743 Qc: 0.718 Qh: 0.771 Qe: 0.728
+[984] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.743
+[984] Validation loss: 0.616 accuracy: 0.741 Qc: 0.721 Qh: 0.758 Qe: 0.739
+[985] Training loss: 0.593 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.742
+[985] Validation loss: 0.616 accuracy: 0.746 Qc: 0.723 Qh: 0.784 Qe: 0.705
+[986] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.780 Qe: 0.741
+[986] Validation loss: 0.616 accuracy: 0.746 Qc: 0.736 Qh: 0.769 Qe: 0.710
+[987] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.742
+[987] Validation loss: 0.617 accuracy: 0.739 Qc: 0.717 Qh: 0.753 Qe: 0.749
+[988] Training loss: 0.591 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.743
+[988] Validation loss: 0.616 accuracy: 0.742 Qc: 0.723 Qh: 0.764 Qe: 0.731
+[989] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.742
+[989] Validation loss: 0.617 accuracy: 0.742 Qc: 0.735 Qh: 0.753 Qe: 0.729
+[990] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.777 Qe: 0.743
+[990] Validation loss: 0.615 accuracy: 0.746 Qc: 0.732 Qh: 0.774 Qe: 0.709
+[991] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.741
+[991] Validation loss: 0.614 accuracy: 0.744 Qc: 0.721 Qh: 0.772 Qe: 0.725
+[992] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.778 Qe: 0.743
+[992] Validation loss: 0.614 accuracy: 0.748 Qc: 0.726 Qh: 0.787 Qe: 0.699
+[993] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.740
+[993] Validation loss: 0.615 accuracy: 0.746 Qc: 0.712 Qh: 0.792 Qe: 0.706
+[994] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.737 Qh: 0.779 Qe: 0.743
+[994] Validation loss: 0.616 accuracy: 0.742 Qc: 0.717 Qh: 0.768 Qe: 0.733
+[995] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.778 Qe: 0.741
+[995] Validation loss: 0.615 accuracy: 0.745 Qc: 0.728 Qh: 0.769 Qe: 0.722
+[996] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.779 Qe: 0.742
+[996] Validation loss: 0.615 accuracy: 0.746 Qc: 0.726 Qh: 0.777 Qe: 0.712
+[997] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.740 Qh: 0.779 Qe: 0.741
+[997] Validation loss: 0.615 accuracy: 0.746 Qc: 0.728 Qh: 0.778 Qe: 0.709
+[998] Training loss: 0.591 accuracy (Q3): 0.756 Qc: 0.738 Qh: 0.780 Qe: 0.742
+[998] Validation loss: 0.613 accuracy: 0.746 Qc: 0.728 Qh: 0.777 Qe: 0.711
+[999] Training loss: 0.591 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.742
+[999] Validation loss: 0.616 accuracy: 0.743 Qc: 0.726 Qh: 0.765 Qe: 0.726
+[1000] Training loss: 0.592 accuracy (Q3): 0.756 Qc: 0.739 Qh: 0.779 Qe: 0.741
+[1000] Validation loss: 0.616 accuracy: 0.743 Qc: 0.730 Qh: 0.758 Qe: 0.729
+TEST loss: 0.613 accuracy: 0.746 Qc: 0.728 Qh: 0.763 Qe: 0.741
